@@ -8,3 +8,5 @@ C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqW
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.exe
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.pdb
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.exe
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.pdb

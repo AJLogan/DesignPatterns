@@ -28,3 +28,8 @@ C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqS
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
 C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+C:\work\DesignPatterns\CourseProjects\CourseProjects\VisualStudioProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.csprojResolveAssemblyReference.cache
