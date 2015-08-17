@@ -11,13 +11,13 @@ namespace Demo1.Controllers
         //
         // GET: /Fred/
 
-        public ActionResult Index()
+        public ViewResult Index()
         {
             return View();
         }
-        public string Wilma()
+        public string Wilma(string username)
         {
-            return "<h1>Hello Flintstones</h1>";
+            return "<h1>Hello "+ username + "</h1>";
         }
 
     }
