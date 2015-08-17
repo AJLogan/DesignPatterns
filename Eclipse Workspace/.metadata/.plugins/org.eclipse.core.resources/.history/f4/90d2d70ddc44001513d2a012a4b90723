@@ -1,0 +1,7 @@
+package exercise.tdd.videostore.start;
+
+public class Statement {
+	public Statement(Customer customer) {
+	}
+
+}

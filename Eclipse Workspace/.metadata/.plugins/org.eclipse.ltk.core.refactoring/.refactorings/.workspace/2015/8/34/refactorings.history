@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 15 resources" deleteContents="true" description="Delete 15 resources" element1="/JSE - Concurrency Examples" element10="/OO - Design Patterns Examples" element11="/OO - Design Patterns Exercises" element12="/OO - Patterns In Open Source Libraries" element13="/TDD - Testing Swing GUIs" element14="/TDD - Unit Testing Examples" element15="/TDD - Unit Testing Exercises" element2="/JSE - Guava Examples" element3="/JSE - Java 6 Examples" element4="/JSE - Java 8 Materials" element5="/JSE - Java Language Examples" element6="/JSE - Java Language Exercises" element7="/JSE - Swing GUI Examples" element8="/JSE - Swing GUI Exercises" element9="/JWS - JavaUnitTests" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="15" stamp="1439808751166"/>
+</session>

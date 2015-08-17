@@ -1,0 +1,9 @@
+1439809679577	Rename local variable 'totalAmount'
+1439810792913	Delete element
+1439810819382	Extract Class...
+1439815125934	Delete element
+1439815202122	Extract method 'calcAmount'
+1439821258752	Extract method 'addHeaderLine'
+1439821360783	Extract method 'addBody'
+1439821375481	Extract method 'addFooterLines'
+1439821396763	Change method 'addBody'

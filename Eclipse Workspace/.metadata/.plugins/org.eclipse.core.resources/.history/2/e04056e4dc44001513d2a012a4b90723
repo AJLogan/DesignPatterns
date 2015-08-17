@@ -1,0 +1,12 @@
+package exercise.tdd.videostore.start;
+
+public class Statement {
+	public Statement(Customer customer) {
+		getStatement();
+		return;
+	}
+	
+	public getStatement(Customer customer){
+		String name = customer.getName();
+	}
+}

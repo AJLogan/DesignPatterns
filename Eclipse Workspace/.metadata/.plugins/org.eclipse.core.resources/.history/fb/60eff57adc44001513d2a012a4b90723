@@ -1,0 +1,24 @@
+/*
+ * This example adapted from 'Refactoring' by Martin Fowler
+ *  
+ */
+package exercise.tdd.videostore.start;
+
+import java.util.ArrayList;
+
+public class Customer {
+	private CustomerData data = new CustomerData(new ArrayList<Rental>());
+	public Customer(String name) {
+		this.data.customer = name;
+	}
+	public String getName() {
+		return data.customer;
+	}
+	public void addRental(Rental arg) {
+		data.rentals.add(arg);
+	}
+	public String getStatement(Customer customer) {
+		Statement s = new Statement();
+		return s.toString();
+	}
+}

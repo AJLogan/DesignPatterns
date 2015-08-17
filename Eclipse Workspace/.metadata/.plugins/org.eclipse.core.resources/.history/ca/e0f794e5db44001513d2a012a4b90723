@@ -1,0 +1,8 @@
+package exercise.tdd.videostore.start;
+
+public class Statement {
+	public Statement(CustomerData data) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

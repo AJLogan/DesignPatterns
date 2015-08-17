@@ -24,10 +24,7 @@ public class Customer {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
         StringBuilder result = new StringBuilder();
-        //add header lines
-        result.append("\nRental Record for ");
-        result.append(getName());
-        result.append("\n");
+        addHeaderLine(result);
         for (Rental each : rentals) {
             double thisAmount = calcAmount(each);
             // add frequent renter points
@@ -36,26 +33,36 @@ public class Customer {
             if ((each.getMovie().getPriceCode() == NEW_RELEASE)
                     && each.getDaysRented() > 1)
                 frequentRenterPoints++;
-            //show figures for this rental
-            result.append("\t");
-            result.append(each.getDaysRented());
-            result.append("\t");
-            result.append(each.getMovie().getTitle());
-            result.append("\t");
-            result.append(thisAmount);
-            result.append("\n");
+            addStatementBody(result, each, thisAmount);
             //add cost of this rental to total cost
             totalAmount += thisAmount;
         }
-        //add footer lines
-        result.append("Amount owed is ");
+        addFooterLines(totalAmount, frequentRenterPoints, result);
+        return result.toString();
+    }
+	private void addFooterLines(double totalAmount, int frequentRenterPoints,
+			StringBuilder result) {
+		result.append("Amount owed is ");
         result.append(totalAmount);
         result.append("\n");
         result.append("You earned ");
         result.append(frequentRenterPoints);
         result.append(" frequent renter points\n");
-        return result.toString();
-    }
+	}
+	private void addStatementBody(StringBuilder result, Rental each, double thisAmount) {
+		result.append("\t");
+		result.append(each.getDaysRented());
+		result.append("\t");
+		result.append(each.getMovie().getTitle());
+		result.append("\t");
+		result.append(thisAmount);
+		result.append("\n");
+	}
+	private void addHeaderLine(StringBuilder result) {
+		result.append("\nRental Record for ");
+        result.append(getName());
+        result.append("\n");
+	}
 	private double calcAmount(Rental each) {
 		double thisAmount = 0;
 		//determine amounts for each line
