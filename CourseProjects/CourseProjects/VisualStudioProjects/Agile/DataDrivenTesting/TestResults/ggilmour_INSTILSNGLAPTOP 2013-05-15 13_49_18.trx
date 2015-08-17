@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b74638f6-9d1d-42c4-9c3f-daf7a4ea9308" name="ggilmour@INSTILSNGLAPTOP 2013-05-15 13:49:18" runUser="InstilSngLaptop\ggilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="485879c6-563f-4449-9e13-f51cd5798057">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="ggilmour_INSTILSNGLAPTOP 2013-05-15 13_49_18" />
+  </TestSettings>
+  <Times creation="2013-05-15T13:49:18.8164179+01:00" queuing="2013-05-15T13:49:21.7845701+01:00" start="2013-05-15T13:49:21.9877002+01:00" finish="2013-05-15T13:49:44.0079779+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="INSTILSNGLAPTOP" outcome="Error" timestamp="2013-05-15T13:49:44.0059812+01:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DataDrivenTest" storage="c:\development\dotnet\fullyvs2010\courseprojects\agile\datadriventesting\writingdatadriventests\bin\debug\writingdatadriventests.dll" id="b029f1fb-f70d-6cb7-be99-82efd4f81ed6">
+      <DeploymentItems>
+        <DeploymentItem filename="WritingDataDrivenTests\TestData\Input.xml" />
+      </DeploymentItems>
+      <Execution id="674c82d2-2844-4cef-95f5-0746971627a5" />
+      <TestMethod codeBase="C:/Development/DotNet/FullyVS2010/CourseProjects/Agile/DataDrivenTesting/WritingDataDrivenTests/bin/Debug/WritingDataDrivenTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DataDrivenTesting.SampleTest, WritingDataDrivenTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DataDrivenTest" />
+      <DataSource connectionString="|DataDirectory|\Input.xml" providerInvariantName="Microsoft.VisualStudio.TestTools.DataSource.XML" tableName="Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" executionId="674c82d2-2844-4cef-95f5-0746971627a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="674c82d2-2844-4cef-95f5-0746971627a5" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:21.9222070" startTime="2013-05-15T13:49:22.0857709+01:00" endTime="2013-05-15T13:49:44.0079779+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="674c82d2-2844-4cef-95f5-0746971627a5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

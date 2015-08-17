@@ -1,0 +1,2 @@
+obj\Debug\OperatorOverloading.exe
+obj\Debug\OperatorOverloading.pdb

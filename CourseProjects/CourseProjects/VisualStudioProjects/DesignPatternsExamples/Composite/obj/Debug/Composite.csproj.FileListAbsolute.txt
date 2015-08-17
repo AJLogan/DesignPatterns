@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\bin\Debug\Composite.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\bin\Debug\Composite.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\bin\Debug\Composite.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\obj\Debug\Composite.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Composite\obj\Debug\Composite.pdb

@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\bin\Debug\UsingTextTemplates.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\bin\Debug\UsingTextTemplates.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\bin\Debug\UsingTextTemplates.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\obj\Debug\UsingTextTemplates.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\obj\Debug\UsingTextTemplates.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\UsingTextTemplates\obj\Debug\UsingTextTemplates.pdb

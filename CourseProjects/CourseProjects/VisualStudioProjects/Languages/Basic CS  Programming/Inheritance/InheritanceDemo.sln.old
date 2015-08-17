@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "InheritanceDemo.csproj", "{4EC33E4E-EF94-483D-AA24-16D483EDAB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4EC33E4E-EF94-483D-AA24-16D483EDAB13}.Debug.ActiveCfg = Debug|.NET
+		{4EC33E4E-EF94-483D-AA24-16D483EDAB13}.Debug.Build.0 = Debug|.NET
+		{4EC33E4E-EF94-483D-AA24-16D483EDAB13}.Release.ActiveCfg = Release|.NET
+		{4EC33E4E-EF94-483D-AA24-16D483EDAB13}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

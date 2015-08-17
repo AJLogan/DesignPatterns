@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3daaca65-35c7-4cd1-a68d-ff0ca8535a17" name="Garth Gilmour@LH-4R0EKHM0CUJ8 2012-10-04 22:49:17" runUser="LH-4R0EKHM0CUJ8\Garth Gilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f85a2095-b8b5-4bcc-b983-62a011394f52">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth Gilmour_LH-4R0EKHM0CUJ8 2012-10-04 22_49_17">
+      <DeploymentItem filename="E:\software\Moq.4.0.10827\NET40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-04T22:49:17.3930515+01:00" queuing="2012-10-04T22:49:17.4057460+01:00" start="2012-10-04T22:49:17.5346440+01:00" finish="2012-10-04T22:49:18.3656455+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="makePurchaseWorksForInvalidQuantity" storage="e:\deliveries\agilejavaeircomsummer2012\visualstudioprojects\mockingwithmoq\mockobjectswithmoq\bin\debug\mockobjectswithmoq.dll" id="466ff7ff-bd1a-d391-8d2d-4744ec2b2219">
+      <Execution id="3ff6f9cb-cd93-4faa-857a-da6d5f0b346d" />
+      <TestMethod codeBase="E:/Deliveries/AgileJavaEircomSummer2012/VisualStudioProjects/MockingWithMoq/MockObjectsWithMoq/bin/Debug/MockObjectsWithMoq.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockObjectsWithMoq.ShopTest, MockObjectsWithMoq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="makePurchaseWorksForInvalidQuantity" />
+    </UnitTest>
+    <UnitTest name="makePurchaseWorksForValidQuantity" storage="e:\deliveries\agilejavaeircomsummer2012\visualstudioprojects\mockingwithmoq\mockobjectswithmoq\bin\debug\mockobjectswithmoq.dll" id="618c02d5-3421-cf6c-0fe6-1de2d14aab1a">
+      <Execution id="279f9d74-fad7-4ac5-8e93-089c476414c5" />
+      <TestMethod codeBase="E:/Deliveries/AgileJavaEircomSummer2012/VisualStudioProjects/MockingWithMoq/MockObjectsWithMoq/bin/Debug/MockObjectsWithMoq.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockObjectsWithMoq.ShopTest, MockObjectsWithMoq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="makePurchaseWorksForValidQuantity" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="466ff7ff-bd1a-d391-8d2d-4744ec2b2219" executionId="3ff6f9cb-cd93-4faa-857a-da6d5f0b346d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="618c02d5-3421-cf6c-0fe6-1de2d14aab1a" executionId="279f9d74-fad7-4ac5-8e93-089c476414c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3ff6f9cb-cd93-4faa-857a-da6d5f0b346d" testId="466ff7ff-bd1a-d391-8d2d-4744ec2b2219" testName="makePurchaseWorksForInvalidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.2063094" startTime="2012-10-04T22:49:17.7719335+01:00" endTime="2012-10-04T22:49:18.2103820+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ff6f9cb-cd93-4faa-857a-da6d5f0b346d">
+    </UnitTestResult>
+    <UnitTestResult executionId="279f9d74-fad7-4ac5-8e93-089c476414c5" testId="618c02d5-3421-cf6c-0fe6-1de2d14aab1a" testName="makePurchaseWorksForValidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0161911" startTime="2012-10-04T22:49:18.2152645+01:00" endTime="2012-10-04T22:49:18.2367475+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="279f9d74-fad7-4ac5-8e93-089c476414c5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

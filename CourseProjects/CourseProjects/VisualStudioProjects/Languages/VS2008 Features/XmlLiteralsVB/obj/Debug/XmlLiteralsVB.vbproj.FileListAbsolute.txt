@@ -1,0 +1,55 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.vbproj.GenerateResource.Cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.vbproj.GenerateResource.Cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.vbproj.GenerateResource.Cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\bin\Debug\XmlLiteralsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.Resources.resources
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.vbproj.GenerateResource.Cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\XmlLiteralsVB\obj\Debug\XmlLiteralsVB.pdb

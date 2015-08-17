@@ -1,0 +1,32 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\GeneratedPropertiesCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\GeneratedPropertiesCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\bin\Debug\GeneratedPropertiesCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\GeneratedPropertiesCS\obj\Debug\GeneratedPropertiesCS.pdb

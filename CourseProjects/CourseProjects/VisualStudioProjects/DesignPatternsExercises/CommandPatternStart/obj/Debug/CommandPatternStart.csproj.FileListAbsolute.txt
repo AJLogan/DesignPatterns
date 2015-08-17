@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternStart\bin\Debug\CommandPatternStart.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternStart\bin\Debug\CommandPatternStart.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternStart\bin\Debug\CommandPatternStart.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternStart\obj\Debug\CommandPatternStart.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternStart\obj\Debug\CommandPatternStart.pdb

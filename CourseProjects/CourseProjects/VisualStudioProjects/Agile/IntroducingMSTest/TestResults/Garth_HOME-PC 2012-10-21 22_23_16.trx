@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b9e5451a-44f6-4fcd-91cb-f5462c75d900" name="Garth@HOME-PC 2012-10-21 22:23:16" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_23_16" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:23:16.8680851+01:00" queuing="2012-10-21T22:23:16.8790857+01:00" start="2012-10-21T22:23:16.8830860+01:00" finish="2012-10-21T22:23:17.0850975+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="197e193c-8bc3-904a-e054-81f586253185">
+      <Execution id="5fc0b718-e3de-4cdd-b0f1-3942ef8a3dcf" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197e193c-8bc3-904a-e054-81f586253185" executionId="5fc0b718-e3de-4cdd-b0f1-3942ef8a3dcf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5fc0b718-e3de-4cdd-b0f1-3942ef8a3dcf" testId="197e193c-8bc3-904a-e054-81f586253185" testName="T1" computerName="HOME-PC" duration="00:00:00.0093670" startTime="2012-10-21T22:23:16.8850861+01:00" endTime="2012-10-21T22:23:17.0740969+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5fc0b718-e3de-4cdd-b0f1-3942ef8a3dcf">
+      <Output>
+        <DebugTrace>Test One Called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

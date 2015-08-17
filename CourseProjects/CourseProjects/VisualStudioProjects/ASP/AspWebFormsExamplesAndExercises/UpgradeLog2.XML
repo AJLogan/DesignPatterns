@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Web Applications">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\User Interfaces\Web Applications\Web Applications.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="16:29">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Web Applications.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Web Applications.sln" Description="Converted">
+</Event></UpgradeLog>

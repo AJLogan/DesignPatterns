@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltExtensionObjects\bin\Debug\ExtensionObjects.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltExtensionObjects\bin\Debug\ExtensionObjects.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltExtensionObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltExtensionObjects\obj\Debug\ExtensionObjects.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltExtensionObjects\obj\Debug\ExtensionObjects.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltExtensionObjects\bin\Debug\ExtensionObjects.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltExtensionObjects\bin\Debug\ExtensionObjects.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltExtensionObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltExtensionObjects\obj\Debug\ExtensionObjects.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltExtensionObjects\obj\Debug\ExtensionObjects.pdb

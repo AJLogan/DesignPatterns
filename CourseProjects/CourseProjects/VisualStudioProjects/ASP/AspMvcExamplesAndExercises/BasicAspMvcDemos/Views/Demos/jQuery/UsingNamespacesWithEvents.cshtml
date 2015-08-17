@@ -1,0 +1,72 @@
+@section scripts {
+	<script type="text/javascript">
+            function handleSubmit(theEvent) {
+                console.log("Form submit event fired...");
+                theEvent.preventDefault();
+                
+                var choice = $("#myform input[name='eventNamespaces']:checked").val();
+
+                setupEventHandlersForTextBox();
+                if(choice === "ns1") {
+                    $("#target").unbind(".ns2");
+                } else if(choice === "ns2") {
+                    $("#target").unbind(".ns1");
+                }
+            }
+            function handleEventForNamespaceOne(theEvent) {
+                console.log("NS1 - Event of type '" + theEvent.type + "' fired at "
+                            + theEvent.pageX + "," + theEvent.pageY);
+            }
+            function handleEventForNamespaceTwo(theEvent) {
+                console.log("NS2 - Event of type '" + theEvent.type + "' fired at "
+                            + theEvent.pageX + "," + theEvent.pageY);
+            }
+            function setupEventHandlersForTextBox(){
+                var targetNodes = $("#target");
+                
+                //remove all current event handlers
+                targetNodes.unbind();
+                
+                targetNodes.bind("mouseover.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("mouseout.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("focus.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("keydown.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("keyup.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("keypress.ns1", handleEventForNamespaceOne);
+                targetNodes.bind("click.ns1", handleEventForNamespaceOne);
+                
+                targetNodes.bind("mouseover.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("mouseout.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("focus.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("keydown.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("keyup.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("keypress.ns2", handleEventForNamespaceTwo);
+                targetNodes.bind("click.ns2", handleEventForNamespaceTwo);
+            }
+            $(document).ready( function () {
+                setupEventHandlersForTextBox();
+
+                $("#myform").bind("submit", handleSubmit)
+            });
+        </script>
+}
+<h1>Using Namespaces With Events</h1>
+<form id="myform" action="nowhere" method="post">
+    <p>
+        This text box is the source of all the events
+        except form submission...
+    </p>
+    <p>
+        <input type="text" id="target" size="15"/>
+    </p>
+    <p>
+        Which namespaces would you like events to fire for?<br/>
+        <input type="radio" name="eventNamespaces" value="ns1">NS1
+        <input type="radio" name="eventNamespaces" value="ns2">NS2
+        <input type="radio" name="eventNamespaces" value="both" checked>Both
+                
+    </p>
+    <p>
+        <input type="submit" value="Submit Form"/>
+    </p>
+</form>

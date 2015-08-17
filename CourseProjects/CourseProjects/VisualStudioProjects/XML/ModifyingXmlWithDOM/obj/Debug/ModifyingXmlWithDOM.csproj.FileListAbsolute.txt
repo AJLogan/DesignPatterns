@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\ModifyingXmlWithDOM\obj\Debug\ModifyingXmlWithDOM.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\ModifyingXmlWithDOM\obj\Debug\ModifyingXmlWithDOM.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\ModifyingXmlWithDOM\bin\Debug\ModifyingXmlWithDOM.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\ModifyingXmlWithDOM\bin\Debug\ModifyingXmlWithDOM.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\ModifyingXmlWithDOM\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\ModifyingXmlWithDOM\bin\Debug\ModifyingXmlWithDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\ModifyingXmlWithDOM\bin\Debug\ModifyingXmlWithDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\ModifyingXmlWithDOM\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\ModifyingXmlWithDOM\obj\Debug\ModifyingXmlWithDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\ModifyingXmlWithDOM\obj\Debug\ModifyingXmlWithDOM.pdb

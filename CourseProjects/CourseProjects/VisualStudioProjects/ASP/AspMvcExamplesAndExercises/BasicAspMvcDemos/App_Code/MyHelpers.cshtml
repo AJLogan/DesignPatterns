@@ -1,0 +1,51 @@
+﻿@using BasicAspMvcDemos.Models
+
+@helper DisplayVehicleDetails(Vehicle vehicle) {
+    <h3>Vehicle Details</h3>
+    <p>
+        The vehicle is a @vehicle.Manufacturer @vehicle.Model 
+        driven by @vehicle.Owner.Forename @vehicle.Owner.Surname
+    </p>
+}
+
+@helper DisplayAddressDetails(List<string> addressList) {
+    <h3>Address Details</h3>
+    <p>
+        These are the addresses registered to the owner:
+    </p>
+    <ol>
+        @foreach (var address in addressList)
+        {
+            <li>@address</li>
+        }
+    </ol>
+}
+
+@helper DisplayPaymentsPlan(double monthlyPayment) {
+    <h3>Payments Plan</h3>
+    <p>
+        These will be the payments over the first 6 months:
+    </p>
+    <p>
+    @for (int i = 1; i <= 6; i++)
+    {
+        if (i == 1)
+        {
+            @:After the first month the amount repayed will be
+            @monthlyPayment
+            <br />
+        }
+        else if (i > 1 && i < 6)
+        {
+            @:After month @i the amount repayed will be
+            @(monthlyPayment * i)
+            <br />
+        }
+        else 
+        {
+            <text>After the sixth month the amount repayed will be </text>
+            @(monthlyPayment * 6)
+        }
+    }
+    </p>
+}

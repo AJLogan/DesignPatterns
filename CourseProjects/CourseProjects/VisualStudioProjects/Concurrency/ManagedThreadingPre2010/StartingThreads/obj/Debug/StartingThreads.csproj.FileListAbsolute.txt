@@ -1,0 +1,12 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\StartingThreads\bin\Debug\StartingThreads.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\StartingThreads\bin\Debug\StartingThreads.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\StartingThreads\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\bin\Debug\StartingThreads.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\bin\Debug\StartingThreads.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\StartingThreads\obj\Debug\StartingThreads.pdb

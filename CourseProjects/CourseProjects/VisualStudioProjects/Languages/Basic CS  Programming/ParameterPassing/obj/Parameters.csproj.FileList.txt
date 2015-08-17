@@ -1,0 +1,5 @@
+obj\Debug\CSharpNewFeatures.exe
+obj\Debug\CSharpNewFeatures.pdb
+bin\Debug\CSharpNewFeatures.exe
+bin\Debug\CSharpNewFeatures.pdb
+obj\Debug\ResolveAssemblyReference.cache

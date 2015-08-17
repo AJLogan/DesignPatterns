@@ -1,0 +1,31 @@
+﻿Build started 13/09/2011 15:26:17.
+     1>Project "C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\TimingThreadExecution\TimingThreadExecution.vcxproj" on node 6 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TimingThreadExecution.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp TimingThreadExecution.cpp
+         TimingThreadExecution.cpp
+         stdafx.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TimingThreadExecution.exe.embed.manifest.res" Debug\TimingThreadExecution_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TimingThreadExecution.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.lib" /MACHINE:X86 Debug\TimingThreadExecution.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\TimingThreadExecution.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TimingThreadExecution.exe.embed.manifest" /manifest Debug\TimingThreadExecution.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TimingThreadExecution.exe.embed.manifest.res" Debug\TimingThreadExecution_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TimingThreadExecution.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.lib" /MACHINE:X86 Debug\TimingThreadExecution.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\TimingThreadExecution.obj
+         TimingThreadExecution.vcxproj -> C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\Debug\TimingThreadExecution.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TimingThreadExecution.unsuccessfulbuild".
+         Touching "Debug\TimingThreadExecution.lastbuildstate".
+     1>Done Building Project "C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\NativeThreadingAPI\TimingThreadExecution\TimingThreadExecution.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89

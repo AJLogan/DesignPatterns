@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Introducing NUnit">
+</Property><Property Name="Solution File" Value="C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\Introducing NUnit.sln">
+</Property><Property Name="Date" Value="10 January 2009">
+</Property><Property Name="Time" Value="19:20:18">
+</Property></Properties><Event ErrorLevel="0" Project="TestBasicMath" Source="NUnitWithCS\TestBasicMath.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestBasicMath" Source="NUnitWithCS\TestBasicMath.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="NUnitWithCS\TestBasicMath.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

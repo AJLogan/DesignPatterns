@@ -1,0 +1,58 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.vbproj.GenerateResource.Cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.vbproj.GenerateResource.Cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.vbproj.GenerateResource.Cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\bin\Debug\LambdaExpresionsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.Resources.resources
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.vbproj.GenerateResource.Cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpresionsVB\obj\Debug\LambdaExpresionsVB.pdb

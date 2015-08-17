@@ -1,0 +1,4 @@
+C:\Development\dotnet\VS2008\Agile Development\MockObjectsGenerator\MockGeneratorCS\obj\Debug\MockGenerator.exe
+C:\Development\dotnet\VS2008\Agile Development\MockObjectsGenerator\MockGeneratorCS\obj\Debug\MockGenerator.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\MockObjectsGenerator\MockGeneratorCS\obj\Debug\MockGenerator.exe
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\MockObjectsGenerator\MockGeneratorCS\obj\Debug\MockGenerator.pdb

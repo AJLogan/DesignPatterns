@@ -1,0 +1,101 @@
+@section scripts {
+	<script type="text/javascript">
+            function showAddingAttributes(queryStr) {
+                var count = 1;
+                $(queryStr).attr('id',function() {
+                                            return "P" + count++;
+                                      });
+            }
+            function showAddingClasses(queryStr) {
+                $(queryStr).addClass("alpha");
+            }
+            function showSettingStylesManually(queryStr) {
+                $(queryStr).css("color","green");
+            }
+            function showReplacingContent(queryStr) {
+                $(queryStr).html("<em>Some new content</em>");
+            }
+            function showReplacingText(queryStr) {
+                $(queryStr).text("You can boldface content in HTML <b>like this</b>");
+            }
+            function showInsertingContent(queryStr) {
+                $(queryStr).prepend("<em>Homer</em>&nbsp;");
+                $(queryStr).append("&nbsp;<em>Marge</em>");
+            }
+            function showMovingContent(queryStr1,queryStr2) {
+                $(queryStr1).appendTo($(queryStr2));
+            }
+            function showCopyingContent(queryStr1,queryStr2,queryStr3) {
+                $(queryStr1).appendTo($(queryStr2).add(queryStr3));
+            }
+            function showWrappingContent(queryStr1,queryStr2) {
+                $(queryStr1).wrap('<a href="/nowhere"></a>');
+                $(queryStr2).wrapAll('<div class="bravo"></div>');
+            }
+            function showEmptyingContent(queryStr) {
+                $(queryStr).empty();
+            }
+            $(document).ready( function () {
+                showAddingAttributes("p");
+                showAddingClasses("p");
+                showSettingStylesManually("p:first-of-type");
+                showReplacingContent("p:nth-child(2)");
+                showReplacingText("p:nth-child(3)");
+                showInsertingContent("p:nth-child(4)");
+                showMovingContent("#moveMe","p:nth-child(5)");
+                showCopyingContent("#copyMe","p:nth-child(6)","p:nth-child(7)");
+                showWrappingContent("p:nth-child(8)","p:nth-child(9),p:nth-child(10)");
+                //NB paragraph 12 vanishes because it is the 11th
+                //   child after the wrapping performed above
+                showEmptyingContent("p:nth-child(11)");
+            });
+	</script>
+}
+@section mystyles {
+        <style type="text/css">
+            .myStyle { color: green }
+            .alpha { font-style: italic; }
+            .bravo { margin-left: 4em; }
+        </style>
+}
+<h1>Altering The Results Of Queries</h1>
+<b id="moveMe">Bart</b>
+<b id="copyMe">Liza</b>
+<div id="theParas">
+    <p>
+        Paragraph one
+    </p>
+    <p>
+        Paragraph two
+    </p>
+    <p>
+        Paragraph three
+    </p>
+    <p>
+        Paragraph four
+    </p>
+    <p>
+        Paragraph five
+    </p>
+    <p>
+        Paragraph six
+    </p>
+    <p>
+        Paragraph seven
+    </p>
+    <p>
+        Paragraph eight
+    </p>
+    <p>
+        Paragraph nine
+    </p>
+    <p>
+        Paragraph ten
+    </p>
+    <p>
+        Paragraph eleven
+    </p>
+    <p>
+        Paragraph twelve
+    </p>
+</div>

@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltBasics\bin\Debug\SimpleTransform.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltBasics\bin\Debug\SimpleTransform.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltBasics\obj\Debug\SimpleTransform.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltBasics\obj\Debug\SimpleTransform.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltBasics\bin\Debug\SimpleTransform.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltBasics\bin\Debug\SimpleTransform.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltBasics\obj\Debug\SimpleTransform.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltBasics\obj\Debug\SimpleTransform.pdb

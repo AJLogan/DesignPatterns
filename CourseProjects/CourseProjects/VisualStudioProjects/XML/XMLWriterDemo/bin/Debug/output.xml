@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person title="Mr">
+  <forename>Joe</forename>
+  <surname>Bloggs</surname>
+  <address type="home">
+    <street no="10">Arcatia Road</street>
+    <city>Belfast</city>
+  </address>
+</person>

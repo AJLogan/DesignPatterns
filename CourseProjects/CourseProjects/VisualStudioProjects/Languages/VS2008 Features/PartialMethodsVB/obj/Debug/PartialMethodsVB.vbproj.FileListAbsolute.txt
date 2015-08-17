@@ -1,0 +1,55 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.vbproj.GenerateResource.Cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.vbproj.GenerateResource.Cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.vbproj.GenerateResource.Cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\bin\Debug\PartialMethodsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.Resources.resources
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.vbproj.GenerateResource.Cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsVB\obj\Debug\PartialMethodsVB.pdb

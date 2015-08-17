@@ -1,0 +1,20 @@
+﻿<#@ template language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+
+using System;
+using <#= typeToBeMocked.Namespace #>;
+
+public class <#= typeToBeMocked.Name #>Mock : <#= typeToBeMocked.Name #> {
+	<# foreach(var method in typeToBeMocked.GetMethods()) { #>
+		public <#= method.ReturnType.Name #> <#= method.Name #>(<#= BuildParamsString(method) #>) {
+			<# if(method.ReturnType.IsPrimitive) { #>
+					return 0;
+			<# } else { #>
+					return new <#= method.ReturnType.Name #>();
+			<# } #>
+		}
+	<# } #>
+}

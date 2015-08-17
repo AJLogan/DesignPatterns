@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demos.tdd.testng.advanced.LinkedListTest" failures="0" tests="18" time="8.36" errors="0">
+  <properties/>
+  <testcase name="clear" time="0.016" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getMiddleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addManyItemsToPopulatedList" time="0.969" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeMiddleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeUnknownItemFails" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getLastItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getOnEmptyList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeFromEmptyListFails" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addManyItemsToEmptyList" time="0.203" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addViaVarArg" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeLastItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addMultipleItems" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addSingleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeManyItems" time="0.25" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getAbsentItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="newList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+</testsuite>

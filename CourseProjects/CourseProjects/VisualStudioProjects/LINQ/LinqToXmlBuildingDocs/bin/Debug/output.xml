@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customer>
+  <Name title="Mr">
+    <Forename>Joe</Forename>
+    <Surname>Bloggs</Surname>
+  </Name>
+  <Address title="Mr">
+    <Street number="11">Univeristy Street</Street>
+    <City>Belfast</City>
+  </Address>
+</Customer>

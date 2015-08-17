@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="0A2B7BEE-86B8-45EA-A5EF-A8926326C277" ModuleId="BasicMocking" />
+  <Module PersistentId="A1223249-FF43-4DBD-A906-9269D8C5DB18" ModuleId="AdvancedMocking" />
+  <Module PersistentId="BFD35FF7-38B3-4967-AD2F-79364A3E1D2E" ModuleId="MockingChallengeStart" />
+  <Module PersistentId="F7609A53-BA37-413D-BFCD-043683D896AC" ModuleId="MockingChallengeFinish" />
+</Modules>

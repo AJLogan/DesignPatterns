@@ -1,0 +1,2 @@
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.pdb

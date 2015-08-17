@@ -1,0 +1,5 @@
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\InheritanceFinish\bin\Debug\InheritanceFinish.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\InheritanceFinish\bin\Debug\InheritanceFinish.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\InheritanceFinish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\InheritanceFinish\obj\x86\Debug\InheritanceFinish.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\InheritanceFinish\obj\x86\Debug\InheritanceFinish.pdb

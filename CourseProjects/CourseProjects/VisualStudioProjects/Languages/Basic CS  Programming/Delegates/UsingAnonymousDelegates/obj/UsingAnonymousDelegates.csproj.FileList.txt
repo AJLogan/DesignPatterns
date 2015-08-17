@@ -1,0 +1,5 @@
+bin\Debug\UsingAnonymousDelegates.exe
+bin\Debug\UsingAnonymousDelegates.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UsingAnonymousDelegates.exe
+obj\Debug\UsingAnonymousDelegates.pdb

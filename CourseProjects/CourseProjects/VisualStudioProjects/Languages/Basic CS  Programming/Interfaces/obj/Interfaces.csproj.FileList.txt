@@ -1,0 +1,5 @@
+bin\Debug\Interfaces.exe
+bin\Debug\Interfaces.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interfaces.exe
+obj\Debug\Interfaces.pdb

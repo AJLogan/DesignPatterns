@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>jQuery Client For ASP .NET Web API</title>
+        <script type="text/javascript" src="/Scripts/jquery-1.7.1.js"></script>
+        <script>
+            function fetchAllUsersViaJson() {
+                $.ajax({
+                    url: "/api/users",
+                    type: "GET",
+                    dataType: "json",
+                    settings: { accepts: "application/json" },
+                    success: function (data) {
+                        displayRawJsonUsersData(data);
+                        displayUsersJson(data);
+                    },
+                    error: function (theError) {
+                        console.log("JSON based GET request for all users failed with " + theError);
+                    }
+                });
+            }
+            function fetchAllUsersViaXML() {
+                $.ajax({
+                    url: "/api/users",
+                    type: "GET",
+                    dataType: "xml",
+                    settings: { accepts: "application/xml" },
+                    success: function (data) {
+                        displayRawXMLUsersData(data);
+                        displayUsersXML(data);
+                    },
+                    error: function (theError) {
+                        console.log("XML based GET request for all users failed with " + theError);
+                    }
+                });
+            }
+            function displayRawJsonUsersData(data) {
+                $("#rawExistingUsersDataJson").html(JSON.stringify(data));
+            }
+            function displayRawXMLUsersData(data) {
+                $("#rawExistingUsersDataXML").text(new XMLSerializer().serializeToString(data));
+            }
+            function displayUsersJson(data) {
+                displayUsers(data,$("#existingUsersJson"));
+            }
+            function displayAdjustedUsers(data) {
+                displayUsers(data,$("#adjustedUsers"));
+            }
+            function displayUsers(data, listNode) {
+                $(listNode).empty();
+                $.each(data, function (index, user) {
+                    var text = user.Username + " with password " + user.Password + " in role " + user.Role;
+                    $(listNode).append($("<li>" + text + "</li>"));
+                });
+            }
+            function displayUsersXML(data) {
+                var listNode = $("#existingUsersXML");
+                $(listNode).empty();
+                $.each(data.documentElement.childNodes, function (index, user) {
+                    var username = user.getElementsByTagName("Username")[0].textContent;
+                    var password = user.getElementsByTagName("Password")[0].textContent;
+                    var role = user.getElementsByTagName("Role")[0].textContent;
+                    var text = username + " with password " + password + " in role " + role;
+                    $(listNode).append($("<li>" + text + "</li>"));
+                });
+            }
+            function fetchUser(event) {
+                event.preventDefault();
+                var username = $("#fetchUserUsername").val();
+                $.ajax({
+                    url: "/api/users/" + username,
+                    type: "GET",
+                    dataType: "json",
+                    settings: { accepts: "application/json" },
+                    success: function (user) {
+                        var text = user.Username + " with password " + user.Password + " in role " + user.Role;
+                        $("#fetchUserResults").html(text);
+                    },
+                    error: function (theError) {
+                        console.log("GET request for a user failed with " + theError);
+                    }
+                });
+            }
+            function setupEventHandling() {
+                $("#fetchUserForm").bind("submit", fetchUser);
+            }
+            $(document).ready( function () {
+                fetchAllUsersViaJson();
+                fetchAllUsersViaXML();
+                setupEventHandling();
+            });
+        </script>
+    </head>
+    <body>
+        <h1>jQuery Client For ASP .NET Web API </h1>
+        
+        <h2>All Users Registered On Page Load (via JSON):</h2>
+        <ul id="existingUsersJson"></ul>
+        <h3>Original Data From Server:</h3>
+        <pre id="rawExistingUsersDataJson"></pre>
+        
+        <hr/>
+        
+        <h2>All Users Currently Registered On Page Load (via XML):</h2>
+        <ul id="existingUsersXML"></ul>
+        <h3>Original Data From Server:</h3>
+        <form>
+            <textarea rows="10" cols="80" id="rawExistingUsersDataXML"></textarea>
+        </form>
+
+        <hr/>
+        <h3>Find a user via the form below:</h3>
+        <form id="fetchUserForm" action="/nowhere">
+            Username:<input name="fetchUserUsername" id="fetchUserUsername" type="text" size="10" value="dave1"/><br>
+            <input type="submit" value="Find"/>
+        </form>
+        <p id="fetchUserResults"></p>
+    </body>
+</html>
+

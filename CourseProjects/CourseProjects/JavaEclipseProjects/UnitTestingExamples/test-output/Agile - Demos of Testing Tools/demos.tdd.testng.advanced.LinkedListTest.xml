@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demos.tdd.testng.advanced.LinkedListTest" failures="0" tests="18" time="1.813" errors="0">
+  <properties/>
+  <testcase name="removingFirstElement" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removingLastElement" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getOnEmptyList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addingMultipleItems" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeFromEmptyListFails" time="0.015" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getAbsentItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="newList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeUnknownItemFails" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getMiddleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeMiddleElement" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addManyItemsToEmptyList" time="0.234" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addingViaVarArg" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeManyItems" time="0.266" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getLastItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addingSingleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="clear" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addManyItemsToPopulatedList" time="0.829" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+</testsuite>

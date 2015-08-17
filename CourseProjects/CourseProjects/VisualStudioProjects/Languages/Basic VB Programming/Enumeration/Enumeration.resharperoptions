@@ -1,0 +1,13 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\Core Language\Enumeration\Module1.vb" offset="1140" line="8" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager />
+</Configuration>

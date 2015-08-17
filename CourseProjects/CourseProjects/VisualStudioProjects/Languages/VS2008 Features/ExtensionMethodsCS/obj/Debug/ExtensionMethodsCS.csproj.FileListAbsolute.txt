@@ -1,0 +1,31 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\ExtensionMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\ExtensionMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\bin\Debug\ExtensionMethodsCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\ExtensionMethodsCS\obj\Debug\ExtensionMethodsCS.pdb

@@ -1,0 +1,2 @@
+C:\development\dotnet\VB Programming\Inheritance\obj\Debug\Inheritance.exe
+C:\development\dotnet\VB Programming\Inheritance\obj\Debug\Inheritance.pdb

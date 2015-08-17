@@ -1,0 +1,12 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\AsyncDelegatesPartTwo\bin\Debug\AsyncDelegatesPartTwo.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\AsyncDelegatesPartTwo\bin\Debug\AsyncDelegatesPartTwo.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\bin\Debug\AsyncDelegatesPartTwo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\bin\Debug\AsyncDelegatesPartTwo.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\AsyncDelegatesPartTwo\obj\Debug\AsyncDelegatesPartTwo.pdb

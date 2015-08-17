@@ -1,0 +1,31 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\InitializationSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\InitializationSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\bin\Debug\InitializationSyntaxCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\InitializationSyntaxCS\obj\Debug\InitializationSyntaxCS.pdb

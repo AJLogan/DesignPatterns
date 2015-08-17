@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspx_cs_samples", "aspx_cs_samples\", "{CFAC16F7-58B1-4C35-A749-4832AA6C9A0D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/aspx_cs_samples"
+		Debug.AspNetCompiler.PhysicalPath = "aspx_cs_samples\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_cs_samples\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/aspx_cs_samples"
+		Release.AspNetCompiler.PhysicalPath = "aspx_cs_samples\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_cs_samples\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1105"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspx_cs_exercises", "aspx_cs_exercises\", "{3393B790-4668-4419-987C-6CBC5FB4DF0C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/aspx_cs_exercises"
+		Debug.AspNetCompiler.PhysicalPath = "aspx_cs_exercises\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_cs_exercises\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/aspx_cs_exercises"
+		Release.AspNetCompiler.PhysicalPath = "aspx_cs_exercises\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_cs_exercises\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1109"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspx_vb_samples", "aspx_vb_samples\", "{B95632CA-8C5E-45C0-B582-FC4DB4D52C37}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/aspx_vb_samples"
+		Debug.AspNetCompiler.PhysicalPath = "aspx_vb_samples\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_vb_samples\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/aspx_vb_samples"
+		Release.AspNetCompiler.PhysicalPath = "aspx_vb_samples\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_vb_samples\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1088"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspx_vb_exercises", "aspx_vb_exercises\", "{A11B04CD-1D7D-4D7C-9589-14972F6543F4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/aspx_vb_exercises"
+		Debug.AspNetCompiler.PhysicalPath = "aspx_vb_exercises\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_vb_exercises\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/aspx_vb_exercises"
+		Release.AspNetCompiler.PhysicalPath = "aspx_vb_exercises\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\aspx_vb_exercises\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1110"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAC16F7-58B1-4C35-A749-4832AA6C9A0D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{CFAC16F7-58B1-4C35-A749-4832AA6C9A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAC16F7-58B1-4C35-A749-4832AA6C9A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3393B790-4668-4419-987C-6CBC5FB4DF0C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{3393B790-4668-4419-987C-6CBC5FB4DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3393B790-4668-4419-987C-6CBC5FB4DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95632CA-8C5E-45C0-B582-FC4DB4D52C37}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{B95632CA-8C5E-45C0-B582-FC4DB4D52C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95632CA-8C5E-45C0-B582-FC4DB4D52C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11B04CD-1D7D-4D7C-9589-14972F6543F4}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A11B04CD-1D7D-4D7C-9589-14972F6543F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11B04CD-1D7D-4D7C-9589-14972F6543F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

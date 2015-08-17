@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StaffList>
+  <Employee>
+    <Name>Joe Bloggs</Name>
+    <Dept>IT</Dept>
+    <Salary>40000.0</Salary>
+  </Employee>
+  <Employee>
+    <Name>Jane Smith</Name>
+    <Dept>HR</Dept>
+    <Salary>37000.0</Salary>
+  </Employee>
+  <Employee>
+    <Name>Henry Jenkins</Name>
+    <Dept>Sales</Dept>
+    <Salary>23000.0</Salary>
+  </Employee>
+</StaffList>

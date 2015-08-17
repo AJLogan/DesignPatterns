@@ -1,0 +1,6 @@
+C:\Deliveries\Dot NET LIT January 2009\Exercises\ExplicitInstantiation\ExplicitInstantiation\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Basic CS  Programming\Explicit Instantiation\bin\Debug\ExplicitInstantiation.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Explicit Instantiation\bin\Debug\ExplicitInstantiation.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Explicit Instantiation\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Basic CS  Programming\Explicit Instantiation\obj\Debug\ExplicitInstantiation.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Explicit Instantiation\obj\Debug\ExplicitInstantiation.pdb

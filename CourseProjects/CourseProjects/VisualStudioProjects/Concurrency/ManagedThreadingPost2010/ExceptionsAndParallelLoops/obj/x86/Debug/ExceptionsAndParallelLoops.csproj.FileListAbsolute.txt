@@ -1,0 +1,7 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ExceptionsAndParallelLoops\bin\Debug\ExceptionsAndParallelLoops.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ExceptionsAndParallelLoops\bin\Debug\ExceptionsAndParallelLoops.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ExceptionsAndParallelLoops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ExceptionsAndParallelLoops\obj\x86\Debug\ExceptionsAndParallelLoops.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ExceptionsAndParallelLoops\obj\x86\Debug\ExceptionsAndParallelLoops.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\ExceptionsAndParallelLoops\obj\x86\Debug\ExceptionsAndParallelLoops.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\ExceptionsAndParallelLoops\obj\x86\Debug\ExceptionsAndParallelLoops.pdb

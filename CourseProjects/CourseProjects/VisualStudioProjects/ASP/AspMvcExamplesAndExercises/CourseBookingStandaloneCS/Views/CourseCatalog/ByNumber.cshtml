@@ -1,0 +1,23 @@
+﻿@model CourseBookingStandaloneCS.Models.TrainingCourse
+
+@{
+    ViewBag.Title = "The Course You Selected";
+    var course = ViewData.Model;
+}
+<h1>Details of the Course You Selected </h1>
+<table>
+    <tbody>
+        <tr>
+            <th>Number</th>
+            <td>@course.Number</td>
+        </tr>
+        <tr>
+            <th>Title</th>
+            <td>@course.Title</td>
+        </tr>
+        <tr>
+            <th>Type</th>
+            <td>@course.Type</td>
+        </tr>
+    </tbody>
+</table>

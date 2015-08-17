@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2010 Features\UsingNamedAndOptionalParameters\bin\Debug\UsingNamedAndOptionalParameters.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2010 Features\UsingNamedAndOptionalParameters\bin\Debug\UsingNamedAndOptionalParameters.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2010 Features\UsingNamedAndOptionalParameters\bin\Debug\UsingNamedAndOptionalParameters.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2010 Features\UsingNamedAndOptionalParameters\obj\Debug\UsingNamedAndOptionalParameters.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2010 Features\UsingNamedAndOptionalParameters\obj\Debug\UsingNamedAndOptionalParameters.pdb

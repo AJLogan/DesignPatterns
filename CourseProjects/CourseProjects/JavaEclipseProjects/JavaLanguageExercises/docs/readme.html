@@ -1,0 +1,257 @@
+<html>
+	<title>Exercises for Java Development</title>
+	<body>
+		<h2>Exercises for Java Development</h2>
+		<ol>
+			<li><a href="#ex1">Printing a pyramid</a></li>
+			<li><a href="#ex2">Iterating over arrays</a></li>
+			<li><a href="#ex3">Finding palindromes</a></li>
+			<li><a href="#ex4">Creating basic classes</a></li>
+			<li><a href="#ex5">Using inheritance</a></li>
+			<li><a href="#ex6">Converting roman numerals</a></li>
+			<li><a href="#ex7">Interfaces and event handling</a></li>
+			<li><a href="#ex8">Creating a linked list</a></li>
+			<li><a href="#ex9">Accessing files</a></li>
+			<li><a href="#ex10">Accessing the network</a></li>
+			<li><a href="#ex11">Working with threads</a></li>
+		</ol>
+		<hr/>
+		<a name="ex1">
+		<h3>Printing a Pyramid (pyramid.start)</h3>
+		<p>
+			Attempt to complete the code in the startup package so that your application prints a pyramid, 
+			based on a size supplied by the user.<br/>
+			<b>Hint: </b> for the first row the number of spaces is always 'height-1' and for each following row the 
+			number of spaces goes down by one and the number of hashes up by two. 
+		</p>
+		<pre>
+     #
+    ###
+   #####
+  #######
+ #########
+###########
+		</pre>
+		<p>
+			<b>Advanced Version: </b> Try to implement the same functionality with recursion i.e. your code should 
+			not contain any loops.
+		</p>
+		<p>
+			<b>For Experienced Developers: </b> Try to write a Unit Test for the code.
+		</p>
+		<a name="ex2">
+		<h3>Iterating Over Arrays (arrays.start)</h3>
+		<p>
+			Complete the code in the starter class by iterating over the 2d array supplied. For each box in the array print 
+			a character using the supplied key:
+		</p>
+		<ul>
+			<li>space = 0</li>
+			<li>( = 1</li>
+			<li>) = 2</li>
+			<li>_ = 3</li>
+			<li>| = 4</li>
+			<li>* = 5</li>
+			<li>- = 6</li>
+			<li>/ = 7</li>
+			<li>\ = 8</li>
+			<li>@ = 9</li>
+			<li>o = 10</li>
+		</ul>
+		<p>Take a new line at the end of each sub-array. If successful you should see a <i>compu-cow</i> as below</p>
+		<pre>
+	          (__)                 
+	         /   ( (     ______    
+	        |  /\_|     |      \   
+	        |  |___     |       |  
+	        |   ---@    |_______|  
+	     *  |  |   ----   |    |   
+	      \ |  |_____     |    |     
+	       \|________|    |    |
+		</pre>
+		<p>
+			<b>Advanced Version: </b> If you used normal loops try and rewrite the code using a Java 5 <i>foreach</i> loop 
+			or vice-versa.
+		</p>
+		<a name="ex3">
+		<h3>Finding Palindromes (palindromes.start)</h3>
+		<p>
+			The sample code contains 7 strings, referenced by <i>data1</i> to <i>data7</i>. Complete the <i>test</i> function 
+			so that it correctly identifies if a string is a palindrome. Note that a palindrome reads the same in both directions 
+			after disregarding spaces and punctuation. The output of your program should be similar to that listed below:
+		</p>
+		<pre>
+		"A man, a plan, a canal, Panama" is a Palindrome
+		"Gold is where you find it" is NOT a Palindrome
+		"If I had a hi-fi" is a Palindrome
+		"Fortune favors the prepared mind" is NOT a Palindrome
+		"Rats live on no evil star" is a Palindrome
+		"There is no abstract living" is NOT a Palindrome
+		"Some men interpret nine memos" is a Palindrome			
+		</pre>
+		<p>
+			<b>Hint: </b> Examine the methods of the <i>String</i> class closely in the Javadoc
+		</p>
+		<p>
+			<b>Advanced Version: </b> Try to find another way of solving the problem. For example if your code modified the 
+			strings try to write a version that does not, and vice versa.
+		</p>
+		<a name="ex4">
+		<h3>Creating Basic Classes (classes.start)</h3>
+		<p>
+			Incrementally uncomment the code in the starter class (repeated below). You will need to write a <i>Student</i> 
+			class which:
+		</p>
+		<ul>
+			<li>Has a constructor which takes a name, subject, year, and array or marks</li>
+			<li>Stores the information entered into appropriately named fields</li>
+			<li>Has an <i>average</i> method that returns the students average mark </li>
+		</ul>
+		<pre>
+			Student s1 = new Student("Joe Bloggs","Philosophy",3,new double[] {65.4,66.5,72.2});
+			Student s2 = new Student("Jane Smith","Architecture",2,new double[] {56.4,68.7});
+
+			DecimalFormat df = new DecimalFormat(".00");
+			System.out.println(s1);
+			System.out.println("\t With current average of: " + df.format(s1.average()));
+			System.out.println(s2);
+			System.out.println("\t With current average of: " + df.format(s2.average()));
+		</pre>
+		<p>
+			<b>Advanced Version 1: </b> Try to integrate the formatting code into the <i>average</i> method. Also 
+			consider the encapsulation issues involved in storing a reference to an array that is already referenced 
+			by the client code. Use the Javadoc to try and work out how to create a copy of the array.
+		</p>
+		<p>
+			<b>Advanced Version 2: </b> Search the web to work out how to create an array of unmodifiable / final values 
+			(<b>hint</b> - its a trick question).
+		</p>
+		<a name="ex5">
+		<h3>Using Inheritance (inheritance.start)</h3>
+		<p>
+			Create a <i>GraduateStudent</i> class which extends from the <i>Student</i> class you built in the previous 
+			exercise. The class should have an appropriate constructor, extra fields (such as <i>teachingHours</i> and 
+			<i>supervisor</i>) and an enhanced <i>toString</i> method.
+		</p>
+		<a name="ex6">
+		<h3>Converting Roman Numerals (roman.numerals.start)</h3>
+		<p>
+			Using the code in the starter class write a program which converts integers into roman numerals. Use the conversion 
+			table below:
+		</p>
+		<table rules="all">
+			<tr><th>Integer Value</th><th>String Value</th></tr>
+			<tr>
+				<td>100</td><td>C</td>
+			</tr>
+			<tr>
+				<td>90</td><td>XC</td>
+			</tr>
+			<tr>
+				<td>50</td><td>L</td>
+			</tr>
+			<tr>
+				<td>40</td><td>XL</td>
+			</tr>
+			<tr>
+				<td>10</td><td>X</td>
+			</tr>
+			<tr>
+				<td>9</td><td>IX</td>
+			</tr>
+			<tr>
+				<td>5</td><td>V</td>
+			</tr>
+			<tr>
+				<td>4</td><td>IV</td>
+			</tr>
+			<tr>
+				<td>1</td><td>I</td>
+			</tr>
+		</table>
+		<p>
+			The design you should use and the conversion process you should follow are illustrated below:
+		</p>
+		<img src="romanNumeralsDesign.png" width="60%">
+		<hr/>
+		<img src="romanNumeralsProcess.png" width="40%">
+		<p>
+			<b>Advanced Version 1: </b> Avoid lots of typing by writing a unit test.
+		</p>
+		<p>
+			<b>Advanced Version 2: </b> The typical first solution is very procedural and 
+			poorly encapsulated. Try to enhance the OO quality of your design.
+		</p>
+		<p>
+			<b>Advanced Version 3: </b> Take advantage of Java 5 <i>enums</i> to simplify your code.
+		</p>
+		<a name="ex7">
+		<h3>Interfaces and Event Handling (event.handling.start)</h3>
+		<img src="events.png"/>
+		<p>
+			The sample code creates a GUI containing a blank window of type <i>MyPanel</i>. Try to create 
+			the same functionality as the solution by:
+		</p>
+		<ul>
+			<li>
+				In the overridden <i>paintComponent</i> method add code to draw 
+				and fill in a circle underneath the cursor position (<b>Hint: </b> look up the Javadoc for <i>Graphics</i>).
+			</li>
+			<li>
+				Create an event handler class to listen for mouse clicks and trigger a repaint of the GUI 
+				(<b>Hint: </b> look at the <i>MouseListener</i> and <i>MouseMotionListener</i> interfaces).
+			</li>
+		</ul>
+		<p>
+			<b>Advanced Version 1: </b> Enhance your code so the circle follows the cursor when you drag the mouse.
+		</p>
+		<a name="ex8">
+		<h3>Creating a Linked List (linkedlist.start)</h3>
+		<p>
+			The sample code implements a linked list data structure which can add and remove single items. The existing code 
+			has been developed using TDD, with the tests placed in <i>LinkedListTest</i>. The design is illustrated below:
+		</p>
+		<img src="list.png" width="60%">
+		<p>
+			Try to enhance the code so that the test method <i>multipleItemsCanBeRetrieved</i> passes.
+		</p>
+		<p>
+			<b>Advanced Version: </b> Using a tests-first approach try to add a <i>remove</i> method to the list. For 
+			example the call <i>myList.remove(4)</i> should remove the fifth item from the list. 
+			<br/><b>Hint: </b> there are at least six conditions to consider:
+		</p>
+		<ul>
+			<li>Removing from a empty list</li>
+			<li>Trying to remove using an invalid index</li>
+			<li>Removing the only item from a list</li>
+			<li>Removing the first item from a list</li>
+			<li>Removing the last item from a list</li>			
+			<li>Removing from the middle of the list</li>
+		</ul>
+		<a name="ex9">
+		<h3>Accessing Files (file.access.start)</h3>
+		<p>
+			The sample code reads a text file and writes it to the console. Enhance the code so that the input is also 
+			written to an output file. <br/><b>Hint: </b> Check the Javadoc for a way to write newlines in a platform independent 
+			way and remember to close the output.
+		</p>
+		<a name="ex10">
+		<h3>Accessing the Network (network.access.start)</h3>
+		<p>
+			You have been provided with the skeleton classes <i>ChatClient</i> and <i>ChatServer</i>. Try to implement a 
+			client-server chat system whereby users can exchange messages. <br/><b>Hint: </b> remember to flush each message so it 
+			is sent to the other machine immediately.
+		</p>
+		<a name="ex11">
+		<h3>Working with Threads (concurrency.start)</h3>
+		<p>
+			The code in the <i>Launcher</i> class reads URL's from the user and adds them to the end of a <i>BlockingQueue</i>. Try 
+			to write a <i>LoadingThread</i> class that asynchronously reads from the queue, loads the associated resource and saves 
+			it as a file into the <i>output</i> folder. The file names should be <i>out1.html</i>, <i>out2.html</i> etc...
+		</p>
+		<p>
+			<b>Advanced Version: </b> Create a new version of the application. Instead of using a queue the main thread should create 
+			a task for each URL entered and submit it to a thread pool. 
+		</p>
+	</body>
+</html>

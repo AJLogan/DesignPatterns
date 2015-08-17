@@ -1,0 +1,17 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\deliveries\8over8 ASP Dot NET June 2005\examples\C# Programming\Interfaces\Tester.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\deliveries\8over8 ASP Dot NET June 2005\examples\C# Programming\Interfaces\Square.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\deliveries\8over8 ASP Dot NET June 2005\examples\C# Programming\Interfaces\Shape.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\deliveries\8over8 ASP Dot NET June 2005\examples\C# Programming\Interfaces\IDrawable.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\deliveries\8over8 ASP Dot NET June 2005\examples\C# Programming\Interfaces\IColorable.cs" offset="0" line="-1" column="-1" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager />
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>

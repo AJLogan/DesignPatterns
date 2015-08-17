@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="244527fc-33c5-46d0-a637-e46d0c3f2163" name="Garth@HOME-PC 2012-10-21 22:27:48" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_27_48" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:27:48.7596364+01:00" queuing="2012-10-21T22:27:49.2536647+01:00" start="2012-10-21T22:27:49.2806662+01:00" finish="2012-10-21T22:27:49.5066791+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="3" error="3" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="197e193c-8bc3-904a-e054-81f586253185">
+      <Execution id="2531cc0d-9489-448b-81a3-f033aa4c3a01" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+    <UnitTest name="T3" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd091580-2f39-8950-7bb8-9cb822e8d9b1">
+      <Execution id="f5d0c117-a12f-4e2c-be77-1546b7d7a7a2" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T3" />
+    </UnitTest>
+    <UnitTest name="T2" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6">
+      <Execution id="77e28936-ab30-4cf6-a2fa-2e5b630fee0e" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197e193c-8bc3-904a-e054-81f586253185" executionId="2531cc0d-9489-448b-81a3-f033aa4c3a01" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" executionId="f5d0c117-a12f-4e2c-be77-1546b7d7a7a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" executionId="77e28936-ab30-4cf6-a2fa-2e5b630fee0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2531cc0d-9489-448b-81a3-f033aa4c3a01" testId="197e193c-8bc3-904a-e054-81f586253185" testName="T1" computerName="HOME-PC" startTime="2012-10-21T22:27:49.2876666+01:00" endTime="2012-10-21T22:27:49.4816777+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2531cc0d-9489-448b-81a3-f033aa4c3a01">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.EndAll has wrong signature.  The method should be marked static.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f5d0c117-a12f-4e2c-be77-1546b7d7a7a2" testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" testName="T3" computerName="HOME-PC" startTime="2012-10-21T22:27:49.4836778+01:00" endTime="2012-10-21T22:27:49.4876781+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5d0c117-a12f-4e2c-be77-1546b7d7a7a2">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.EndAll has wrong signature.  The method should be marked static.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="77e28936-ab30-4cf6-a2fa-2e5b630fee0e" testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" testName="T2" computerName="HOME-PC" startTime="2012-10-21T22:27:49.4886781+01:00" endTime="2012-10-21T22:27:49.4926783+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="77e28936-ab30-4cf6-a2fa-2e5b630fee0e">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.EndAll has wrong signature.  The method should be marked static.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

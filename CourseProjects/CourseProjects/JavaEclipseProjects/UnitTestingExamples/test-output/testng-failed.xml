@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [MySuite]" junit="false" annotations="JDK">
+  <test name="All Inserts and Deletes(failed)" junit="false" annotations="JDK">
+    <groups>
+      <run>
+        <include name="inserts"/>
+        <include name="deletes"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="demos.tdd.testng.advanced.LinkedListTest">
+        <methods>
+          <include name="addManyItemsToPopulatedList"/>
+          <include name="start"/>
+          <include name="addManyItemsToEmptyList"/>
+          <include name="removeManyItems"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

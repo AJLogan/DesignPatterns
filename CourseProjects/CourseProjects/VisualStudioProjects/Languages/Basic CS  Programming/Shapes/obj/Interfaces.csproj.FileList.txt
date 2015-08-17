@@ -1,0 +1,2 @@
+obj\Debug\Interfaces.exe
+obj\Debug\Interfaces.pdb

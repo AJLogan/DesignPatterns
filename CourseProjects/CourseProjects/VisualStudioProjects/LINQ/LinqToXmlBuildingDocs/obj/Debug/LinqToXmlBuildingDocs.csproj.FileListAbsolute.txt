@@ -1,0 +1,22 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlBuildingDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlBuildingDocs\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlBuildingDocs\bin\Debug\LinqToXmlBuildingDocs.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlBuildingDocs\obj\Debug\LinqToXmlBuildingDocs.pdb

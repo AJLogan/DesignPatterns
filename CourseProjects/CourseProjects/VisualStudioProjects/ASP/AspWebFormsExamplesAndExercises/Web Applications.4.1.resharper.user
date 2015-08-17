@@ -1,0 +1,214 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.DateTime.Now">
+      <Item value="ToShortTimeString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="FindControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List&lt;Delegate&gt;">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlInputText">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="8" />
+      <Item value="CompanyTwo" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="int" priority="5" />
+      <Item value="return" priority="4" />
+      <Item value="data" priority="10" />
+      <Item value="startIndex" priority="2" />
+      <Item value="maximum" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="Employee" priority="4" />
+      <Item value="void" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="emp" priority="0" />
+      <Item value="i" priority="6" />
+      <Item value="DataMisalignedException" priority="2" />
+      <Item value="name" priority="1" />
+      <Item value="value" priority="4" />
+      <Item value="department" priority="0" />
+      <Item value="salary" priority="0" />
+      <Item value="DeleteEmployee" priority="0" />
+      <Item value="position" priority="2" />
+      <Item value="string" priority="4" />
+      <Item value="ID" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="String" priority="1" />
+      <Item value="e1" priority="0" />
+      <Item value="e2" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="Delegate" priority="1" />
+      <Item value="attendees" priority="0" />
+      <Item value="departments" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="List&lt;Employee&gt;" priority="0" />
+      <Item value="as" priority="25" />
+      <Item value="EndEventHandler" priority="0" />
+      <Item value="object" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+      <Item value="GetRange" priority="0" />
+      <Item value="AddRange" priority="0" />
+      <Item value="RemoveAt" priority="1" />
+      <Item value="Insert" priority="1" />
+      <Item value="FindIndex" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataBinding.Employee">
+      <Item value="Name" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:DemoHandler.ashx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:DecodingViewState.aspx" caret="147" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:FormParams.aspx" caret="69" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:HandleError.aspx" caret="70" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:MasterPagesDemo.aspx" caret="0" scrollPosition="0|24" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:PageEvents.aspx" caret="0" scrollPosition="0|21" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:SessionState.aspx" caret="1403" scrollPosition="0|33" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:SimpleForm.html" caret="42" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:ThrowError.aspx" caret="98" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:TracingEvents.aspx" caret="1044" scrollPosition="0|15" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:WebMail.html" caret="42" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:ControlProperties.aspx" caret="992" scrollPosition="43|23" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Index.aspx" caret="2923" scrollPosition="5|25" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesSolution.aspx" caret="1023" scrollPosition="4|15" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:GridViewOne.aspx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:GridViewOne.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:FinancialResultsProcessorSolution.aspx" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/f:Delegate.cs" caret="247" scrollPosition="0|18" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCourses.aspx" caret="327" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/f:TrainingCourse.cs" caret="282" scrollPosition="0|7" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/d:App_Code/d:DataBinding/f:Employee.cs" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/d:App_Code/d:DataBinding/f:Company.cs" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Login.aspx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Holiday.html" caret="652" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:OrderEntrySolution.aspx" caret="190" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:Calculator.aspx" caret="392" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearchSolution.aspx" caret="552" scrollPosition="0|10" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearch.aspx" caret="1052" scrollPosition="0|18" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Validation.aspx" caret="1439" scrollPosition="86|23" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:Index.aspx" caret="1053" scrollPosition="81|9" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:CalculatorSolution.aspx.cs" caret="3825" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCourses.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCourses.aspx" caret="393" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCourses.aspx" caret="385" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesSolution.aspx" caret="788" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/d:TrainingV1/f:TrainingCourse.cs" caret="399" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesSolution.aspx" caret="505" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesTwo.aspx" caret="350" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesTwoSolution.aspx" caret="404" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesTwo.aspx" caret="443" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesTwoSolution.aspx" caret="3098" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesTwoSolution.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingCourse.vb" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/d:TrainingV2/f:Delegate.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/d:TrainingV1/f:Delegate.cs" caret="0" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingCourse.vb" caret="1312" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/d:TrainingV2/f:TrainingCourse.cs" caret="1217" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingDelegate.vb" caret="1173" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingDelegate.vb" caret="1047" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearchSolution.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearch.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearchSolution.aspx" caret="44" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearch.aspx" caret="0" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearchSolution.aspx" caret="44" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearch.aspx" caret="44" scrollPosition="0|0" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/d:App_Code/f:web.config" caret="6988" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/d:App_Code/f:Web.config" caret="4917" scrollPosition="0|0" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/f:ThrowError.aspx" caret="121" scrollPosition="0|0" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/f:CustomControls.aspx" caret="411" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:CustomControls.aspx" caret="361" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingDelegate.vb" caret="972" scrollPosition="0|6" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingDelegate.vb" caret="373" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingDelegate.vb" caret="356" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingDelegate.vb" caret="825" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingCourse.vb" caret="724" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingCourse.vb" caret="702" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV1/f:TrainingCourse.vb" caret="155" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesTwo.aspx" caret="350" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesTwoSolution.aspx" caret="3078" scrollPosition="0|24" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:TrainingCoursesTwoSolution.aspx" caret="597" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingDelegate.vb" caret="1530" scrollPosition="0|4" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingCourse.vb" caret="1029" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingCourse.vb" caret="839" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingCourse.vb" caret="1312" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingDelegate.vb" caret="114" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingDelegate.vb" caret="1496" scrollPosition="0|18" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/d:App_Code/d:TrainingV2/f:TrainingDelegate.vb" caret="889" scrollPosition="0|18" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearch.aspx" caret="1305" scrollPosition="0|3" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearch.aspx" caret="402" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearchSolution.aspx" caret="2295" scrollPosition="0|2" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearchSolution.aspx" caret="429" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearchSolution.aspx" caret="44" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearch.aspx" caret="44" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearch.aspx" caret="44" scrollPosition="0|0" />
+      <File id="A11B04CD-1D7D-4D7C-9589-14972F6543F4/f:BookSearchSolution.aspx" caret="44" scrollPosition="0|0" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/f:ThrowError.aspx" caret="60" scrollPosition="0|0" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/d:App_Code/f:web.config" caret="6986" scrollPosition="0|105" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/d:App_Code/f:web.config" caret="6678" scrollPosition="0|105" />
+      <File id="B95632CA-8C5E-45C0-B582-FC4DB4D52C37/f:CustomControls.aspx" caret="203" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:CustomControls.aspx" caret="186" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+</Configuration>

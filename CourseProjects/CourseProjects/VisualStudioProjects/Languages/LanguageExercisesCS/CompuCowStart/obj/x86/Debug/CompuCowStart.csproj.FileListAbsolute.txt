@@ -1,0 +1,5 @@
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\CompuCowStart\bin\Debug\CompuCowStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\CompuCowStart\bin\Debug\CompuCowStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\CompuCowStart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\CompuCowStart\obj\x86\Debug\CompuCowStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\CompuCowStart\obj\x86\Debug\CompuCowStart.pdb

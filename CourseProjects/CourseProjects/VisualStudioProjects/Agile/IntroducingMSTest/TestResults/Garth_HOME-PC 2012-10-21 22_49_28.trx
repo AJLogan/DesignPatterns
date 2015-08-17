@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4eb1e102-9599-4a5d-aadf-1f5f461f95a3" name="Garth@HOME-PC 2012-10-21 22:49:28" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_49_28" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:49:28.5449799+01:00" queuing="2012-10-21T22:49:28.5549805+01:00" start="2012-10-21T22:49:28.5599807+01:00" finish="2012-10-21T22:49:28.8049948+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>Assembly level initalize method called
+Assembly level cleanup method called
+</DebugTrace>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AdditionWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="73f09976-87e7-54c9-e40f-f3832ccf1043">
+      <Execution id="226e0425-0efe-4f9d-8b32-63df07c0bcad" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AdditionWorks" />
+    </UnitTest>
+    <UnitTest name="MultiplicationWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="74bf918c-2abb-0190-c4fa-41fa45cc78a7">
+      <Execution id="82c75b82-635d-43db-a8d7-e8b5f2d915ba" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicationWorks" />
+    </UnitTest>
+    <UnitTest name="SubtractionWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="997995d1-55ea-a3aa-9a04-7ce9face92c4">
+      <Execution id="290a66a5-c3dd-4006-92ae-f06533a8db8b" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SubtractionWorks" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="73f09976-87e7-54c9-e40f-f3832ccf1043" executionId="226e0425-0efe-4f9d-8b32-63df07c0bcad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74bf918c-2abb-0190-c4fa-41fa45cc78a7" executionId="82c75b82-635d-43db-a8d7-e8b5f2d915ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="997995d1-55ea-a3aa-9a04-7ce9face92c4" executionId="290a66a5-c3dd-4006-92ae-f06533a8db8b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="226e0425-0efe-4f9d-8b32-63df07c0bcad" testId="73f09976-87e7-54c9-e40f-f3832ccf1043" testName="AdditionWorks" computerName="HOME-PC" duration="00:00:00.0094664" startTime="2012-10-21T22:49:28.5819820+01:00" endTime="2012-10-21T22:49:28.7709928+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="226e0425-0efe-4f9d-8b32-63df07c0bcad">
+    </UnitTestResult>
+    <UnitTestResult executionId="82c75b82-635d-43db-a8d7-e8b5f2d915ba" testId="74bf918c-2abb-0190-c4fa-41fa45cc78a7" testName="MultiplicationWorks" computerName="HOME-PC" duration="00:00:00.0118618" startTime="2012-10-21T22:49:28.7739930+01:00" endTime="2012-10-21T22:49:28.7889938+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="82c75b82-635d-43db-a8d7-e8b5f2d915ba">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;601&gt;. Actual:&lt;600&gt;. </Message>
+          <StackTrace>   at IntroToMSTest.BasicMathTest.MultiplicationWorks() in C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\BasicMathTest.cs:line 24
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="290a66a5-c3dd-4006-92ae-f06533a8db8b" testId="997995d1-55ea-a3aa-9a04-7ce9face92c4" testName="SubtractionWorks" computerName="HOME-PC" duration="00:00:00.0001844" startTime="2012-10-21T22:49:28.7899939+01:00" endTime="2012-10-21T22:49:28.7939941+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="290a66a5-c3dd-4006-92ae-f06533a8db8b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

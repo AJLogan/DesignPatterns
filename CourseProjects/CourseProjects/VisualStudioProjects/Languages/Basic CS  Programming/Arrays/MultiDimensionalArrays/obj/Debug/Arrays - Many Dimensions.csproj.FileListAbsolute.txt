@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\Arrays - Many Dimensions.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb

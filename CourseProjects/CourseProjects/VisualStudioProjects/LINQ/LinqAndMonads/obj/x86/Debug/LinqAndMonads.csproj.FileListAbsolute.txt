@@ -1,0 +1,10 @@
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndMonads\bin\Debug\LinqAndMonads.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndMonads\bin\Debug\LinqAndMonads.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\LinqAndMonads.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\LinqAndMonads.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\LinqAndMonads.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\LinqAndMonads.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndMonads\bin\Debug\LinqAndMonads.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndMonads\bin\Debug\LinqAndMonads.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndMonads\obj\x86\Debug\ResolveAssemblyReference.cache

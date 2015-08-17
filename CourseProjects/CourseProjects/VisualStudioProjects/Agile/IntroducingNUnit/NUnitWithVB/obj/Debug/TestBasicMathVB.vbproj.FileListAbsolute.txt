@@ -1,0 +1,18 @@
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\nunit.framework.dll
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\nunit.framework.xml
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.pdb
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.xml
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\obj\Debug\TestBasicMath.dll
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\obj\Debug\TestBasicMath.xml
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\obj\Debug\TestBasicMath.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\bin\TestBasicMath.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\bin\TestBasicMath.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\bin\TestBasicMath.xml
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\obj\Debug\TestBasicMath.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\obj\Debug\TestBasicMath.xml
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\obj\Debug\TestBasicMath.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\bin\nunit.framework.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithVB\bin\nunit.framework.xml

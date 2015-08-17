@@ -1,0 +1,5 @@
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\ClassDeclarationsFinishV2\bin\Debug\ClassDeclarationsFinishV2.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\ClassDeclarationsFinishV2\bin\Debug\ClassDeclarationsFinishV2.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\ClassDeclarationsFinishV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\ClassDeclarationsFinishV2\obj\x86\Debug\ClassDeclarationsFinishV2.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\ClassDeclarationsFinishV2\obj\x86\Debug\ClassDeclarationsFinishV2.pdb

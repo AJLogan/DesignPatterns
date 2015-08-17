@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6BEB3F2-7F92-4C73-B1D0-92AE0B5C812A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		MockingWithMoq.vsmdi = MockingWithMoq.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMocking", "BasicMocking\BasicMocking.csproj", "{0A2B7BEE-86B8-45EA-A5EF-A8926326C277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedMocking", "AdvancedMocking\AdvancedMocking.csproj", "{A1223249-FF43-4DBD-A906-9269D8C5DB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingChallengeStart", "MockingChallengeStart\MockingChallengeStart.csproj", "{BFD35FF7-38B3-4967-AD2F-79364A3E1D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingChallengeFinish", "MockingChallengeFinish\MockingChallengeFinish.csproj", "{F7609A53-BA37-413D-BFCD-043683D896AC}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MockingWithMoq.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2B7BEE-86B8-45EA-A5EF-A8926326C277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2B7BEE-86B8-45EA-A5EF-A8926326C277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2B7BEE-86B8-45EA-A5EF-A8926326C277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2B7BEE-86B8-45EA-A5EF-A8926326C277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1223249-FF43-4DBD-A906-9269D8C5DB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1223249-FF43-4DBD-A906-9269D8C5DB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1223249-FF43-4DBD-A906-9269D8C5DB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1223249-FF43-4DBD-A906-9269D8C5DB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD35FF7-38B3-4967-AD2F-79364A3E1D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD35FF7-38B3-4967-AD2F-79364A3E1D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD35FF7-38B3-4967-AD2F-79364A3E1D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD35FF7-38B3-4967-AD2F-79364A3E1D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7609A53-BA37-413D-BFCD-043683D896AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7609A53-BA37-413D-BFCD-043683D896AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7609A53-BA37-413D-BFCD-043683D896AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7609A53-BA37-413D-BFCD-043683D896AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

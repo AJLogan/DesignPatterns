@@ -1,0 +1,10 @@
+﻿@model BasicAspMvcDemos.Models.MyData
+
+@{
+    ViewBag.Title = "RazorHtmlHelpers";
+}
+
+<h2>RazorHtmlHelpers</h2>
+@MyHelpers.DisplayVehicleDetails(Model.TheVehicle)
+@MyHelpers.DisplayAddressDetails(Model.AddressList)
+@MyHelpers.DisplayPaymentsPlan(Model.Repayment)

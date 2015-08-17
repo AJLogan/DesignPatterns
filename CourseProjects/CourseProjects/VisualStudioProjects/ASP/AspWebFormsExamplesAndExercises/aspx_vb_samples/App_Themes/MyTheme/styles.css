@@ -1,0 +1,9 @@
+﻿body { text-size:11pt; }
+table { margin-top: 2em; border: thin solid; border-color: black;  border-collapse: collapse; position: relative; left: 10%;}
+tr.even { background-color: #C6B5DE;}
+tr.headers { text-align: center; text-decoration:underline; color: navy;}
+td { padding: 0.25em; }
+td.title { background-color: #29006B; color: white; text-align: center; }
+a:link { text-decoration: none; color:blue; }
+a:visited {  text-decoration: none; color:blue; }
+a:hover {  text-decoration: underline; }

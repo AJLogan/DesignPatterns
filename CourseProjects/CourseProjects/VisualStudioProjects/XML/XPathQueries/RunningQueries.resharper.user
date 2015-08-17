@@ -1,0 +1,48 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@">
+      <Item value="NodeType" priority="0" />
+      <Item value="Compile" priority="0" />
+      <Item value="Evaluate" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="Select" priority="0" />
+      <Item value="Current" priority="3" />
+      <Item value="MoveNext" priority="1" />
+      <Item value="CreateNavigator" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XPath.XPathNavigator">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XPath.XPathNodeType">
+      <Item value="Element" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="285AF71B-F1C8-48B1-B124-23E746A5030B/f:purchase_order.xml" caret="0" visual-x="0" visual-y="110" />
+      <File id="285AF71B-F1C8-48B1-B124-23E746A5030B/f:Demo.cs" caret="2553" visual-x="0" visual-y="616" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

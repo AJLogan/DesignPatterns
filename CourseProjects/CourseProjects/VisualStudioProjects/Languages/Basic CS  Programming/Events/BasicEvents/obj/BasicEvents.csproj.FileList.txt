@@ -1,0 +1,5 @@
+bin\Debug\BasicEvents.exe
+bin\Debug\BasicEvents.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BasicEvents.exe
+obj\Debug\BasicEvents.pdb

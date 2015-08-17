@@ -1,0 +1,10 @@
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndFlatMap\bin\Debug\LinqAndFlatMap.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndFlatMap\bin\Debug\LinqAndFlatMap.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\LinqAndFlatMap.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\LinqAndFlatMap.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndFlatMap\bin\Debug\LinqAndFlatMap.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndFlatMap\bin\Debug\LinqAndFlatMap.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\LinqAndFlatMap.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqAndFlatMap\obj\x86\Debug\LinqAndFlatMap.pdb

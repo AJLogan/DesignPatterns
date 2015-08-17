@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="MvvmDemo.View.DecreaseRepeatButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="113" Width="58"
+             Name="DecreaseRepeatControl">
+
+    <UserControl.Resources>
+        <Style TargetType="RepeatButton" x:Key="DecreaseButtonStyle">
+            <Setter Property="Delay" Value="500" />
+            <Setter Property="Interval" Value="100" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="RepeatButton">
+                        <Canvas>
+                            <Image Name="DownImage" Source="../Images/updown-button.png">
+                                <Image.Clip>
+                                    <RectangleGeometry Rect="0,56,58,56" />
+                                </Image.Clip>
+                            </Image>
+                        </Canvas>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter TargetName="DownImage" Property="Source" Value="../Images/updown-button-press.png" />
+                                <Setter TargetName="DownImage" Property="Clip">
+                                    <Setter.Value>
+                                        <RectangleGeometry Rect="0,0,58,113" />
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    
+    <RepeatButton Style="{DynamicResource DecreaseButtonStyle}" Command="{Binding DecreaseCommand, ElementName=DecreaseRepeatControl}" Delay="500" Interval="100"/>    
+
+</UserControl>

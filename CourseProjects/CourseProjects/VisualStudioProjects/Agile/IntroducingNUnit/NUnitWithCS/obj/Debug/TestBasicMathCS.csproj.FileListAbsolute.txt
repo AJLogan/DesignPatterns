@@ -1,0 +1,14 @@
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\bin\Debug\TestBasicMath.dll
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\bin\Debug\TestBasicMath.pdb
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\bin\Debug\nunit.framework.xml
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\obj\Debug\TestBasicMath.dll
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\obj\Debug\TestBasicMath.pdb
+C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithCS\bin\Debug\nunit.framework.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\bin\Debug\TestBasicMath.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\bin\Debug\TestBasicMath.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\obj\Debug\TestBasicMath.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\obj\Debug\TestBasicMath.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\bin\Debug\nunit.framework.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingNUnit\NUnitWithCS\bin\Debug\nunit.framework.xml

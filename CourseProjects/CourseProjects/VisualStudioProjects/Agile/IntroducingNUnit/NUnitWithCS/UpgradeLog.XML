@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestBasicMath">
+</Property><Property Name="Solution File" Value="C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\TestBasicMath.sln">
+</Property><Property Name="User Options File" Value="C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\TestBasicMath.suo">
+</Property><Property Name="Date" Value="02 July 2008">
+</Property><Property Name="Time" Value="10:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TestBasicMath.sln" Description="File successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\TestBasicMath.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TestBasicMath.suo" Description="File successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\TestBasicMath.suo">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="TestBasicMath.csproj" Description="Project file successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\TestBasicMath.csproj">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="TestBasicMath.csproj.user" Description="Project user file successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\TestBasicMath.csproj.user">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="BasicMath.cs" Description="File successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\BasicMath.cs">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="TestMath.cs" Description="File successfully backed up as C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\Backup\TestMath.cs">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="TestBasicMath.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestBasicMath" Source="TestBasicMath.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestBasicMath.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestBasicMath.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestBasicMath" Source="TestBasicMath.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

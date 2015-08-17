@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MySuite" verbose="1" >
+  	<test name="Sanity Tests">
+    	<classes>
+      		<class name="demos.tdd.testng.advanced.LinkedListTest">
+      			<methods>
+      				<include name="newList"/>
+      				<include name="addSingleItem"/>
+      				<include name="removeFirstItem"/>
+      			</methods>
+      		</class>
+    	</classes>
+  	</test>
+</suite>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="174be7f5-7ca0-4dab-b114-9a21825e1e94" name="Garth Gilmour@LH-4R0EKHM0CUJ8 2012-10-23 00:28:13" runUser="LH-4R0EKHM0CUJ8\Garth Gilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f85a2095-b8b5-4bcc-b983-62a011394f52">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth Gilmour_LH-4R0EKHM0CUJ8 2012-10-23 00_28_13">
+      <DeploymentItem filename="E:\software\Moq.4.0.10827\NET40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-23T00:28:13.7697265+01:00" queuing="2012-10-23T00:28:13.8458935+01:00" start="2012-10-23T00:28:14.1173605+01:00" finish="2012-10-23T00:28:14.8800070+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="8" executed="8" passed="5" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InternationalFlightEconomyClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="0e189add-eacf-d321-ee0f-cc08c83016a3">
+      <Execution id="d3eabd1a-ddb7-4eff-bf74-aae77fa6eef3" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InternationalFlightEconomyClass" />
+    </UnitTest>
+    <UnitTest name="LocalFlightFirstClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="ab1cd65d-fcee-3c41-9b36-1dc271515c8c">
+      <Execution id="fe4f80ec-3587-4d3e-8711-fc7b2266e77f" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LocalFlightFirstClass" />
+    </UnitTest>
+    <UnitTest name="LocalFlightEconomyClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="fb4a5669-fe05-fe81-471e-aa8c13152ad1">
+      <Execution id="5746270d-18a2-4b7d-a787-7c82003bf268" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LocalFlightEconomyClass" />
+    </UnitTest>
+    <UnitTest name="MultipleLocalFlights" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="723f7ed2-294b-4bba-8948-bd9950b74c8d">
+      <Execution id="04532482-b46d-4446-b323-22590c8a9c77" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultipleLocalFlights" />
+    </UnitTest>
+    <UnitTest name="InternationalFlightBusinessClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="0d7da6ac-4a4c-8aab-384b-df4169e6409c">
+      <Execution id="a4450658-3d13-44e1-b409-2923dddacd7d" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InternationalFlightBusinessClass" />
+    </UnitTest>
+    <UnitTest name="InternationalFlightFirstClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="24e547b2-d30c-ec42-8be8-918bb741059e">
+      <Execution id="3898844a-67fe-4c9f-abb4-939f21d6d813" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InternationalFlightFirstClass" />
+    </UnitTest>
+    <UnitTest name="LocalFlightBusinessClass" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="368ba07b-8715-bc07-084a-566e0d3458c1">
+      <Execution id="51e93a1a-f178-4b95-ad73-e45350cfc3a2" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LocalFlightBusinessClass" />
+    </UnitTest>
+    <UnitTest name="MultipleInternationalFlights" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\mockingchallengefinish\bin\debug\mockingchallengefinish.dll" id="37affdb1-a8d2-855a-45ec-0fb610b21bc6">
+      <Execution id="5fd6aab3-2ab1-4733-ada8-83ced27222c9" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/MockingChallengeFinish/bin/Debug/MockingChallengeFinish.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockingChallengeFinish.TravelAllowanceCalculatorTest, MockingChallengeFinish, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultipleInternationalFlights" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0d7da6ac-4a4c-8aab-384b-df4169e6409c" executionId="a4450658-3d13-44e1-b409-2923dddacd7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0e189add-eacf-d321-ee0f-cc08c83016a3" executionId="d3eabd1a-ddb7-4eff-bf74-aae77fa6eef3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="24e547b2-d30c-ec42-8be8-918bb741059e" executionId="3898844a-67fe-4c9f-abb4-939f21d6d813" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="368ba07b-8715-bc07-084a-566e0d3458c1" executionId="51e93a1a-f178-4b95-ad73-e45350cfc3a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37affdb1-a8d2-855a-45ec-0fb610b21bc6" executionId="5fd6aab3-2ab1-4733-ada8-83ced27222c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="723f7ed2-294b-4bba-8948-bd9950b74c8d" executionId="04532482-b46d-4446-b323-22590c8a9c77" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab1cd65d-fcee-3c41-9b36-1dc271515c8c" executionId="fe4f80ec-3587-4d3e-8711-fc7b2266e77f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb4a5669-fe05-fe81-471e-aa8c13152ad1" executionId="5746270d-18a2-4b7d-a787-7c82003bf268" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a4450658-3d13-44e1-b409-2923dddacd7d" testId="0d7da6ac-4a4c-8aab-384b-df4169e6409c" testName="InternationalFlightBusinessClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.2709858" startTime="2012-10-23T00:28:14.1749740+01:00" endTime="2012-10-23T00:28:14.6476000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a4450658-3d13-44e1-b409-2923dddacd7d">
+    </UnitTestResult>
+    <UnitTestResult executionId="d3eabd1a-ddb7-4eff-bf74-aae77fa6eef3" testId="0e189add-eacf-d321-ee0f-cc08c83016a3" testName="InternationalFlightEconomyClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0183601" startTime="2012-10-23T00:28:14.6534590+01:00" endTime="2012-10-23T00:28:14.6778715+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3eabd1a-ddb7-4eff-bf74-aae77fa6eef3">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected a difference no greater than &lt;0.001&gt; between expected value &lt;123&gt; and actual value &lt;210&gt;. </Message>
+          <StackTrace>   at MockingChallengeFinish.TravelAllowanceCalculatorTest.InternationalFlightEconomyClass() in E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\MockingChallengeFinish\TravelAllowanceCalculatorTest.cs:line 69
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3898844a-67fe-4c9f-abb4-939f21d6d813" testId="24e547b2-d30c-ec42-8be8-918bb741059e" testName="InternationalFlightFirstClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0030612" startTime="2012-10-23T00:28:14.6798245+01:00" endTime="2012-10-23T00:28:14.7013075+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3898844a-67fe-4c9f-abb4-939f21d6d813">
+    </UnitTestResult>
+    <UnitTestResult executionId="51e93a1a-f178-4b95-ad73-e45350cfc3a2" testId="368ba07b-8715-bc07-084a-566e0d3458c1" testName="LocalFlightBusinessClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0026849" startTime="2012-10-23T00:28:14.7061900+01:00" endTime="2012-10-23T00:28:14.7130255+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51e93a1a-f178-4b95-ad73-e45350cfc3a2">
+    </UnitTestResult>
+    <UnitTestResult executionId="5fd6aab3-2ab1-4733-ada8-83ced27222c9" testId="37affdb1-a8d2-855a-45ec-0fb610b21bc6" testName="MultipleInternationalFlights" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0135056" startTime="2012-10-23T00:28:14.7179080+01:00" endTime="2012-10-23T00:28:14.7354850+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5fd6aab3-2ab1-4733-ada8-83ced27222c9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected a difference no greater than &lt;0.001&gt; between expected value &lt;235&gt; and actual value &lt;210&gt;. </Message>
+          <StackTrace>   at MockingChallengeFinish.TravelAllowanceCalculatorTest.MultipleInternationalFlights() in E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\MockingChallengeFinish\TravelAllowanceCalculatorTest.cs:line 93
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="04532482-b46d-4446-b323-22590c8a9c77" testId="723f7ed2-294b-4bba-8948-bd9950b74c8d" testName="MultipleLocalFlights" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0054878" startTime="2012-10-23T00:28:14.7423205+01:00" endTime="2012-10-23T00:28:14.7520855+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04532482-b46d-4446-b323-22590c8a9c77">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected a difference no greater than &lt;0.001&gt; between expected value &lt;1285&gt; and actual value &lt;18&gt;. </Message>
+          <StackTrace>   at MockingChallengeFinish.TravelAllowanceCalculatorTest.MultipleLocalFlights() in E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\MockingChallengeFinish\TravelAllowanceCalculatorTest.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fe4f80ec-3587-4d3e-8711-fc7b2266e77f" testId="ab1cd65d-fcee-3c41-9b36-1dc271515c8c" testName="LocalFlightFirstClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0028746" startTime="2012-10-23T00:28:14.7589210+01:00" endTime="2012-10-23T00:28:14.7677095+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fe4f80ec-3587-4d3e-8711-fc7b2266e77f">
+    </UnitTestResult>
+    <UnitTestResult executionId="5746270d-18a2-4b7d-a787-7c82003bf268" testId="fb4a5669-fe05-fe81-471e-aa8c13152ad1" testName="LocalFlightEconomyClass" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0024430" startTime="2012-10-23T00:28:14.7716155+01:00" endTime="2012-10-23T00:28:14.7794275+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5746270d-18a2-4b7d-a787-7c82003bf268">
+    </UnitTestResult>
+  </Results>
+</TestRun>

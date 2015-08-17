@@ -1,0 +1,8 @@
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\bin\Debug\AdvancedMocking.dll
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\bin\Debug\AdvancedMocking.pdb
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\bin\Debug\Moq.dll
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\bin\Debug\Moq.pdb
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\bin\Debug\Moq.xml
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\obj\Debug\AdvancedMocking.dll
+E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\AdvancedMocking\obj\Debug\AdvancedMocking.pdb

@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\UsingCallerInformation\bin\Debug\UsingCallerInformation.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\UsingCallerInformation\bin\Debug\UsingCallerInformation.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\UsingCallerInformation\bin\Debug\UsingCallerInformation.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\UsingCallerInformation\obj\Debug\UsingCallerInformation.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\UsingCallerInformation\obj\Debug\UsingCallerInformation.pdb

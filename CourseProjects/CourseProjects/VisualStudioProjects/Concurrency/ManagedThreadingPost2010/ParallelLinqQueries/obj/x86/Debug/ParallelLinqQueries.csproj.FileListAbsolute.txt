@@ -1,0 +1,7 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ParallelLinqQueries\bin\Debug\ParallelLinqQueries.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ParallelLinqQueries\bin\Debug\ParallelLinqQueries.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ParallelLinqQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ParallelLinqQueries\obj\x86\Debug\ParallelLinqQueries.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\ParallelLinqQueries\obj\x86\Debug\ParallelLinqQueries.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\ParallelLinqQueries\obj\x86\Debug\ParallelLinqQueries.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\ParallelLinqQueries\obj\x86\Debug\ParallelLinqQueries.pdb

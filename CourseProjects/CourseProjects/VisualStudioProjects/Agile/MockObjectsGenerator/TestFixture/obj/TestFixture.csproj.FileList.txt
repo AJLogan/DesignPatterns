@@ -1,0 +1,5 @@
+bin\Debug\TestFixture.dll
+bin\Debug\TestFixture.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestFixture.dll
+obj\Debug\TestFixture.pdb

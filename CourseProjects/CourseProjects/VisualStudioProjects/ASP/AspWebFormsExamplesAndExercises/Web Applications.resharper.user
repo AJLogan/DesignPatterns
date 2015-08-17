@@ -1,0 +1,86 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.DateTime.Now">
+      <Item value="ToShortTimeString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="FindControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List&lt;Delegate&gt;">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlInputText">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:DemoHandler.ashx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:DecodingViewState.aspx" caret="147" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:FormParams.aspx" caret="69" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:HandleError.aspx" caret="70" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:MasterPagesDemo.aspx" caret="0" scrollPosition="0|24" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:PageEvents.aspx" caret="0" scrollPosition="0|21" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:SessionState.aspx" caret="1403" scrollPosition="0|33" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:SimpleForm.html" caret="42" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:ThrowError.aspx" caret="98" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:TracingEvents.aspx" caret="1044" scrollPosition="0|15" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:WebMail.html" caret="42" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:ControlProperties.aspx" caret="992" scrollPosition="43|23" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Index.aspx" caret="2923" scrollPosition="5|25" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCoursesSolution.aspx" caret="1023" scrollPosition="4|15" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:GridViewOne.aspx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:GridViewOne.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:FinancialResultsProcessorSolution.aspx" caret="0" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/f:Delegate.cs" caret="247" scrollPosition="0|18" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:TrainingCourses.aspx" caret="327" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/d:App_Code/d:AspxExercises/f:TrainingCourse.cs" caret="282" scrollPosition="0|7" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/d:App_Code/d:DataBinding/f:Employee.cs" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/d:App_Code/d:DataBinding/f:Company.cs" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Login.aspx" caret="0" scrollPosition="0|0" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Holiday.html" caret="652" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:OrderEntrySolution.aspx" caret="190" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:Calculator.aspx" caret="392" scrollPosition="0|0" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearchSolution.aspx" caret="552" scrollPosition="0|10" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:BookSearch.aspx" caret="1052" scrollPosition="0|18" />
+      <File id="CFAC16F7-58B1-4C35-A749-4832AA6C9A0D/f:Validation.aspx" caret="1439" scrollPosition="86|23" />
+      <File id="3393B790-4668-4419-987C-6CBC5FB4DF0C/f:Index.aspx" caret="1053" scrollPosition="81|9" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

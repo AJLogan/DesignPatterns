@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	To run ANT buildfiles outside an IDE you need to have ANT_HOME and JAVA_HOME set
+	Also the bin directories inside ANT_HOME and JAVA_HOME need to be on your path
+	
+	If running inside an IDE remember to set the current directory to this one
+-->
+<project name="Example Ant Script" default="runApp" basedir=".">
+	<property name="build.bin" value="..\bin"/>
+	<property name="build.images" value="..\images"/>
+	<property name="build.ant" value="..\build"/>
+	<!-- Set up the name of the jar file to be built -->
+	<property name="jarName" value="myapp.jar"/>
+	<!-- Set up the path to the jar file -->
+	<property name="pathToJar" value="${build.ant}\${jarName}"/>
+	<!-- Set up the name of the class which starts the app -->
+	<property name="launcherClassName" value="demos.swing.splash.screens.Launcher"/>
+	<!-- Use the jar task to build the archive -->
+	<target name="buildJar">
+		<jar jarfile="${jarName}">
+			<fileset dir="${build.images}">
+				<include name="*.jpg"/>
+			</fileset>
+			<fileset dir="${build.bin}">
+				<include name="**\*.class"/>
+			</fileset>
+			<manifest>
+				<attribute name="Main-Class" value="${launcherClassName}"/>
+				<attribute name="SplashScreen-Image" value="ZenRocks.jpg"/>
+			</manifest>
+		</jar>
+	</target>
+	<!-- Run the application as an executable JAR -->
+	<target name="runApp" depends="buildJar">
+		<java fork="true" jar="${pathToJar}"/>
+	</target>
+</project>

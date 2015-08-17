@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\bin\Debug\Visitor.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\bin\Debug\Visitor.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\bin\Debug\Visitor.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\obj\Debug\Visitor.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Visitor\obj\Debug\Visitor.pdb

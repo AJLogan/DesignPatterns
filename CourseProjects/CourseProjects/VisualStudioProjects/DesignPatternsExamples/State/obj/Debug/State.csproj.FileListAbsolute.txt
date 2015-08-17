@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\bin\Debug\State.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\bin\Debug\State.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\bin\Debug\State.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\obj\Debug\State.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\State\obj\Debug\State.pdb

@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\TemplateMethod\obj\Debug\TemplateMethod.pdb

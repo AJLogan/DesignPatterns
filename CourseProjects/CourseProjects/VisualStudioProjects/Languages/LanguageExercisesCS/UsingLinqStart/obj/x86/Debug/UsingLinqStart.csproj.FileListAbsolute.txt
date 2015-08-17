@@ -1,0 +1,5 @@
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\UsingLinqStart\bin\Debug\UsingLinqStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\UsingLinqStart\bin\Debug\UsingLinqStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\UsingLinqStart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\UsingLinqStart\obj\x86\Debug\UsingLinqStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\UsingLinqStart\obj\x86\Debug\UsingLinqStart.pdb

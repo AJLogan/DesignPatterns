@@ -1,0 +1,5 @@
+obj\Debug\CSharpStructs.exe
+obj\Debug\CSharpStructs.pdb
+bin\Debug\CSharpStructs.exe
+bin\Debug\CSharpStructs.pdb
+obj\Debug\ResolveAssemblyReference.cache

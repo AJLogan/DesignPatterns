@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XMLWriterDemo\obj\Debug\XMLWriterDemo.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XMLWriterDemo\obj\Debug\XMLWriterDemo.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XMLWriterDemo\bin\Debug\XMLWriterDemo.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XMLWriterDemo\bin\Debug\XMLWriterDemo.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XMLWriterDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XMLWriterDemo\bin\Debug\XMLWriterDemo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XMLWriterDemo\bin\Debug\XMLWriterDemo.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XMLWriterDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XMLWriterDemo\obj\Debug\XMLWriterDemo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XMLWriterDemo\obj\Debug\XMLWriterDemo.pdb

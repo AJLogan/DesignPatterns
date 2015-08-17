@@ -1,0 +1,110 @@
+@section scripts {
+	<script type="text/javascript">
+            function showTesting(queryStr) {
+                if($(queryStr).is('p')) {
+                    console.log("At least one result is a paragraph");
+                }
+                if($(queryStr).is('p.even')) {
+                    console.log("At least one result is even");
+                }
+                if($(queryStr).is('p.odd')) {
+                    console.log("At least one result is odd");
+                }
+            }
+            function showChainingSelectors(queryStr1,queryStr2) {
+                $(queryStr1).add(queryStr2).addClass("alpha");
+            }
+            function showCheckingForCssClass(queryStr) {
+                $(queryStr).each(function(index,node) {
+                    if($(node).hasClass("even")) {
+                      $(node).css("margin-left","4em");  
+                    }
+                });
+            }
+            function showFindingByIndex(queryStr) {
+                var wrappedSet = $(queryStr);
+                var firstNode = wrappedSet.get(0);
+                var thirdNode = wrappedSet[2];
+                var lastNode = wrappedSet.get(wrappedSet.size() - 1);
+                $(firstNode).css("text-decoration","underline"); 
+                $(thirdNode).css("text-decoration","line-through");
+                $(lastNode).css("text-decoration","overline");
+            }
+            function showFilteringResults(queryStr) {
+                $(queryStr).not(".even").prepend("*");
+                $(queryStr).filter(function(index,node){
+                                    return $(node).text().indexOf("seven") !== -1;
+                                   }).css("color","green");
+            }
+            function showExtractingSubsets(queryStr) {
+                var wrappedSet = $(queryStr);
+                var subsetOne = wrappedSet.slice(1,5);
+                var subsetTwo = wrappedSet.slice(6);
+                
+                subsetOne.append(" :-)");
+                subsetTwo.append(" :-(");   
+            }
+            function showNavigation(queryStr) {
+                var wrappedSet = $(queryStr);
+                var precedingSiblings = wrappedSet.prevAll().not('h1');
+                var followingSiblings = wrappedSet.nextAll();
+                
+                precedingSiblings.css("color","orange");
+                followingSiblings.css("color","purple");
+            }
+            $(document).ready( function () {
+                showTesting("p");
+                showChainingSelectors("p:first-of-type","p:last-of-type");
+                showCheckingForCssClass("p");
+                showFindingByIndex("p");
+                showFilteringResults("p");
+                showExtractingSubsets("p");
+                showNavigation("p:nth-child(8)");
+            });
+	</script>
+}
+@section mystyles {
+        <style type="text/css">
+            .myStyle { color: green }
+            .even  {}
+            .alpha { font-style: italic; }
+            .bravo { font-weight: bold; }
+        </style>
+}
+<h1>Working With Wrapped Sets Of Results</h1>
+<p>
+    Paragraph one
+</p>
+<p class="even">
+    Paragraph two
+</p>
+<p>
+    Paragraph three
+</p>
+<p class="even">
+    Paragraph four
+</p>
+<p>
+    Paragraph five
+</p>
+<p class="even">
+    Paragraph six
+</p>
+<p>
+    Paragraph seven
+</p>
+<p class="even">
+    Paragraph eight
+</p>
+<p>
+    Paragraph nine
+</p>
+<p class="even">
+    Paragraph ten
+</p>
+<p>
+    Paragraph eleven
+</p>
+<p class="even">
+    Paragraph twelve
+</p>

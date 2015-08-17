@@ -1,0 +1,15 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\development\dotnetdev\examples\Framework Libraries\XML\CSharpXMLReaderDemo\ConfigReader.cs" offset="111" line="0" column="0" />
+      <TrackedFile location="D:\development\dotnetdev\examples\Framework Libraries\XML\CSharpXMLReaderDemo\User.cs" offset="40" line="0" column="0" />
+      <TrackedFile location="D:\development\dotnetdev\examples\Framework Libraries\XML\CSharpXMLReaderDemo\Tester.cs" offset="133" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>

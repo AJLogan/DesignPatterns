@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Class Declarations\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Class Declarations\bin\Debug\Class Declarations.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Class Declarations\obj\Debug\Class Declarations.pdb

@@ -1,0 +1,7 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\CancellingParallelLoop\bin\Debug\CancellingParallelLoop.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\CancellingParallelLoop\bin\Debug\CancellingParallelLoop.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\CancellingParallelLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\CancellingParallelLoop\obj\x86\Debug\CancellingParallelLoop.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\CancellingParallelLoop\obj\x86\Debug\CancellingParallelLoop.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\CancellingParallelLoop\obj\x86\Debug\CancellingParallelLoop.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\CancellingParallelLoop\obj\x86\Debug\CancellingParallelLoop.pdb

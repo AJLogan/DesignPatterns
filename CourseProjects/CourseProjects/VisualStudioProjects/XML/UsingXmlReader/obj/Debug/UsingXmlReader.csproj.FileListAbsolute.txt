@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\UsingXmlReader\obj\Debug\SAXDemo.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\UsingXmlReader\obj\Debug\SAXDemo.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\UsingXmlReader\bin\Debug\SAXDemo.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\UsingXmlReader\bin\Debug\SAXDemo.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\UsingXmlReader\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\UsingXmlReader\bin\Debug\SAXDemo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\UsingXmlReader\bin\Debug\SAXDemo.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\UsingXmlReader\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\UsingXmlReader\obj\Debug\SAXDemo.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\UsingXmlReader\obj\Debug\SAXDemo.pdb

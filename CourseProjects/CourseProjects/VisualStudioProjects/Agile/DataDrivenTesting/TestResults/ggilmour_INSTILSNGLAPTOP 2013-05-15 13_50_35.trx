@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e83e8c3b-8697-4c96-92eb-079da07f3f6f" name="ggilmour@INSTILSNGLAPTOP 2013-05-15 13:50:35" runUser="InstilSngLaptop\ggilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="485879c6-563f-4449-9e13-f51cd5798057">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="ggilmour_INSTILSNGLAPTOP 2013-05-15 13_50_35" />
+  </TestSettings>
+  <Times creation="2013-05-15T13:50:35.8158611+01:00" queuing="2013-05-15T13:50:35.9984788+01:00" start="2013-05-15T13:50:36.0204875+01:00" finish="2013-05-15T13:50:36.7839975+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DataDrivenTest" storage="c:\development\dotnet\fullyvs2010\courseprojects\agile\datadriventesting\writingdatadriventests\bin\debug\writingdatadriventests.dll" id="b029f1fb-f70d-6cb7-be99-82efd4f81ed6">
+      <DeploymentItems>
+        <DeploymentItem filename="WritingDataDrivenTests\TestData\Input.xml" />
+      </DeploymentItems>
+      <Execution id="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" />
+      <TestMethod codeBase="C:/Development/DotNet/FullyVS2010/CourseProjects/Agile/DataDrivenTesting/WritingDataDrivenTests/bin/Debug/WritingDataDrivenTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DataDrivenTesting.SampleTest, WritingDataDrivenTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DataDrivenTest" />
+      <DataSource connectionString="|DataDirectory|\Input.xml" providerInvariantName="Microsoft.VisualStudio.TestTools.DataSource.XML" tableName="Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" executionId="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0957468" startTime="2013-05-15T13:50:36.0234955+01:00" endTime="2013-05-15T13:50:36.7369661+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" resultType="DataDrivenTest">
+      <Counters error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="3" completed="0" inProgress="0" pending="0" />
+      <InnerResults>
+        <UnitTestResult executionId="d2676aa4-e18a-4434-86b9-74f8f305683e" parentExecutionId="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0401866" startTime="2013-05-15T13:50:36.6479062+01:00" endTime="2013-05-15T13:50:36.7019423+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" dataRowInfo="0" resultType="DataDrivenDataRow" />
+        <UnitTestResult executionId="5e8e6b3d-aad5-4b9e-95f8-a749cfb344ec" parentExecutionId="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0000863" startTime="2013-05-15T13:50:36.7019423+01:00" endTime="2013-05-15T13:50:36.7019423+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" dataRowInfo="1" resultType="DataDrivenDataRow" />
+        <UnitTestResult executionId="919ea6ce-30b8-48da-936c-b2bea3472341" parentExecutionId="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0000354" startTime="2013-05-15T13:50:36.7019423+01:00" endTime="2013-05-15T13:50:36.7019423+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d72cd8b-15c1-48da-a8bc-5a84c00894c7" dataRowInfo="2" resultType="DataDrivenDataRow" />
+      </InnerResults>
+    </UnitTestResult>
+  </Results>
+</TestRun>

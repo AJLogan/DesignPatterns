@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b2df827d-9d40-4776-beee-435c701fd81d" name="Garth Gilmour@LH-4R0EKHM0CUJ8 2012-10-22 23:43:38" runUser="LH-4R0EKHM0CUJ8\Garth Gilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f85a2095-b8b5-4bcc-b983-62a011394f52">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth Gilmour_LH-4R0EKHM0CUJ8 2012-10-22 23_43_38">
+      <DeploymentItem filename="E:\Deliveries\ScrumDeveloperKainosOct2012\CourseProjects\VisualStudioProjects\MockingWithMoq\BasicMocking\bin\Debug\Moq.dll" />
+      <DeploymentItem filename="E:\software\Moq.4.0.10827\NET40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-22T23:43:38.3619520+01:00" queuing="2012-10-22T23:43:38.4361660+01:00" start="2012-10-22T23:43:38.6129125+01:00" finish="2012-10-22T23:43:40.0190725+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MakePurchaseWorksForInvalidQuantity" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="2adf743d-c800-204b-2822-5b5017c1ea2b">
+      <Execution id="214fa1b4-c952-454c-a8f8-30d3867b6b23" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakePurchaseWorksForInvalidQuantity" />
+    </UnitTest>
+    <UnitTest name="MakeMultiplePurchasesFailsForInvalidQuantities" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="6a5384c9-dda4-11c8-29ff-de6214b5be1a">
+      <Execution id="64c544a1-995f-43cb-baad-26474aa24835" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakeMultiplePurchasesFailsForInvalidQuantities" />
+    </UnitTest>
+    <UnitTest name="OrderNotPossibleWhenAllItemsOutOfStock" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="02b670cd-5bf7-23f9-9e66-5953312ca2ae">
+      <Execution id="058a89d7-cc47-4454-a097-466edf377cfd" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OrderNotPossibleWhenAllItemsOutOfStock" />
+    </UnitTest>
+    <UnitTest name="MakeMultiplePurchasesFailsWhenCardInvalid" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="88dc7725-bf1c-9eaf-8946-06eaa4b79e57">
+      <Execution id="eb4880a0-795c-4f7e-aa78-04e164cd1a31" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakeMultiplePurchasesFailsWhenCardInvalid" />
+    </UnitTest>
+    <UnitTest name="MakePurchaseWorksForValidQuantity" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="32e70c2c-aebd-7322-cb00-3812d579d1d7">
+      <Execution id="131c50a4-d2f6-4821-8d80-6bbfa084fd54" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakePurchaseWorksForValidQuantity" />
+    </UnitTest>
+    <UnitTest name="makePurchaseWorksForInvalidQuantity" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\basicmocking\bin\debug\mockobjectswithmoq.dll" id="466ff7ff-bd1a-d391-8d2d-4744ec2b2219">
+      <Execution id="6bb2b237-604c-4557-b914-21b45af6b97f" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/BasicMocking/bin/Debug/MockObjectsWithMoq.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockObjectsWithMoq.ShopTest, MockObjectsWithMoq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="makePurchaseWorksForInvalidQuantity" />
+    </UnitTest>
+    <UnitTest name="OrderNotPossibleWhenSomeItemsOutOfStock" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="9a530973-24d2-1db3-9afb-770bc57c12f3">
+      <Execution id="0303fd6e-0f0f-49d6-a2cf-6bcc131fbd83" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OrderNotPossibleWhenSomeItemsOutOfStock" />
+    </UnitTest>
+    <UnitTest name="MakeMultiplePurchasesWorksForValidQuantities" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="329001e2-f4bd-4106-ae60-3bd0b4be299b">
+      <Execution id="f4028e1b-c8a0-4b1d-977f-8a9d8789c48f" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MakeMultiplePurchasesWorksForValidQuantities" />
+    </UnitTest>
+    <UnitTest name="OrderPossibleWhenItemsInStock" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\advancedmocking\bin\debug\advancedmocking.dll" id="b8d37a9a-f38b-7fc1-9832-a69a248ba8eb">
+      <Execution id="6b016160-5054-4c29-bb00-c3ecf46ecd74" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/AdvancedMocking/bin/Debug/AdvancedMocking.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdvancedMocking.ShopTest, AdvancedMocking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OrderPossibleWhenItemsInStock" />
+    </UnitTest>
+    <UnitTest name="makePurchaseWorksForValidQuantity" storage="e:\deliveries\scrumdeveloperkainosoct2012\courseprojects\visualstudioprojects\mockingwithmoq\basicmocking\bin\debug\mockobjectswithmoq.dll" id="618c02d5-3421-cf6c-0fe6-1de2d14aab1a">
+      <Execution id="df1bd38c-0d80-4c35-bc2e-cd0ac6264a34" />
+      <TestMethod codeBase="E:/Deliveries/ScrumDeveloperKainosOct2012/CourseProjects/VisualStudioProjects/MockingWithMoq/BasicMocking/bin/Debug/MockObjectsWithMoq.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MockObjectsWithMoq.ShopTest, MockObjectsWithMoq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="makePurchaseWorksForValidQuantity" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02b670cd-5bf7-23f9-9e66-5953312ca2ae" executionId="058a89d7-cc47-4454-a097-466edf377cfd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2adf743d-c800-204b-2822-5b5017c1ea2b" executionId="214fa1b4-c952-454c-a8f8-30d3867b6b23" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="329001e2-f4bd-4106-ae60-3bd0b4be299b" executionId="f4028e1b-c8a0-4b1d-977f-8a9d8789c48f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32e70c2c-aebd-7322-cb00-3812d579d1d7" executionId="131c50a4-d2f6-4821-8d80-6bbfa084fd54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="466ff7ff-bd1a-d391-8d2d-4744ec2b2219" executionId="6bb2b237-604c-4557-b914-21b45af6b97f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="618c02d5-3421-cf6c-0fe6-1de2d14aab1a" executionId="df1bd38c-0d80-4c35-bc2e-cd0ac6264a34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a5384c9-dda4-11c8-29ff-de6214b5be1a" executionId="64c544a1-995f-43cb-baad-26474aa24835" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88dc7725-bf1c-9eaf-8946-06eaa4b79e57" executionId="eb4880a0-795c-4f7e-aa78-04e164cd1a31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a530973-24d2-1db3-9afb-770bc57c12f3" executionId="0303fd6e-0f0f-49d6-a2cf-6bcc131fbd83" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b8d37a9a-f38b-7fc1-9832-a69a248ba8eb" executionId="6b016160-5054-4c29-bb00-c3ecf46ecd74" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="058a89d7-cc47-4454-a097-466edf377cfd" testId="02b670cd-5bf7-23f9-9e66-5953312ca2ae" testName="OrderNotPossibleWhenAllItemsOutOfStock" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.3099480" startTime="2012-10-22T23:43:38.7671995+01:00" endTime="2012-10-22T23:43:39.3169690+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="058a89d7-cc47-4454-a097-466edf377cfd">
+    </UnitTestResult>
+    <UnitTestResult executionId="214fa1b4-c952-454c-a8f8-30d3867b6b23" testId="2adf743d-c800-204b-2822-5b5017c1ea2b" testName="MakePurchaseWorksForInvalidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0065349" startTime="2012-10-22T23:43:39.3218515+01:00" endTime="2012-10-22T23:43:39.3345460+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="214fa1b4-c952-454c-a8f8-30d3867b6b23">
+    </UnitTestResult>
+    <UnitTestResult executionId="f4028e1b-c8a0-4b1d-977f-8a9d8789c48f" testId="329001e2-f4bd-4106-ae60-3bd0b4be299b" testName="MakeMultiplePurchasesWorksForValidQuantities" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0347558" startTime="2012-10-22T23:43:39.3364990+01:00" endTime="2012-10-22T23:43:39.3804415+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4028e1b-c8a0-4b1d-977f-8a9d8789c48f">
+    </UnitTestResult>
+    <UnitTestResult executionId="131c50a4-d2f6-4821-8d80-6bbfa084fd54" testId="32e70c2c-aebd-7322-cb00-3812d579d1d7" testName="MakePurchaseWorksForValidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0033875" startTime="2012-10-22T23:43:39.3843475+01:00" endTime="2012-10-22T23:43:39.3931360+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="131c50a4-d2f6-4821-8d80-6bbfa084fd54">
+    </UnitTestResult>
+    <UnitTestResult executionId="6bb2b237-604c-4557-b914-21b45af6b97f" testId="466ff7ff-bd1a-d391-8d2d-4744ec2b2219" testName="makePurchaseWorksForInvalidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.2028129" startTime="2012-10-22T23:43:39.3970420+01:00" endTime="2012-10-22T23:43:39.8101015+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6bb2b237-604c-4557-b914-21b45af6b97f">
+    </UnitTestResult>
+    <UnitTestResult executionId="df1bd38c-0d80-4c35-bc2e-cd0ac6264a34" testId="618c02d5-3421-cf6c-0fe6-1de2d14aab1a" testName="makePurchaseWorksForValidQuantity" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0163976" startTime="2012-10-22T23:43:39.8149840+01:00" endTime="2012-10-22T23:43:39.8364670+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df1bd38c-0d80-4c35-bc2e-cd0ac6264a34">
+    </UnitTestResult>
+    <UnitTestResult executionId="64c544a1-995f-43cb-baad-26474aa24835" testId="6a5384c9-dda4-11c8-29ff-de6214b5be1a" testName="MakeMultiplePurchasesFailsForInvalidQuantities" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0084994" startTime="2012-10-22T23:43:39.8403730+01:00" endTime="2012-10-22T23:43:39.8540440+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64c544a1-995f-43cb-baad-26474aa24835">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb4880a0-795c-4f7e-aa78-04e164cd1a31" testId="88dc7725-bf1c-9eaf-8946-06eaa4b79e57" testName="MakeMultiplePurchasesFailsWhenCardInvalid" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0048444" startTime="2012-10-22T23:43:39.8589265+01:00" endTime="2012-10-22T23:43:39.8686915+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb4880a0-795c-4f7e-aa78-04e164cd1a31">
+    </UnitTestResult>
+    <UnitTestResult executionId="0303fd6e-0f0f-49d6-a2cf-6bcc131fbd83" testId="9a530973-24d2-1db3-9afb-770bc57c12f3" testName="OrderNotPossibleWhenSomeItemsOutOfStock" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0040334" startTime="2012-10-22T23:43:39.8725975+01:00" endTime="2012-10-22T23:43:39.8813860+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0303fd6e-0f0f-49d6-a2cf-6bcc131fbd83">
+    </UnitTestResult>
+    <UnitTestResult executionId="6b016160-5054-4c29-bb00-c3ecf46ecd74" testId="b8d37a9a-f38b-7fc1-9832-a69a248ba8eb" testName="OrderPossibleWhenItemsInStock" computerName="LH-4R0EKHM0CUJ8" duration="00:00:00.0034599" startTime="2012-10-22T23:43:39.8852920+01:00" endTime="2012-10-22T23:43:39.8940805+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b016160-5054-4c29-bb00-c3ecf46ecd74">
+    </UnitTestResult>
+  </Results>
+</TestRun>

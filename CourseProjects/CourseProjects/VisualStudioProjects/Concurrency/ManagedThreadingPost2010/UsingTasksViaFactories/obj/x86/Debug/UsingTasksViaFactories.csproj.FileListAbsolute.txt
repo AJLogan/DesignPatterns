@@ -1,0 +1,7 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\UsingTasksViaFactories\bin\Debug\UsingTasksViaFactories.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\UsingTasksViaFactories\bin\Debug\UsingTasksViaFactories.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\UsingTasksViaFactories\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\UsingTasksViaFactories\obj\x86\Debug\UsingTasksViaFactories.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPost2010\UsingTasksViaFactories\obj\x86\Debug\UsingTasksViaFactories.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\UsingTasksViaFactories\obj\x86\Debug\UsingTasksViaFactories.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Concurrency\ManagedThreadingPost2010\UsingTasksViaFactories\obj\x86\Debug\UsingTasksViaFactories.pdb

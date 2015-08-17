@@ -1,0 +1,36 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3A008A9B-29AD-4243-85A5-9ABF2A4A3A92/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="B7FF7E17-875E-43D3-BC29-E30F9E1B0B9C/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="46748E43-D575-45D7-AFF9-9867D20533A3/f:CreateProcedure.sql" caret="4786" scrollPosition="0|0" />
+      <File id="46748E43-D575-45D7-AFF9-9867D20533A3/f:Program.cs" caret="406" scrollPosition="0|0" />
+      <File id="3807CD4B-3262-41C3-8387-45440EA6869E/f:Launcher.vb" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="46748E43-D575-45D7-AFF9-9867D20533A3/f:Program.cs" caret="209" scrollPosition="0|0" />
+      <File id="3807CD4B-3262-41C3-8387-45440EA6869E/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="3807CD4B-3262-41C3-8387-45440EA6869E/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

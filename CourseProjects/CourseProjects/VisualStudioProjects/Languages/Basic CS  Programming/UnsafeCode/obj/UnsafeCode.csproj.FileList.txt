@@ -1,0 +1,5 @@
+obj\Debug\UnsafeCode.exe
+obj\Debug\UnsafeCode.pdb
+bin\Debug\UnsafeCode.exe
+bin\Debug\UnsafeCode.pdb
+obj\Debug\ResolveAssemblyReference.cache

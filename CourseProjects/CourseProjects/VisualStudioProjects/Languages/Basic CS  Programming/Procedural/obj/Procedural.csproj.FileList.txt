@@ -1,0 +1,5 @@
+obj\Debug\Procedural.exe
+obj\Debug\Procedural.pdb
+bin\Debug\Procedural.exe
+bin\Debug\Procedural.pdb
+obj\Debug\ResolveAssemblyReference.cache

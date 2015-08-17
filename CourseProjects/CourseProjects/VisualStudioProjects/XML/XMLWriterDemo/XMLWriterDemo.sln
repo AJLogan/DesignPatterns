@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLWriterDemo", "XMLWriterDemo.csproj", "{CAD00E1C-E573-409D-BBAF-26025257915B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CAD00E1C-E573-409D-BBAF-26025257915B}.Debug.ActiveCfg = Debug|.NET
+		{CAD00E1C-E573-409D-BBAF-26025257915B}.Debug.Build.0 = Debug|.NET
+		{CAD00E1C-E573-409D-BBAF-26025257915B}.Release.ActiveCfg = Release|.NET
+		{CAD00E1C-E573-409D-BBAF-26025257915B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

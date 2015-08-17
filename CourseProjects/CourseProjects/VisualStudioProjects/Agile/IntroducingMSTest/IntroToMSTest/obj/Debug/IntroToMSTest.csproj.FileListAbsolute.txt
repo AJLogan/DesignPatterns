@@ -1,0 +1,5 @@
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\bin\Debug\IntroToMSTest.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\bin\Debug\IntroToMSTest.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\obj\Debug\IntroToMSTest.dll
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\obj\Debug\IntroToMSTest.pdb

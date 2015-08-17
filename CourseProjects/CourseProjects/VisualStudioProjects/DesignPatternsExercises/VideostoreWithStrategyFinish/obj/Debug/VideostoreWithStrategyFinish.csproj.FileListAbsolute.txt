@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStrategyFinish\bin\Debug\VideostoreWithStrategyFinish.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStrategyFinish\bin\Debug\VideostoreWithStrategyFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStrategyFinish\bin\Debug\VideostoreWithStrategyFinish.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStrategyFinish\obj\Debug\VideostoreWithStrategyFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStrategyFinish\obj\Debug\VideostoreWithStrategyFinish.pdb

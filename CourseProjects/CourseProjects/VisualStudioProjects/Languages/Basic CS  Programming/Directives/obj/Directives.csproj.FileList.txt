@@ -1,0 +1,5 @@
+obj\Debug\Directives.exe
+obj\Debug\Directives.pdb
+bin\Debug\Directives.exe
+bin\Debug\Directives.pdb
+obj\Debug\ResolveAssemblyReference.cache

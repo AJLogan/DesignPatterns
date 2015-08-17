@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltInjectingParameters\bin\Debug\TemplateParams.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltInjectingParameters\bin\Debug\TemplateParams.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltInjectingParameters\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltInjectingParameters\obj\Debug\TemplateParams.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XsltInjectingParameters\obj\Debug\TemplateParams.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltInjectingParameters\bin\Debug\TemplateParams.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltInjectingParameters\bin\Debug\TemplateParams.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltInjectingParameters\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltInjectingParameters\obj\Debug\TemplateParams.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XsltInjectingParameters\obj\Debug\TemplateParams.pdb

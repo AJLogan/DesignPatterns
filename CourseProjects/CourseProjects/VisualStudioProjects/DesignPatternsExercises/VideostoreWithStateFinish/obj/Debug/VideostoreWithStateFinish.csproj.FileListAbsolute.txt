@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStateFinish\bin\Debug\VideostoreWithStateFinish.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStateFinish\bin\Debug\VideostoreWithStateFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStateFinish\bin\Debug\VideostoreWithStateFinish.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStateFinish\obj\Debug\VideostoreWithStateFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithStateFinish\obj\Debug\VideostoreWithStateFinish.pdb

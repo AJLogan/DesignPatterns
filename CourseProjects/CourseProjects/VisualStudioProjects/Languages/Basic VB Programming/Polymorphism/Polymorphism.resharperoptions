@@ -1,0 +1,16 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Polymorphism\Tester.vb" offset="529" line="4" column="0" />
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Polymorphism\Director.vb" offset="137" line="0" column="0" />
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Polymorphism\Manager.vb" offset="137" line="-1" column="-1" />
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Polymorphism\Employee.vb" offset="45" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager />
+</Configuration>

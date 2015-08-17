@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\bin\Debug\SingleDimensionArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\Arrays - Single Dimension.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\SingleDimensionArrays\obj\Debug\SingleDimensionArrays.pdb

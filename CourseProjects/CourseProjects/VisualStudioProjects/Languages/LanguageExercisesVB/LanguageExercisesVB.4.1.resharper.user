@@ -1,0 +1,68 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="247A1239-C5A2-4799-A6AF-5A0DE5F1C176/f:Launcher.vb" caret="433" scrollPosition="0|0" />
+      <File id="3A50F9D7-44A6-400F-9DA0-4C1DC34604C7/f:Launcher.vb" caret="239" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="499" scrollPosition="0|0" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="479" scrollPosition="0|0" />
+      <File id="2F4F3FE4-C845-418C-BB0E-B6DFFAB268D9/f:Launcher.vb" caret="17" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="898" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:RomanNumeral.vb" caret="367" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Student.vb" caret="592" scrollPosition="0|0" />
+      <File id="2D0B3559-B31D-4776-B991-D87D038615C7/f:Launcher.vb" caret="386" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Launcher.vb" caret="35" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="247A1239-C5A2-4799-A6AF-5A0DE5F1C176/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="247A1239-C5A2-4799-A6AF-5A0DE5F1C176/f:Launcher.vb" caret="489" scrollPosition="0|0" />
+      <File id="247A1239-C5A2-4799-A6AF-5A0DE5F1C176/f:Launcher.vb" caret="660" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="479" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="429" scrollPosition="0|0" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="644" scrollPosition="0|0" />
+      <File id="91083EED-88B5-47A4-B3EC-F6A5AC230DA1/f:Launcher.vb" caret="719" scrollPosition="0|0" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="1718" scrollPosition="0|18" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="861" scrollPosition="0|15" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="1737" scrollPosition="0|24" />
+      <File id="79296EF6-5A51-4AB5-B3E4-B533697AA94B/f:Launcher.vb" caret="479" scrollPosition="0|0" />
+      <File id="2F4F3FE4-C845-418C-BB0E-B6DFFAB268D9/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:RomanNumeral.vb" caret="332" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:RomanNumeral.vb" caret="599" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:RomanNumeral.vb" caret="141" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="516" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="488" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="797" scrollPosition="0|0" />
+      <File id="8EDD75D8-B3F6-42EB-8096-720038886143/f:Launcher.vb" caret="898" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Launcher.vb" caret="741" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Student.vb" caret="837" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Launcher.vb" caret="490" scrollPosition="0|0" />
+      <File id="ACC48B89-6F13-4C10-B23B-941167667BA4/f:Launcher.vb" caret="309" scrollPosition="0|0" />
+      <File id="2D0B3559-B31D-4776-B991-D87D038615C7/f:Launcher.vb" caret="15" scrollPosition="0|0" />
+      <File id="2D0B3559-B31D-4776-B991-D87D038615C7/f:Launcher.vb" caret="756" scrollPosition="0|0" />
+      <File id="2D0B3559-B31D-4776-B991-D87D038615C7/f:Launcher.vb" caret="725" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

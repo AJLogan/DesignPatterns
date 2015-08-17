@@ -1,0 +1,17 @@
+C:\Development\dotnet\VS2008\Framework Libraries\CodeDOM\obj\Debug\UsingCodeDOM.exe
+C:\Development\dotnet\VS2008\Framework Libraries\CodeDOM\obj\Debug\UsingCodeDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\CodeDOM\obj\Debug\UsingCodeDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\CodeDOM\obj\Debug\UsingCodeDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\CodeDOM\bin\Debug\UsingCodeDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\CodeDOM\bin\Debug\UsingCodeDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\CodeDOM\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MetaProgrammingWithCodeDOM\obj\Debug\UsingCodeDOM.exe
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MetaProgrammingWithCodeDOM\obj\Debug\UsingCodeDOM.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MetaProgrammingWithCodeDOM\bin\Debug\UsingCodeDOM.exe
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MetaProgrammingWithCodeDOM\bin\Debug\UsingCodeDOM.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MetaProgrammingWithCodeDOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\MetaProgrammingWithCodeDOM\obj\Debug\UsingCodeDOM.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\MetaProgrammingWithCodeDOM\obj\Debug\UsingCodeDOM.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\MetaProgrammingWithCodeDOM\bin\Debug\UsingCodeDOM.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\MetaProgrammingWithCodeDOM\bin\Debug\UsingCodeDOM.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\CodeGeneration\MetaProgrammingWithCodeDOM\obj\Debug\UsingCodeDOM.csprojResolveAssemblyReference.cache

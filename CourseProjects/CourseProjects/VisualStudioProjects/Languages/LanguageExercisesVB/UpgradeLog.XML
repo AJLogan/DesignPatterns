@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LanguageExercisesVB">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesVB\LanguageExercisesVB.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="15:34">
+</Property></Properties><Event ErrorLevel="0" Project="PyramidStart" Source="PyramidStart\PyramidStart.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PyramidStart" Source="PyramidStart\PyramidStart.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PalindromeFinish" Source="PalindromeFinish\PalindromeFinish.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PalindromeFinish" Source="PalindromeFinish\PalindromeFinish.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LanguageExercisesVB.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LanguageExercisesVB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PyramidStart" Source="PyramidStart\PyramidStart.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PalindromeFinish" Source="PalindromeFinish\PalindromeFinish.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

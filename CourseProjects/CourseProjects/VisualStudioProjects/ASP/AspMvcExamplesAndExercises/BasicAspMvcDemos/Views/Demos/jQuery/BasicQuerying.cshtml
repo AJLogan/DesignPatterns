@@ -1,0 +1,72 @@
+
+@section scripts {
+    <script type="text/javascript">
+            function runQuery(queryStr) {
+                var result = "'" + queryStr + "' gives: ";
+                $(queryStr).each(function(index,node) {
+                    result += $.trim($(node).html());
+                    result += " ";
+                });
+                console.log(result);
+            }
+            $(document).ready( function () {
+                runQuery("p");
+                runQuery("p:first-child");
+                runQuery("p:last-child");
+                runQuery("p:first-of-type");
+                runQuery("p:last-of-type");
+                runQuery("p:nth-child(2)");
+                runQuery("body p");
+                runQuery("body > p");
+                runQuery("body div p");
+                runQuery("div#myDivTwo p");
+                runQuery("h2 + p");
+                runQuery("h2 ~ p");
+                runQuery("p[style]");
+                runQuery(".myStyle");
+                runQuery("p:not(.myStyle)");
+            });
+        </script>
+}
+@section mystyles {
+        <style type="text/css">
+            .myStyle { color: green }
+        </style>
+}
+<h1>Running CSS Selectors</h1>
+<h2>Output is printed to the console...</h2>
+<p>
+    Paragraph one
+</p>
+<p style="font-weight: bold">
+    Paragraph two
+</p>
+<p class="myStyle">
+    Paragraph three
+</p>
+<p style="font-weight: bold">
+    Paragraph four
+</p>
+<p>
+    Paragraph five
+</p>
+<div id="myDivOne">
+    <p style="font-weight: bold">
+        Paragraph six
+    </p>
+    <p class="myStyle">
+        Paragraph seven
+    </p>
+    <p style="font-weight: bold">
+        Paragraph eight
+    </p>
+</div>
+<div id="myDivTwo">
+    <p>
+        Paragraph nine
+    </p>
+    <p style="font-weight: bold">
+        Paragraph ten
+    </p>
+</div>
+

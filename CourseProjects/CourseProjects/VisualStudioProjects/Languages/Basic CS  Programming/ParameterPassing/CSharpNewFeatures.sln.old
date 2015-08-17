@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNewFeatures", "CSharpNewFeatures.csproj", "{918E5511-299D-4A6E-844C-59E4C62CB384}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{918E5511-299D-4A6E-844C-59E4C62CB384}.Debug.ActiveCfg = Debug|.NET
+		{918E5511-299D-4A6E-844C-59E4C62CB384}.Debug.Build.0 = Debug|.NET
+		{918E5511-299D-4A6E-844C-59E4C62CB384}.Release.ActiveCfg = Release|.NET
+		{918E5511-299D-4A6E-844C-59E4C62CB384}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

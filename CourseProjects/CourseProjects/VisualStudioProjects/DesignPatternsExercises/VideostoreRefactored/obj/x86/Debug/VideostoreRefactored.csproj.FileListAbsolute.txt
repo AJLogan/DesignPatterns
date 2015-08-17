@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreRefactored\bin\Debug\VideostoreRefactoringFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreRefactored\bin\Debug\VideostoreRefactoringFinish.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreRefactored\obj\x86\Debug\VideostoreRefactored.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreRefactored\obj\x86\Debug\VideostoreRefactoringFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreRefactored\obj\x86\Debug\VideostoreRefactoringFinish.pdb

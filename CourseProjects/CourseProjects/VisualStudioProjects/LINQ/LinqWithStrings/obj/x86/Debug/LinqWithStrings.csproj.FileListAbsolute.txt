@@ -1,0 +1,10 @@
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithStrings\bin\Debug\LinqWithStrings.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithStrings\bin\Debug\LinqWithStrings.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\bin\Debug\LinqWithStrings.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\bin\Debug\LinqWithStrings.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithStrings\obj\x86\Debug\LinqWithStrings.pdb

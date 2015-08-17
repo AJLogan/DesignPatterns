@@ -1,0 +1,46 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Click" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control.ControlCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Run" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="104AA2B5-980E-40E7-9774-6D44196C674C/f:Program.cs" caret="70" visual-x="0" visual-y="0" />
+      <File id="3910CDF8-F339-4BA5-8EA1-043A76B1870D/f:TestOne.cs" caret="0" visual-x="0" visual-y="0" />
+      <File id="3910CDF8-F339-4BA5-8EA1-043A76B1870D/d:Properties/f:AssemblyInfo.cs" caret="0" visual-x="0" visual-y="0" />
+      <File id="3910CDF8-F339-4BA5-8EA1-043A76B1870D/f:TestTwo.cs" caret="0" visual-x="0" visual-y="0" />
+      <File id="E61AD2CD-A09D-40E0-B9F3-9A7FF8364547/f:Program.cs" caret="238" visual-x="0" visual-y="0" />
+      <File id="E61AD2CD-A09D-40E0-B9F3-9A7FF8364547/f:BasicForm.cs" caret="189" visual-x="0" visual-y="0" />
+      <File id="3910CDF8-F339-4BA5-8EA1-043A76B1870D/f:Program.cs" caret="0" visual-x="0" visual-y="0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

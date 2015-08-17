@@ -1,0 +1,30 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\bin\Debug\LinqSyntaxCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxCS\obj\Debug\LinqSyntaxCS.pdb

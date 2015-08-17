@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQueries\bin\Debug\RunningQueries.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQueries\bin\Debug\RunningQueries.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQueries\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQueries\obj\Debug\RunningQueries.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQueries\obj\Debug\RunningQueries.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQueries\bin\Debug\RunningQueries.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQueries\bin\Debug\RunningQueries.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQueries\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQueries\obj\Debug\RunningQueries.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQueries\obj\Debug\RunningQueries.pdb

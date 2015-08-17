@@ -1,0 +1,19 @@
+C:\Development\dotnet\C# Programming\ConstraintsOnGenerics\ConstraintsOnGenerics\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\C# Programming\ConstraintsOnGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.exe
+C:\Development\dotnet\C# Programming\ConstraintsOnGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.pdb
+C:\Development\dotnet\C# Programming\ConstraintsOnGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.exe
+C:\Development\dotnet\C# Programming\ConstraintsOnGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.pdb
+C:\Development\dotnet\VS2008\Generics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.exe
+C:\Development\dotnet\VS2008\Generics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.pdb
+C:\Development\dotnet\VS2008\Generics\ConstraintsOnGenerics\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Generics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.exe
+C:\Development\dotnet\VS2008\Generics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\bin\Debug\ConstraintsOnGenerics.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\ProgrammingWithGenerics\ConstraintsOnGenerics\obj\Debug\ConstraintsOnGenerics.pdb

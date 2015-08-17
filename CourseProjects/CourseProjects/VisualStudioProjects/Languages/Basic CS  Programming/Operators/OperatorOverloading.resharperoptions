@@ -1,0 +1,18 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\development\dotnetdev\examples\C# Programming\Operators\Tester.cs" offset="613" line="0" column="4" />
+      <TrackedFile location="D:\development\dotnetdev\examples\C# Programming\Operators\Point.cs" offset="47" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>

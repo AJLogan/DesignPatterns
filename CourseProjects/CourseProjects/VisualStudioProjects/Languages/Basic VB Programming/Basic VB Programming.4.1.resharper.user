@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B4A04E05-0FE0-4C87-BBCC-E49C9A1D524A/f:Tester.vb" caret="56" scrollPosition="0|0" />
+      <File id="B4A04E05-0FE0-4C87-BBCC-E49C9A1D524A/f:Test.vb" caret="0" scrollPosition="0|0" />
+      <File id="6CF65B89-3760-4099-836B-F61E5A1CA025/f:Shape.vb" caret="0" scrollPosition="0|0" />
+      <File id="C860B101-4D41-4ADB-95C1-78C62F109A0D/f:Widget.vb" caret="0" scrollPosition="0|0" />
+      <File id="C860B101-4D41-4ADB-95C1-78C62F109A0D/f:Tester.vb" caret="0" scrollPosition="0|0" />
+      <File id="26DA8928-B759-40A2-A2AD-933B7ABE1137/f:Launcher.vb" caret="0" scrollPosition="0|18" />
+      <File id="D0863922-888F-468E-946E-454F4804CE94/f:Launcher.vb" caret="0" scrollPosition="0|9" />
+      <File id="1C839E49-833B-4103-BEB1-000252A67A56/f:EventHolder.vb" caret="0" scrollPosition="0|0" />
+      <File id="1C839E49-833B-4103-BEB1-000252A67A56/f:Tester.vb" caret="0" scrollPosition="0|0" />
+      <File id="A0E8B698-EF85-423F-A685-A7F8AE403B78/f:Tester.vb" caret="1814" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B4A04E05-0FE0-4C87-BBCC-E49C9A1D524A/f:Tester.vb" caret="56" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

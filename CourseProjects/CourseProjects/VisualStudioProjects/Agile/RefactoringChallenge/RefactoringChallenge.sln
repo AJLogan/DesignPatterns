@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideostoreRefactoringStart", "VideostoreRefactoringStart\VideostoreRefactoringStart.csproj", "{4A081B77-638A-48C2-950D-3E46ECC7DE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideostoreRefactoringFinish", "VideostoreRefactoringFinish\VideostoreRefactoringFinish.csproj", "{EA69FD70-D127-42B2-8C6F-A502F9982A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A081B77-638A-48C2-950D-3E46ECC7DE1D}.Debug|x86.ActiveCfg = Debug|x86
+		{4A081B77-638A-48C2-950D-3E46ECC7DE1D}.Debug|x86.Build.0 = Debug|x86
+		{4A081B77-638A-48C2-950D-3E46ECC7DE1D}.Release|x86.ActiveCfg = Release|x86
+		{4A081B77-638A-48C2-950D-3E46ECC7DE1D}.Release|x86.Build.0 = Release|x86
+		{EA69FD70-D127-42B2-8C6F-A502F9982A0B}.Debug|x86.ActiveCfg = Debug|x86
+		{EA69FD70-D127-42B2-8C6F-A502F9982A0B}.Debug|x86.Build.0 = Debug|x86
+		{EA69FD70-D127-42B2-8C6F-A502F9982A0B}.Release|x86.ActiveCfg = Release|x86
+		{EA69FD70-D127-42B2-8C6F-A502F9982A0B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+bin\Debug\BasicSyntax.exe
+bin\Debug\BasicSyntax.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BasicSyntax.exe
+obj\Debug\BasicSyntax.pdb

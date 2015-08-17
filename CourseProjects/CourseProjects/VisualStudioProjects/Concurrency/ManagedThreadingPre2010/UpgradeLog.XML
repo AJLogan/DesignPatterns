@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ManagedThreadingPre2010">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\ManagedThreadingPre2010.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="15:23">
+</Property></Properties><Event ErrorLevel="0" Project="AsyncDelegatesPartOne" Source="AsyncDelegatesPartOne\AsyncDelegatesPartOne.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsyncDelegatesPartOne" Source="AsyncDelegatesPartOne\AsyncDelegatesPartOne.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsyncDelegatesPartTwo" Source="AsyncDelegatesPartTwo\AsyncDelegatesPartTwo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsyncDelegatesPartTwo" Source="AsyncDelegatesPartTwo\AsyncDelegatesPartTwo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StartingThreads" Source="StartingThreads\StartingThreads.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="StartingThreads" Source="StartingThreads\StartingThreads.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UsingMonitors" Source="UsingMonitors\UsingMonitors.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UsingMonitors" Source="UsingMonitors\UsingMonitors.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ManagedThreadingPre2010.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ManagedThreadingPre2010.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsyncDelegatesPartOne" Source="AsyncDelegatesPartOne\AsyncDelegatesPartOne.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AsyncDelegatesPartTwo" Source="AsyncDelegatesPartTwo\AsyncDelegatesPartTwo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="StartingThreads" Source="StartingThreads\StartingThreads.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UsingMonitors" Source="UsingMonitors\UsingMonitors.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

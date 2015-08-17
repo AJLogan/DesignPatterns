@@ -1,0 +1,12 @@
+<Assemblies Version="14">
+  <Assembly Name="System.Web.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="be849d6a-08f6-4c1d-97ed-877a9f2e3206.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="b8f8a65a-25d3-4c3f-bd38-cf71bf525fad.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="539c9ab8-5999-4c5d-929a-74d399edcde8.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="c5cc30fa-44d0-4b78-ae73-92ea0aaa1aff.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="015bf089-c6f6-4bac-ae8c-195bfcccc8df.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="453f7849-73d4-428d-a267-2c86be769e84.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="c3d4688a-fad3-4537-87e8-2a875c450e19.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Cache="6c15a2a7-ff1b-4bef-a2bb-50a7b48b9011.ReflectionCache" Timestamp="632630609380000000" />
+  <Assembly Name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="d612ae14-3735-4ceb-9860-28bc31290788.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="0dc50b0c-55d9-4074-8c10-351f4269ea7f.ReflectionCache" Timestamp="632630609360000000" />
+</Assemblies>

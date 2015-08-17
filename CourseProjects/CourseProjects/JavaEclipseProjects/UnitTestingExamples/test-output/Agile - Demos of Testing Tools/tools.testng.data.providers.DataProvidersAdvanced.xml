@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tools.testng.data.providers.DataProvidersAdvanced" failures="0" tests="12" time="0.047" errors="0">
+  <properties/>
+  <testcase name="op2" time="0.016" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op2" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op2" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op1" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op1" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op1" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op3" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op3" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op3" time="0.016" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op4" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op4" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+  <testcase name="op4" time="0.0" classname="tools.testng.data.providers.DataProvidersAdvanced"/>
+</testsuite>

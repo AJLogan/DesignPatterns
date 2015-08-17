@@ -1,0 +1,90 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="40708C76-A55F-4FB3-B664-44ADEA480176/f:Program.cs" caret="428" scrollPosition="0|0" />
+      <File id="6FBB0AFA-2854-4F7D-A477-7B5117C5A8FA/f:Program.cs" caret="1657" scrollPosition="0|0" />
+      <File id="1779B95A-7543-4D5F-AF4F-8DBA40132A55/f:Program.cs" caret="768" scrollPosition="0|0" />
+      <File id="94808306-3984-4CEC-B52A-753D07C2869E/f:Program.cs" caret="969" scrollPosition="0|0" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Program.cs" caret="967" scrollPosition="0|0" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="891" scrollPosition="0|0" />
+      <File id="6956A844-C4FB-40C3-A4D4-DDAB5CCFC111/f:Program.cs" caret="403" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="1091" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:RomanNumeral.cs" caret="579" scrollPosition="0|0" />
+      <File id="8998F58D-3737-4BD9-9A80-4B8CC11B93A9/f:Program.cs" caret="476" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1779B95A-7543-4D5F-AF4F-8DBA40132A55/f:Program.cs" caret="578" scrollPosition="0|0" />
+      <File id="1779B95A-7543-4D5F-AF4F-8DBA40132A55/f:Program.cs" caret="904" scrollPosition="0|3" />
+      <File id="6FBB0AFA-2854-4F7D-A477-7B5117C5A8FA/f:Program.cs" caret="970" scrollPosition="0|10" />
+      <File id="6FBB0AFA-2854-4F7D-A477-7B5117C5A8FA/f:Program.cs" caret="1861" scrollPosition="0|41" />
+      <File id="6FBB0AFA-2854-4F7D-A477-7B5117C5A8FA/f:Program.cs" caret="1872" scrollPosition="0|47" />
+      <File id="6FBB0AFA-2854-4F7D-A477-7B5117C5A8FA/f:Program.cs" caret="1658" scrollPosition="0|5" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="238" scrollPosition="0|0" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="490" scrollPosition="0|3" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="462" scrollPosition="0|3" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="557" scrollPosition="0|15" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="749" scrollPosition="0|15" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Student.cs" caret="891" scrollPosition="0|0" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Program.cs" caret="978" scrollPosition="0|1" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Program.cs" caret="978" scrollPosition="0|0" />
+      <File id="CE20DC93-60D2-4C70-A7E7-B8675BA20109/f:Program.cs" caret="491" scrollPosition="0|0" />
+      <File id="94808306-3984-4CEC-B52A-753D07C2869E/f:Program.cs" caret="206" scrollPosition="0|0" />
+      <File id="94808306-3984-4CEC-B52A-753D07C2869E/f:Program.cs" caret="969" scrollPosition="0|6" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:RomanNumeral.cs" caret="588" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:RomanNumeral.cs" caret="579" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="759" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="758" scrollPosition="0|0" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="787" scrollPosition="0|1" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="1394" scrollPosition="0|34" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="1345" scrollPosition="0|34" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="178" scrollPosition="0|4" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="1069" scrollPosition="0|19" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="765" scrollPosition="0|7" />
+      <File id="9988913E-6831-4C6C-B1E9-F953D4E98233/f:Program.cs" caret="1303" scrollPosition="0|15" />
+      <File id="6956A844-C4FB-40C3-A4D4-DDAB5CCFC111/f:Program.cs" caret="403" scrollPosition="0|0" />
+      <File id="8998F58D-3737-4BD9-9A80-4B8CC11B93A9/f:Program.cs" caret="476" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="for" priority="1" />
+      <Item value="int" priority="3" />
+      <Item value="height" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="double" priority="2" />
+      <Item value="in" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="RomanNumeral" priority="0" />
+      <Item value="Console" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write" priority="0" />
+      <Item value="WriteLine" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

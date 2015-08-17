@@ -1,0 +1,29 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\PartialMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\bin\Debug\PartialMethodsCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\PartialMethodsCS\obj\Debug\PartialMethodsCS.pdb

@@ -1,0 +1,45 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Simple Form</title>
+   </head>
+   <body>
+      <p>Examples of the standard HTML form elements</p>
+	<form action="FormParams.aspx" method="post">
+		<p>
+			<b>Name:</b><input type="text" name="name" maxlength="10" value="Dave"/><br/>
+		</p>
+		<p>
+			<b>Marital Status:</b>
+			<input type="radio" name="mstatus" value="S" checked/>Single
+			<input type="radio" name="mstatus" value="M"/>Married
+			<input type="radio" name="mstatus" value="D"/>Divorced
+			<input type="radio" name="mstatus" value="W"/>Widowed
+		</p>
+		<p>
+			<b>Age:</b>
+			<select name="age">
+				<option value="U25">Under 25
+				<option value="U50">Under 50
+				<option value="U75">Under 75
+			</select>
+		</p>
+		<p>
+			<b>Interests:</b>
+			<input type="checkbox" name="interests" value="S"/>Sports
+			<input type="checkbox" name="interests" value="M"/>Movies
+			<input type="checkbox" name="interests" value="B" checked/>Books
+			<input type="checkbox" name="interests" value="P" checked/>Pets
+		</p>
+		<p>
+			<b>Comments</b>
+			<textarea name="comments" rows="10" cols="25">Any Comments?</textarea>
+		</p>
+		<p>
+			<b>Password</b>:<input type="password" name="password" maxlength="10" value="wn1hgb"/><br/>
+		</p>
+		<p>
+			<input type="submit" value="submit form">
+		</p>
+	</form>
+   </body>
+</html>

@@ -1,0 +1,13 @@
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\bin\Debug\LinkedList.dll
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\bin\Debug\LinkedList.pdb
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\bin\Debug\nunit.framework.dll
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\bin\Debug\nunit.framework.xml
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\obj\Debug\LinkedList.dll
+C:\Development\dotnet\VS2008\Agile Development\LinkedList\obj\Debug\LinkedList.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\bin\Debug\LinkedList.dll
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\bin\Debug\LinkedList.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\bin\Debug\nunit.framework.xml
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\obj\Debug\LinkedList.dll
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\UnitTestingWithNUnit\obj\Debug\LinkedList.pdb

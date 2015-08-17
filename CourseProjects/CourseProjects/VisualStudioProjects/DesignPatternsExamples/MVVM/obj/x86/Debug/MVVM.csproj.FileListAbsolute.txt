@@ -1,0 +1,3 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\MVVM\bin\Debug\MvvmDemo.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\MVVM\obj\x86\Debug\MvvmDemo.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\MVVM\obj\x86\Debug\MvvmDemo.pdb

@@ -1,0 +1,44 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3488B4AE-FF5D-45D6-ABEB-4B8910EA5285/f:Program.cs" caret="197" scrollPosition="0|0" />
+      <File id="B1BB56B7-D8C2-42BD-B97A-76320EA0E6EA/f:Program.cs" caret="228" scrollPosition="0|0" />
+      <File id="751FC958-1E85-4815-9CB9-C937DD183895/f:Program.cs" caret="165" scrollPosition="0|0" />
+      <File id="B2768D6B-78AD-42E2-A276-2D393F2D7C9D/f:Program.cs" caret="1957" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3488B4AE-FF5D-45D6-ABEB-4B8910EA5285/f:Program.cs" caret="947" scrollPosition="0|0" />
+      <File id="3488B4AE-FF5D-45D6-ABEB-4B8910EA5285/f:Program.cs" caret="148" scrollPosition="0|0" />
+      <File id="3488B4AE-FF5D-45D6-ABEB-4B8910EA5285/f:Program.cs" caret="296" scrollPosition="0|0" />
+      <File id="B1BB56B7-D8C2-42BD-B97A-76320EA0E6EA/f:Program.cs" caret="1254" scrollPosition="0|9" />
+      <File id="B1BB56B7-D8C2-42BD-B97A-76320EA0E6EA/f:Program.cs" caret="148" scrollPosition="0|0" />
+      <File id="B1BB56B7-D8C2-42BD-B97A-76320EA0E6EA/f:Program.cs" caret="288" scrollPosition="0|0" />
+      <File id="751FC958-1E85-4815-9CB9-C937DD183895/f:Program.cs" caret="1786" scrollPosition="0|30" />
+      <File id="751FC958-1E85-4815-9CB9-C937DD183895/f:Program.cs" caret="1127" scrollPosition="0|15" />
+      <File id="751FC958-1E85-4815-9CB9-C937DD183895/f:Program.cs" caret="163" scrollPosition="0|0" />
+      <File id="B2768D6B-78AD-42E2-A276-2D393F2D7C9D/f:Program.cs" caret="2811" scrollPosition="0|52" />
+      <File id="B2768D6B-78AD-42E2-A276-2D393F2D7C9D/f:Program.cs" caret="262" scrollPosition="0|0" />
+      <File id="B2768D6B-78AD-42E2-A276-2D393F2D7C9D/f:Program.cs" caret="1957" scrollPosition="0|42" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

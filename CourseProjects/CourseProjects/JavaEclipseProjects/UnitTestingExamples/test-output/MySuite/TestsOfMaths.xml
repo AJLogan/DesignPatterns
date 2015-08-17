@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestsOfMaths" failures="0" tests="6" time="0.062" errors="0">
+  <properties/>
+  <testcase name="subtract" time="0.0" classname="demos.tdd.testng.basic.MathTest"/>
+  <testcase name="parametersFromXml" time="0.015" classname="demos.tdd.testng.basic.MathTest"/>
+  <testcase name="multiply" time="0.0" classname="demos.tdd.testng.basic.MathTest"/>
+  <testcase name="add" time="0.0" classname="demos.tdd.testng.basic.MathTest"/>
+  <testcase name="exceptionOnSecondArg" time="0.0" classname="demos.tdd.testng.basic.MathTest"/>
+  <testcase name="exceptionOnFirstArg" time="0.0" classname="demos.tdd.testng.basic.MathTest"/>
+</testsuite>

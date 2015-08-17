@@ -1,0 +1,57 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\MainForm.cs" offset="12312" line="79" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\Generator.cs" offset="855" line="79" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\TestFixture\MathImpl.cs" offset="473" line="0" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\TestFixture\Math.cs" offset="263" line="0" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\Strategy.cs" offset="168" line="79" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\CrashTestDummyStrategy.cs" offset="674" line="0" column="13" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\WasCalledStrategy.cs" offset="642" line="3" column="0" />
+      <TrackedFile location="D:\development\DotNetPatterns\StrategyPattern\MockGeneratorCS\CallLoggingStrategy.cs" offset="660" line="3" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="2" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeDeclaration">
+      <Item value="Members" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="InitialDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:object">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedText" priority="0" />
+      <Item value="SelectedValue" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeStatementCollection">
+      <Item value="Remove" priority="0" />
+      <Item value="Insert" priority="0" />
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MockGenerator.Strategy">
+      <Item value="apply" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeMemberMethod">
+      <Item value="Statements" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

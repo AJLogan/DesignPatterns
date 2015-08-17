@@ -1,0 +1,64 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.vbproj.GenerateResource.Cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.vbproj.GenerateResource.Cache
+C:\Development\dotnet\VS2008\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+C:\Development\dotnet\VS2008\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+C:\Development\dotnet\VS2008\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.vbproj.GenerateResource.Cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResGen.read.1.tlog
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResGen.write.1.tlog
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+E:\Development\VS2010\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\bin\Debug\LinqSyntaxVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.Resources.resources
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqSyntaxVB\obj\Debug\LinqSyntaxVB.pdb

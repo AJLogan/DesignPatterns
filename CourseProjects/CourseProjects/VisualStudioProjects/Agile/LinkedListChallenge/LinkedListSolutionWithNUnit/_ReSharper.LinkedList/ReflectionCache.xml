@@ -1,0 +1,7 @@
+<Assemblies Version="14">
+  <Assembly Name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="5dbda2f7-ba9c-416b-98a8-9f5d12da8d35.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="39ffe426-bb7f-4c39-9cd0-8a4a35908cc2.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="a28c0d48-1150-4579-9f21-3a5c12a626b0.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="dc890f83-c947-4c37-ab4d-99989391f9b2.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="nunit.framework, Version=2.2.0.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Cache="71dba447-5807-4c18-89ae-7ceccb921649.ReflectionCache" Timestamp="632275919040000000" />
+</Assemblies>

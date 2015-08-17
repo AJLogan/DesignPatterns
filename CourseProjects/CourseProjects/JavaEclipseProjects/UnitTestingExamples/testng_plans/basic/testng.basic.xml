@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MySuite" verbose="1" >
+ 	<parameter name="paramOne"  value="12"/>
+ 	<parameter name="paramTwo"  value="5"/>
+ 	<parameter name="result"  value="17"/>
+	<test name="TestsOfMaths">
+    	<classes>
+      		<class name="demos.tdd.testng.basic.MathTest"  />
+    	</classes>
+  	</test>
+</suite>

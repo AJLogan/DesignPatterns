@@ -1,0 +1,7 @@
+obj\Debug\MockGenerator.exe
+obj\Debug\MockGenerator.pdb
+bin\Debug\MockGenerator.exe
+bin\Debug\MockGenerator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MockGenerator.MainForm.resources
+obj\Debug\MockObjectsGenerator.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQuiz\bin\Debug\XPathQuiz.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQuiz\bin\Debug\XPathQuiz.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQuiz\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQuiz\obj\Debug\XPathQuiz.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\XPathQuiz\obj\Debug\XPathQuiz.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQuiz\bin\Debug\XPathQuiz.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQuiz\bin\Debug\XPathQuiz.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQuiz\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQuiz\obj\Debug\XPathQuiz.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\XPathQuiz\obj\Debug\XPathQuiz.pdb

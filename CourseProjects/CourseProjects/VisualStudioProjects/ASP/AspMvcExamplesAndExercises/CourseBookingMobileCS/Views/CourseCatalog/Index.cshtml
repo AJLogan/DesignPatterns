@@ -1,0 +1,45 @@
+﻿@model IQueryable<CourseBookingMobileCS.Models.TrainingCourse>
+
+@{
+    ViewBag.Title = "Courses Overview";
+    var coursesList = ViewData.Model;
+}
+
+<ul data-role="listview" data-theme="c" data-inset="true">
+    <li data-role="list-divider">Beginners Courses</li>
+    @foreach (var course in coursesList.Where(tc => tc.Type == "Beginners")) {
+        <li><a href="@Html.Encode("#" + course.Number)" data-transition="pop">@Html.Encode(course.Title)</a></li>
+    }
+    <li data-role="list-divider">Intermediate Courses</li>
+    @foreach (var course in coursesList.Where(tc => tc.Type == "Intermediate")) {
+        <li><a href="@Html.Encode("#" + course.Number)" data-transition="pop">@Html.Encode(course.Title)</a></li>
+    }
+    <li data-role="list-divider">Advanced Courses</li>
+    @foreach (var course in coursesList.Where(tc => tc.Type == "Advanced")) {
+        <li><a href="@Html.Encode("#" + course.Number)" data-transition="pop">@Html.Encode(course.Title)</a></li>
+    }
+</ul>
+
+@section extraPages {
+    @foreach (var course in coursesList) {
+        <section id="@Html.Encode(course.Number)" data-role="page" data-theme="b">
+            <header data-role="header">
+                <h2>Details of @course.Title</h2>
+            </header>
+            <table>
+                <tr>
+                    <th>Number</th><td>@Html.Encode(course.Number)</td>
+                </tr>
+                <tr>
+                    <th>Title</th><td>@Html.Encode(course.Title)</td>
+                </tr>
+                <tr>
+                    <th>Type</th><td>@Html.Encode(course.Type)</td>
+                </tr>
+            </table>
+            <footer data-role="footer">
+                <small>For details please call our sales team</small>
+            </footer>
+        </section>
+    }
+}

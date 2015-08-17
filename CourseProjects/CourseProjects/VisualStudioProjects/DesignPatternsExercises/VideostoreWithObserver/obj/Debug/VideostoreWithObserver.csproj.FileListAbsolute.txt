@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithObserver\bin\Debug\VideostoreWithObserver.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithObserver\bin\Debug\VideostoreWithObserver.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithObserver\bin\Debug\VideostoreWithObserver.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithObserver\obj\Debug\VideostoreWithObserver.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\VideostoreWithObserver\obj\Debug\VideostoreWithObserver.pdb

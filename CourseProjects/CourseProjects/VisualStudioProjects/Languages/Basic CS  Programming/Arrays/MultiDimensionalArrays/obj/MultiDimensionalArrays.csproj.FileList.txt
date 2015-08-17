@@ -1,0 +1,5 @@
+bin\Debug\MultiDimensionalArrays.exe
+bin\Debug\MultiDimensionalArrays.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MultiDimensionalArrays.exe
+obj\Debug\MultiDimensionalArrays.pdb

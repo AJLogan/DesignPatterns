@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xpathTest id="0">
+	<a id="1">
+		<b id="2">
+			<!-- This is a comment -->
+			<c id="3"/>
+			<d id="4">
+				this is some text
+			</d>
+		</b>
+	</a>
+	<a id="5">
+		<b id="6">
+			<b id="7">
+				<?p1 XXXXX ?>
+			</b>
+			<b id="8" att="abc"/>
+			<c id="9"/>
+			<current id="me">
+				<c id="10">
+					<d id="11">
+						<?p2 YYYYY ?>
+						<e id="12" att="abc">
+							<f id="13">
+								<!-- This is a comment -->
+								<g id="14" att="abc"/>
+								<d id="15"/>
+							</f>
+						</e>
+					</d>
+					<d id="16">
+						this is some text
+					</d>
+					<d id="17"/>
+					<d id="18">
+						this is some text
+					</d>
+				</c>
+			</current>
+			<b id="19"/>
+			<c id="20"/>
+			<b id="21"/>
+			<c id="22"/>
+		</b>
+	</a>
+	<a id="23">
+		<?p3 ZZZZZ ?>
+		<b id="24">
+			<c id="25">
+				<!-- This is a comment -->
+				<d id="26"/>
+			</c>
+		</b>
+	</a>
+</xpathTest>

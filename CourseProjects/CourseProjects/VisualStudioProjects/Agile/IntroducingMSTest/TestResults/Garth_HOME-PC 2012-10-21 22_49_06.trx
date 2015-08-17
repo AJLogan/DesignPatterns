@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8f60dc1f-0cce-4363-9d34-8e82ef88e749" name="Garth@HOME-PC 2012-10-21 22:49:06" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_49_06" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:49:06.8497390+01:00" queuing="2012-10-21T22:49:06.8657399+01:00" start="2012-10-21T22:49:06.8707402+01:00" finish="2012-10-21T22:49:07.0737518+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>Assembly level initalize method called
+Assembly level cleanup method called
+</DebugTrace>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AdditionWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="73f09976-87e7-54c9-e40f-f3832ccf1043">
+      <Execution id="7f3c9eea-05c4-42a4-b5bf-dc0da07bb790" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AdditionWorks" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="73f09976-87e7-54c9-e40f-f3832ccf1043" executionId="7f3c9eea-05c4-42a4-b5bf-dc0da07bb790" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7f3c9eea-05c4-42a4-b5bf-dc0da07bb790" testId="73f09976-87e7-54c9-e40f-f3832ccf1043" testName="AdditionWorks" computerName="HOME-PC" duration="00:00:00.0208886" startTime="2012-10-21T22:49:06.8727403+01:00" endTime="2012-10-21T22:49:07.0627512+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f3c9eea-05c4-42a4-b5bf-dc0da07bb790">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method IntroToMSTest.BasicMathTest.AdditionWorks threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at IntroToMSTest.BasicMathTest.AdditionWorks() in C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\IntroToMSTest\BasicMathTest.cs:line 15
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,10 @@
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\UsingMonitors\bin\Debug\UsingMonitors.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\UsingMonitors\bin\Debug\UsingMonitors.pdb
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\UsingMonitors\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\UsingMonitors\obj\Debug\UsingMonitors.exe
+C:\Deliveries\Dot NET ECIT September 2010\CourseProjects\ManagedThreadingPre2010\UsingMonitors\obj\Debug\UsingMonitors.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\UsingMonitors\bin\Debug\UsingMonitors.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\UsingMonitors\bin\Debug\UsingMonitors.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\UsingMonitors\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\UsingMonitors\obj\Debug\UsingMonitors.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Concurrency\ManagedThreadingPre2010\UsingMonitors\obj\Debug\UsingMonitors.pdb

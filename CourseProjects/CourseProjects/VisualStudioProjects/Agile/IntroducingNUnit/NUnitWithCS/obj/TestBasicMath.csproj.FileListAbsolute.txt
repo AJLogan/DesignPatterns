@@ -1,0 +1,7 @@
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\bin\Debug\TestBasicMath.dll
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\bin\Debug\TestBasicMath.pdb
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\bin\Debug\nunit.framework.dll
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\bin\Debug\nunit.framework.xml
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\obj\Debug\TestBasicMath.dll
+C:\development\dotnet\Agile Development\Introducing NUnit\TDD With CS\obj\Debug\TestBasicMath.pdb

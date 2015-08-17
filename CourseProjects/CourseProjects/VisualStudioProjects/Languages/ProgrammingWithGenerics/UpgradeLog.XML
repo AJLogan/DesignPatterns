@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProgrammingWithGenerics">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\ProgrammingWithGenerics\ProgrammingWithGenerics.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="15:35">
+</Property></Properties><Event ErrorLevel="0" Project="GenericLinkedListCS" Source="GenericLinkedListCS\GenericLinkedListCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenericLinkedListCS" Source="GenericLinkedListCS\GenericLinkedListCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenericLinkedListVB" Source="GenericLinkedListVB\GenericLinkedListVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenericLinkedListVB" Source="GenericLinkedListVB\GenericLinkedListVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConstraintsOnGenerics" Source="ConstraintsOnGenerics\ConstraintsOnGenerics.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConstraintsOnGenerics" Source="ConstraintsOnGenerics\ConstraintsOnGenerics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProgrammingWithGenerics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ProgrammingWithGenerics.sln" Description="Converted">
+</Event><Event ErrorLevel="3" Project="" Source="GenericsInDotNet.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GenericsInDotNet.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="ProgrammingWithGenerics.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProgrammingWithGenerics.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="ProgrammingWithGenerics1.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProgrammingWithGenerics1.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="GenericLinkedListCS" Source="GenericLinkedListCS\GenericLinkedListCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GenericLinkedListVB" Source="GenericLinkedListVB\GenericLinkedListVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConstraintsOnGenerics" Source="ConstraintsOnGenerics\ConstraintsOnGenerics.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

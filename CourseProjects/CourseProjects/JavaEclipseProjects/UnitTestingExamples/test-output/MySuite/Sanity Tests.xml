@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Tests" failures="0" tests="3" time="1.11" errors="0">
+  <properties/>
+  <testcase name="removeFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addSingleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="newList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+</testsuite>

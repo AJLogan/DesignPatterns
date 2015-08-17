@@ -1,0 +1,98 @@
+@section scripts {
+	<script type="text/javascript">
+            function handleSubmitRaw(theEvent) {
+                theEvent.preventDefault();
+                var formContent = $("#tnaForm").serialize();
+                $.post("xhrFormRaw",formContent,processXhrResponse,"text");
+            }
+            function handleSubmitParsed(theEvent) {
+                theEvent.preventDefault();
+                var formContent = $("#tnaForm").serialize();
+                $.post("xhrFormParsed",formContent,processXhrResponse,"text");
+            }
+            function processXhrResponse(body,status) {
+                $("#queryResponse").html(body);
+            }
+            $(document).ready( function () {
+                $("#viewRaw").bind("click",handleSubmitRaw);
+                $("#viewParsed").bind("click",handleSubmitParsed);
+            });
+	</script>
+}
+@section mystyles {
+        <style type="text/css">
+            .questions { margin-left: 4em; }
+        </style>
+}
+<h1>Submitting Forms Via AJAX</h1>
+<h2>Training Needs Evaluation Form</h2>
+<form id="tnaForm" method="post" action="/nowhere">
+    <fieldset id="courseDetails">
+        <h3>The course you will be attending</h3>
+        <p>
+                The course title:
+        </p>
+        <div class="questions">
+                <select name="courseTitle">
+                    <option value="IntroToScala">Introduction to Scala</option>
+                    <option value="WebAppsWithPlay" selected>Developing Web Applications With Play</option>
+                    <option value="DbAccessWithJpa">Database Access With The Java Persistence API</option>
+                    <option value="CdiInJee6">Container Based Dependency Injection in Enterprise Java V6</option>
+                    <option value="Cpp11Update">Developing Using The New Features in C++ 2011</option>
+                </select>
+        </div>
+    </fieldset>
+    <fieldset id="delegateContactDetails">
+        <h3>Your contact details</h3>
+        <div class="questions">
+            Your name:
+            <input type="text" name="delegateName" value="Joe Bloggs"/>
+            <br/>
+            Your email address:
+            <input type="text" name="delegateEmail" value="joe@megacorp.com"/>
+        </div>
+    </fieldset>
+    <fieldset id="delegateExperience">
+        <h3>Your technical background</h3>
+        <p>
+            For how many years have you worked as a developer?
+        </p>
+        <div class="questions">
+            1-4<input type="radio" name="timeInIndustry" value="oneToFour"/>
+            5-8<input type="radio" name="timeInIndustry" value="fiveToEight" checked/>
+            8-12<input type="radio" name="timeInIndustry" value="eightToTwelve"/>
+        </div>
+        <p>
+            Which is your primary Operating System?
+        </p>
+        <div class="questions">
+            <input type="radio" name="operatingSystem" value="Unix">UNIX
+            <input type="radio" name="operatingSystem" value="Linux" checked>Linux
+            <input type="radio" name="operatingSystem" value="OSX">OS X
+            <input type="radio" name="operatingSystem" value="Windows">Windows
+        </div>
+        <p>
+            Please select the types of programming are familiar with:
+        </p>
+        <div class="questions">
+            <input type="checkbox" name="codingTypes" value="nativeCoding" checked>
+            Native programming (C, C++ etc...)
+            <br/>
+            <input type="checkbox" name="codingTypes" value="managedCoding" checked>
+            Managed programming (Java, C# etc...)
+            <br/>
+            <input type="checkbox" name="codingTypes" value="functionalCoding" checked>
+            Functional programming (Scala, Clojure, F# etc...)
+            <br/>
+            <input type="checkbox" name="codingTypes" value="scripting">
+            Scripting (Perl, Python, Ruby etc...)
+        </div>
+    </fieldset>
+    <p>
+        <input id="viewRaw" type="button" value="Submit Form And View Raw Data"/>
+        <input id="viewParsed" type="button" value="Submit Form And View Parsed Parameters"/>
+    </p>
+</form>
+<hr/>
+<h2>Data Received From The Server Will Appear Below:</h2>
+<div id="queryResponse"></div>

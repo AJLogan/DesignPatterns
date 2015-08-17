@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaValidation", "SchemaValidation.csproj", "{6325DF22-00A6-4DBC-B07F-59B3B215456F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6325DF22-00A6-4DBC-B07F-59B3B215456F}.Debug.ActiveCfg = Debug|.NET
+		{6325DF22-00A6-4DBC-B07F-59B3B215456F}.Debug.Build.0 = Debug|.NET
+		{6325DF22-00A6-4DBC-B07F-59B3B215456F}.Release.ActiveCfg = Release|.NET
+		{6325DF22-00A6-4DBC-B07F-59B3B215456F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LanguageExercisesCS">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\LanguageExercisesCS.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="15:34">
+</Property></Properties><Event ErrorLevel="0" Project="PyramidStart" Source="PyramidStart\PyramidStart.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PyramidStart" Source="PyramidStart\PyramidStart.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PalindromesFinish" Source="PalindromesFinish\PalindromesFinish.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PalindromesFinish" Source="PalindromesFinish\PalindromesFinish.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LanguageExercisesCS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LanguageExercisesCS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PyramidStart" Source="PyramidStart\PyramidStart.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PyramidFinish" Source="PyramidFinish\PyramidFinish.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PalindromesStart" Source="PalindromesStart\PalindromesStart.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PalindromesFinish" Source="PalindromesFinish\PalindromesFinish.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsFinish" Source="ClassDeclarationsFinish\ClassDeclarationsFinish.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClassDeclarationsStart" Source="ClassDeclarationsStart\ClassDeclarationsStart.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsFinish" Source="RomanNumeralsFinish\RomanNumeralsFinish.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RomanNumeralsStart" Source="RomanNumeralsStart\RomanNumeralsStart.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

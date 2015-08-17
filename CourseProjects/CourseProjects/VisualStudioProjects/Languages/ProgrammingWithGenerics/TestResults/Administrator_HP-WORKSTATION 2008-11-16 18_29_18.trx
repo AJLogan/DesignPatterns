@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="894828a2-26c9-4f4a-bd55-c6106424c2a9" name="Administrator@HP-WORKSTATION 2008-11-16 18:29:18" runUser="HP-WORKSTATION\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="3fcbd058-78fd-489e-a4fb-fddf2f5b8824">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\development\bcc\CourseProjects\GenericsInDotNet\TestResults\Administrator_HP-WORKSTATION 2008-11-16 18_29_18" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="34" executed="34" passed="17" error="17" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2008-11-16T18:29:18.2187500+00:00" queuing="2008-11-16T18:29:18.5468750+00:00" start="2008-11-16T18:29:18.5781250+00:00" finish="2008-11-16T18:29:18.9531250+00:00" />
+  <TestDefinitions>
+    <UnitTest name="New_listIsEmpty" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="7045ed99-7bec-cb2e-4217-57f02cb534d2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="baf5c601-b451-48c4-8c7b-2aed7ec7f863" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="New_listIsEmpty" />
+    </UnitTest>
+    <UnitTest name="AccessingEmptyListFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="0675ee84-efb4-e1ad-adf4-7ea1752bad6c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="399378dc-9a06-4910-97eb-7823167c645b" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="AccessingEmptyListFails" />
+    </UnitTest>
+    <UnitTest name="RemovingLastItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="638db12d-f4d9-5732-976a-4a0534bd8e31">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="caee771d-95af-408d-bc83-588fa5c7d4fc" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemovingLastItemWorks" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsIsNotEmpty" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="9f183d84-1a40-328c-0e82-1289d55dc8a4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="253c489c-110e-4b66-a701-52ce06cacf81" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="ListWithItemsIsNotEmpty" />
+    </UnitTest>
+    <UnitTest name="AccessingEmpty_listFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="6d741a4b-b840-c94e-6fec-9ad37075440b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="57ad09c6-f2fb-4caf-9726-b034ec032ffb" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="AccessingEmpty_listFails" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsHasCorrectSize" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="0ae09384-f2b1-67f9-17b4-649fc55a26e4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="587e4573-7e87-4a2d-ba7c-65c3b21adfcb" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="ListWithItemsHasCorrectSize" />
+    </UnitTest>
+    <UnitTest name="RemovingItemFromMiddleWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="1aeb1152-9438-dc8a-fc87-64d5ffc56305">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f57f56ca-1929-44bb-8fa7-72fdd531a75b" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemovingItemFromMiddleWorks" />
+    </UnitTest>
+    <UnitTest name="NewListHasZeroSize" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="dd779965-9e02-24e7-ce9b-ee249ce007ff">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5dfc7de5-4895-4e7d-b495-44b1bd30e33f" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="NewListHasZeroSize" />
+    </UnitTest>
+    <UnitTest name="AccessingWithTooLargeAnIndexFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="bd913aa3-a7a9-b079-cf42-1019668a0ba0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a9b1e81b-3c4c-4626-b0d5-2af4b4bf857e" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="AccessingWithTooLargeAnIndexFails" />
+    </UnitTest>
+    <UnitTest name="AccessingWithNegativeIndexFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="a4628515-46b4-c70c-8364-475d7f98d32d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9b3cb33e-36c1-40db-8b06-f7d7537d6291" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="AccessingWithNegativeIndexFails" />
+    </UnitTest>
+    <UnitTest name="ToStringWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="c359a629-267e-54ad-29b5-82b266ca490e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b0f51f82-c8bf-4d15-9f1f-41737c2a456d" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="ToStringWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingOnlyItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="35d7b8e8-27a3-6571-1fc9-6ccd664ceb67">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="d96bfc93-aa5d-4911-b9e8-e775013e1123" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemovingOnlyItemWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingFirstItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="2379ab60-e063-6099-3890-60e315b59038">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ec4369b5-9e0d-41a8-bbe8-45463cf4abe1" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemovingFirstItemWorks" />
+    </UnitTest>
+    <UnitTest name="NullArgumentForRemoveFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="a9e1fe60-aef5-26a5-aeff-3af8de9a6509">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4a468d72-de8d-4cf9-b6e9-08eee3fcacab" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="NullArgumentForRemoveFails" />
+    </UnitTest>
+    <UnitTest name="CanGetMultipleItems" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="322650b2-9f9d-d8fb-13dd-d3492a3dd2b6">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5153ef0a-4b99-4ef5-bb1e-67e10c7480bf" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="CanGetMultipleItems" />
+    </UnitTest>
+    <UnitTest name="RemovingItemFromMiddleWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="9d6826a8-5c68-a485-e483-436c2cf3768a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b969f37a-957d-4d66-9202-1105ad0c1ce0" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemovingItemFromMiddleWorks" />
+    </UnitTest>
+    <UnitTest name="RemoveWhereItemNotFoundFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="08f4ebad-c5c7-eff1-bf0c-2b35ca80b807">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8302d215-62b1-4352-a7ff-b1f94a280834" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemoveWhereItemNotFoundFails" />
+    </UnitTest>
+    <UnitTest name="NullArgumentForRemoveFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="4d9f609b-9748-2d3d-ef13-99417adf73d3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b7cb87f8-c6bb-445f-8315-387b6af29133" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="NullArgumentForRemoveFails" />
+    </UnitTest>
+    <UnitTest name="RemoveWhereItemNotFoundFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="4a9e37df-119f-2ae7-7cef-1a3fd380fa68">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a0e6939d-b516-4505-8f2c-580ba8df3c1b" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemoveWhereItemNotFoundFails" />
+    </UnitTest>
+    <UnitTest name="RemovingOnlyItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="1608fcbc-3198-537d-b8ea-b48c6c646d07">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7efb82c1-af2d-4d36-9d83-237241ae30b4" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemovingOnlyItemWorks" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsIsNotEmpty" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="355826a2-29b2-22df-a3cf-8f88ab33fffe">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c22cfd42-b53f-4c22-90ad-64ec9a31be86" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="ListWithItemsIsNotEmpty" />
+    </UnitTest>
+    <UnitTest name="RemoveFromEmpty_listFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="047f228c-3d5e-5000-880c-4fec01d71f5b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ecb5c347-0a8a-4230-a0ea-87485e1e3536" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemoveFromEmpty_listFails" />
+    </UnitTest>
+    <UnitTest name="CanGetSingleItem" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="a0c49f97-4c46-aaa7-65fe-c340d3cc5530">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5cfc069f-eb4c-41b1-b779-a3ec6a398908" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="CanGetSingleItem" />
+    </UnitTest>
+    <UnitTest name="AccessingWithTooLargeAnIndexFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="f68c92a7-b373-8674-d1f9-d12f84b24e94">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="96d32598-c6f6-4426-98bb-9a98157ebcc0" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="AccessingWithTooLargeAnIndexFails" />
+    </UnitTest>
+    <UnitTest name="NewListIsEmpty" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="b2bddc14-9ecf-9c3e-4886-a804ac62e823">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="babbee86-e77b-410d-9645-8dec4422a3fe" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="NewListIsEmpty" />
+    </UnitTest>
+    <UnitTest name="AccessingWithNegativeIndexFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="e21b1ef6-b7a6-7707-028b-2a6ac4f12496">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6dc66e29-075a-4811-b341-b3dbad34d809" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="AccessingWithNegativeIndexFails" />
+    </UnitTest>
+    <UnitTest name="RemoveFromEmptyListFails" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="c6c72218-b2f9-461b-67e2-f4fe049044c1">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="94cf3605-df32-482d-b23d-cba0fc05b1bc" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemoveFromEmptyListFails" />
+    </UnitTest>
+    <UnitTest name="NewListHasZeroSize" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="951377d5-8b5c-3942-6744-f840ea784f78">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ccda53a0-c22e-4746-8aeb-1c5f48987132" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="NewListHasZeroSize" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsHasCorrectSize" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="c74743c9-d1d1-9907-d4c1-fafc295fb03d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5d38d9da-6c0e-4cd4-9a34-f2aa0865cec6" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="ListWithItemsHasCorrectSize" />
+    </UnitTest>
+    <UnitTest name="ToStringWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="c1a7519e-8be0-49bb-96e8-df97a7aa9c1c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="97e36573-c66a-4d87-af1b-40a4550047fc" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="ToStringWorks" />
+    </UnitTest>
+    <UnitTest name="CanGetSingleItem" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="50e71873-5382-aea1-8aa3-16c4124a611c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e2f6cc26-e6af-438c-a2b4-af8350802701" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="CanGetSingleItem" />
+    </UnitTest>
+    <UnitTest name="RemovingFirstItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="b242119b-6c6d-a1d7-b70e-841a77b00aa9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="03f552ad-a193-423f-ad1a-420a945274a9" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.Linked_listTest, GenericLinkedListVB" name="RemovingFirstItemWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingLastItemWorks" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="bcc61a10-54f1-098d-368c-52702511ba4e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="11bdffac-9ba6-4ab0-a3a5-424aa2c34607" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="RemovingLastItemWorks" />
+    </UnitTest>
+    <UnitTest name="CanGetMultipleItems" storage="c:\development\bcc\courseprojects\genericsindotnet\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="bb25f5e8-0a22-030c-457d-cde5aff7053f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="77693915-8b30-4df6-8575-4da5feb9c5df" />
+      <TestMethod codeBase="C:\development\bcc\CourseProjects\GenericsInDotNet\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedList.LinkedListTest, GenericLinkedListCS" name="CanGetMultipleItems" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="047f228c-3d5e-5000-880c-4fec01d71f5b" executionId="ecb5c347-0a8a-4230-a0ea-87485e1e3536" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0675ee84-efb4-e1ad-adf4-7ea1752bad6c" executionId="399378dc-9a06-4910-97eb-7823167c645b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08f4ebad-c5c7-eff1-bf0c-2b35ca80b807" executionId="8302d215-62b1-4352-a7ff-b1f94a280834" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0ae09384-f2b1-67f9-17b4-649fc55a26e4" executionId="587e4573-7e87-4a2d-ba7c-65c3b21adfcb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1608fcbc-3198-537d-b8ea-b48c6c646d07" executionId="7efb82c1-af2d-4d36-9d83-237241ae30b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1aeb1152-9438-dc8a-fc87-64d5ffc56305" executionId="f57f56ca-1929-44bb-8fa7-72fdd531a75b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2379ab60-e063-6099-3890-60e315b59038" executionId="ec4369b5-9e0d-41a8-bbe8-45463cf4abe1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="322650b2-9f9d-d8fb-13dd-d3492a3dd2b6" executionId="5153ef0a-4b99-4ef5-bb1e-67e10c7480bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="355826a2-29b2-22df-a3cf-8f88ab33fffe" executionId="c22cfd42-b53f-4c22-90ad-64ec9a31be86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35d7b8e8-27a3-6571-1fc9-6ccd664ceb67" executionId="d96bfc93-aa5d-4911-b9e8-e775013e1123" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4a9e37df-119f-2ae7-7cef-1a3fd380fa68" executionId="a0e6939d-b516-4505-8f2c-580ba8df3c1b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d9f609b-9748-2d3d-ef13-99417adf73d3" executionId="b7cb87f8-c6bb-445f-8315-387b6af29133" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="50e71873-5382-aea1-8aa3-16c4124a611c" executionId="e2f6cc26-e6af-438c-a2b4-af8350802701" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="638db12d-f4d9-5732-976a-4a0534bd8e31" executionId="caee771d-95af-408d-bc83-588fa5c7d4fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6d741a4b-b840-c94e-6fec-9ad37075440b" executionId="57ad09c6-f2fb-4caf-9726-b034ec032ffb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7045ed99-7bec-cb2e-4217-57f02cb534d2" executionId="baf5c601-b451-48c4-8c7b-2aed7ec7f863" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="951377d5-8b5c-3942-6744-f840ea784f78" executionId="ccda53a0-c22e-4746-8aeb-1c5f48987132" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d6826a8-5c68-a485-e483-436c2cf3768a" executionId="b969f37a-957d-4d66-9202-1105ad0c1ce0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9f183d84-1a40-328c-0e82-1289d55dc8a4" executionId="253c489c-110e-4b66-a701-52ce06cacf81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0c49f97-4c46-aaa7-65fe-c340d3cc5530" executionId="5cfc069f-eb4c-41b1-b779-a3ec6a398908" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4628515-46b4-c70c-8364-475d7f98d32d" executionId="9b3cb33e-36c1-40db-8b06-f7d7537d6291" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9e1fe60-aef5-26a5-aeff-3af8de9a6509" executionId="4a468d72-de8d-4cf9-b6e9-08eee3fcacab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b242119b-6c6d-a1d7-b70e-841a77b00aa9" executionId="03f552ad-a193-423f-ad1a-420a945274a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2bddc14-9ecf-9c3e-4886-a804ac62e823" executionId="babbee86-e77b-410d-9645-8dec4422a3fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb25f5e8-0a22-030c-457d-cde5aff7053f" executionId="77693915-8b30-4df6-8575-4da5feb9c5df" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bcc61a10-54f1-098d-368c-52702511ba4e" executionId="11bdffac-9ba6-4ab0-a3a5-424aa2c34607" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd913aa3-a7a9-b079-cf42-1019668a0ba0" executionId="a9b1e81b-3c4c-4626-b0d5-2af4b4bf857e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1a7519e-8be0-49bb-96e8-df97a7aa9c1c" executionId="97e36573-c66a-4d87-af1b-40a4550047fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c359a629-267e-54ad-29b5-82b266ca490e" executionId="b0f51f82-c8bf-4d15-9f1f-41737c2a456d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c6c72218-b2f9-461b-67e2-f4fe049044c1" executionId="94cf3605-df32-482d-b23d-cba0fc05b1bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c74743c9-d1d1-9907-d4c1-fafc295fb03d" executionId="5d38d9da-6c0e-4cd4-9a34-f2aa0865cec6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dd779965-9e02-24e7-ce9b-ee249ce007ff" executionId="5dfc7de5-4895-4e7d-b495-44b1bd30e33f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e21b1ef6-b7a6-7707-028b-2a6ac4f12496" executionId="6dc66e29-075a-4811-b341-b3dbad34d809" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f68c92a7-b373-8674-d1f9-d12f84b24e94" executionId="96d32598-c6f6-4426-98bb-9a98157ebcc0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ecb5c347-0a8a-4230-a0ea-87485e1e3536" testId="047f228c-3d5e-5000-880c-4fec01d71f5b" testName="RemoveFromEmpty_listFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.5781250+00:00" endTime="2008-11-16T18:29:18.6718750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="399378dc-9a06-4910-97eb-7823167c645b" testId="0675ee84-efb4-e1ad-adf4-7ea1752bad6c" testName="AccessingEmptyListFails" computerName="HP-WORKSTATION" duration="00:00:00.0016988" startTime="2008-11-16T18:29:18.6718750+00:00" endTime="2008-11-16T18:29:18.7343750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8302d215-62b1-4352-a7ff-b1f94a280834" testId="08f4ebad-c5c7-eff1-bf0c-2b35ca80b807" testName="RemoveWhereItemNotFoundFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.7343750+00:00" endTime="2008-11-16T18:29:18.7500000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="587e4573-7e87-4a2d-ba7c-65c3b21adfcb" testId="0ae09384-f2b1-67f9-17b4-649fc55a26e4" testName="ListWithItemsHasCorrectSize" computerName="HP-WORKSTATION" duration="00:00:00.0020661" startTime="2008-11-16T18:29:18.7500000+00:00" endTime="2008-11-16T18:29:18.7500000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7efb82c1-af2d-4d36-9d83-237241ae30b4" testId="1608fcbc-3198-537d-b8ea-b48c6c646d07" testName="RemovingOnlyItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0045056" startTime="2008-11-16T18:29:18.7500000+00:00" endTime="2008-11-16T18:29:18.7656250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f57f56ca-1929-44bb-8fa7-72fdd531a75b" testId="1aeb1152-9438-dc8a-fc87-64d5ffc56305" testName="RemovingItemFromMiddleWorks" computerName="HP-WORKSTATION" duration="00:00:00.0010998" startTime="2008-11-16T18:29:18.7656250+00:00" endTime="2008-11-16T18:29:18.7656250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ec4369b5-9e0d-41a8-bbe8-45463cf4abe1" testId="2379ab60-e063-6099-3890-60e315b59038" testName="RemovingFirstItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0005109" startTime="2008-11-16T18:29:18.7656250+00:00" endTime="2008-11-16T18:29:18.7656250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5153ef0a-4b99-4ef5-bb1e-67e10c7480bf" testId="322650b2-9f9d-d8fb-13dd-d3492a3dd2b6" testName="CanGetMultipleItems" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.7656250+00:00" endTime="2008-11-16T18:29:18.7812500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c22cfd42-b53f-4c22-90ad-64ec9a31be86" testId="355826a2-29b2-22df-a3cf-8f88ab33fffe" testName="ListWithItemsIsNotEmpty" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.7812500+00:00" endTime="2008-11-16T18:29:18.7812500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d96bfc93-aa5d-4911-b9e8-e775013e1123" testId="35d7b8e8-27a3-6571-1fc9-6ccd664ceb67" testName="RemovingOnlyItemWorks" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.7968750+00:00" endTime="2008-11-16T18:29:18.7968750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a0e6939d-b516-4505-8f2c-580ba8df3c1b" testId="4a9e37df-119f-2ae7-7cef-1a3fd380fa68" testName="RemoveWhereItemNotFoundFails" computerName="HP-WORKSTATION" duration="00:00:00.0011903" startTime="2008-11-16T18:29:18.7968750+00:00" endTime="2008-11-16T18:29:18.7968750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b7cb87f8-c6bb-445f-8315-387b6af29133" testId="4d9f609b-9748-2d3d-ef13-99417adf73d3" testName="NullArgumentForRemoveFails" computerName="HP-WORKSTATION" duration="00:00:00.0005506" startTime="2008-11-16T18:29:18.7968750+00:00" endTime="2008-11-16T18:29:18.8125000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e2f6cc26-e6af-438c-a2b4-af8350802701" testId="50e71873-5382-aea1-8aa3-16c4124a611c" testName="CanGetSingleItem" computerName="HP-WORKSTATION" duration="00:00:00.0009892" startTime="2008-11-16T18:29:18.8125000+00:00" endTime="2008-11-16T18:29:18.8125000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="caee771d-95af-408d-bc83-588fa5c7d4fc" testId="638db12d-f4d9-5732-976a-4a0534bd8e31" testName="RemovingLastItemWorks" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8125000+00:00" endTime="2008-11-16T18:29:18.8125000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="57ad09c6-f2fb-4caf-9726-b034ec032ffb" testId="6d741a4b-b840-c94e-6fec-9ad37075440b" testName="AccessingEmpty_listFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8125000+00:00" endTime="2008-11-16T18:29:18.8281250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="baf5c601-b451-48c4-8c7b-2aed7ec7f863" testId="7045ed99-7bec-cb2e-4217-57f02cb534d2" testName="New_listIsEmpty" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8281250+00:00" endTime="2008-11-16T18:29:18.8281250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ccda53a0-c22e-4746-8aeb-1c5f48987132" testId="951377d5-8b5c-3942-6744-f840ea784f78" testName="NewListHasZeroSize" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8281250+00:00" endTime="2008-11-16T18:29:18.8281250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b969f37a-957d-4d66-9202-1105ad0c1ce0" testId="9d6826a8-5c68-a485-e483-436c2cf3768a" testName="RemovingItemFromMiddleWorks" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8437500+00:00" endTime="2008-11-16T18:29:18.8437500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="253c489c-110e-4b66-a701-52ce06cacf81" testId="9f183d84-1a40-328c-0e82-1289d55dc8a4" testName="ListWithItemsIsNotEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0002877" startTime="2008-11-16T18:29:18.8437500+00:00" endTime="2008-11-16T18:29:18.8437500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5cfc069f-eb4c-41b1-b779-a3ec6a398908" testId="a0c49f97-4c46-aaa7-65fe-c340d3cc5530" testName="CanGetSingleItem" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8437500+00:00" endTime="2008-11-16T18:29:18.8593750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9b3cb33e-36c1-40db-8b06-f7d7537d6291" testId="a4628515-46b4-c70c-8364-475d7f98d32d" testName="AccessingWithNegativeIndexFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8593750+00:00" endTime="2008-11-16T18:29:18.8593750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4a468d72-de8d-4cf9-b6e9-08eee3fcacab" testId="a9e1fe60-aef5-26a5-aeff-3af8de9a6509" testName="NullArgumentForRemoveFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8593750+00:00" endTime="2008-11-16T18:29:18.8593750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="03f552ad-a193-423f-ad1a-420a945274a9" testId="b242119b-6c6d-a1d7-b70e-841a77b00aa9" testName="RemovingFirstItemWorks" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8750000+00:00" endTime="2008-11-16T18:29:18.8750000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="babbee86-e77b-410d-9645-8dec4422a3fe" testId="b2bddc14-9ecf-9c3e-4886-a804ac62e823" testName="NewListIsEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0002237" startTime="2008-11-16T18:29:18.8750000+00:00" endTime="2008-11-16T18:29:18.8750000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="77693915-8b30-4df6-8575-4da5feb9c5df" testId="bb25f5e8-0a22-030c-457d-cde5aff7053f" testName="CanGetMultipleItems" computerName="HP-WORKSTATION" duration="00:00:00.0006514" startTime="2008-11-16T18:29:18.8906250+00:00" endTime="2008-11-16T18:29:18.8906250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="11bdffac-9ba6-4ab0-a3a5-424aa2c34607" testId="bcc61a10-54f1-098d-368c-52702511ba4e" testName="RemovingLastItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0008221" startTime="2008-11-16T18:29:18.8906250+00:00" endTime="2008-11-16T18:29:18.8906250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a9b1e81b-3c4c-4626-b0d5-2af4b4bf857e" testId="bd913aa3-a7a9-b079-cf42-1019668a0ba0" testName="AccessingWithTooLargeAnIndexFails" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.8906250+00:00" endTime="2008-11-16T18:29:18.9062500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="97e36573-c66a-4d87-af1b-40a4550047fc" testId="c1a7519e-8be0-49bb-96e8-df97a7aa9c1c" testName="ToStringWorks" computerName="HP-WORKSTATION" duration="00:00:00.0006810" startTime="2008-11-16T18:29:18.9062500+00:00" endTime="2008-11-16T18:29:18.9062500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b0f51f82-c8bf-4d15-9f1f-41737c2a456d" testId="c359a629-267e-54ad-29b5-82b266ca490e" testName="ToStringWorks" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.9062500+00:00" endTime="2008-11-16T18:29:18.9218750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="94cf3605-df32-482d-b23d-cba0fc05b1bc" testId="c6c72218-b2f9-461b-67e2-f4fe049044c1" testName="RemoveFromEmptyListFails" computerName="HP-WORKSTATION" duration="00:00:00.0005830" startTime="2008-11-16T18:29:18.9218750+00:00" endTime="2008-11-16T18:29:18.9218750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5d38d9da-6c0e-4cd4-9a34-f2aa0865cec6" testId="c74743c9-d1d1-9907-d4c1-fafc295fb03d" testName="ListWithItemsHasCorrectSize" computerName="HP-WORKSTATION" duration="00:00:00" startTime="2008-11-16T18:29:18.9218750+00:00" endTime="2008-11-16T18:29:18.9218750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unable to get type GenericLinkedListVB.Linked_listTest, GenericLinkedListVB. Error: System.TypeLoadException: Could not load type 'GenericLinkedListVB.Linked_listTest' from assembly 'GenericLinkedListVB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.Assembly._GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.Reflection.Assembly.GetType(String name, Boolean throwOnError)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.GetType(UnitTestElement unitTest, String type)
+   at Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestExecuter.ResolveMethods().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5dfc7de5-4895-4e7d-b495-44b1bd30e33f" testId="dd779965-9e02-24e7-ce9b-ee249ce007ff" testName="NewListHasZeroSize" computerName="HP-WORKSTATION" duration="00:00:00.0003654" startTime="2008-11-16T18:29:18.9375000+00:00" endTime="2008-11-16T18:29:18.9375000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6dc66e29-075a-4811-b341-b3dbad34d809" testId="e21b1ef6-b7a6-7707-028b-2a6ac4f12496" testName="AccessingWithNegativeIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0005397" startTime="2008-11-16T18:29:18.9375000+00:00" endTime="2008-11-16T18:29:18.9375000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="96d32598-c6f6-4426-98bb-9a98157ebcc0" testId="f68c92a7-b373-8674-d1f9-d12f84b24e94" testName="AccessingWithTooLargeAnIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0005679" startTime="2008-11-16T18:29:18.9375000+00:00" endTime="2008-11-16T18:29:18.9531250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="108513ca-70ea-4dbd-9836-a5fcee361d8b" name="Garth@HOME-PC 2012-10-21 23:08:10" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 23_08_10" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T23:08:10.8961747+01:00" queuing="2012-10-21T23:08:10.9071753+01:00" start="2012-10-21T23:08:10.9121756+01:00" finish="2012-10-21T23:08:11.1181874+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>Assembly level initalize method called
+Class level initalize method called
+Class level cleanup method called
+Assembly level cleanup method called
+</DebugTrace>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="197e193c-8bc3-904a-e054-81f586253185">
+      <Execution id="fea71143-6f84-4e4d-a327-8ee31ffc9fa9" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+    <UnitTest name="T3" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd091580-2f39-8950-7bb8-9cb822e8d9b1">
+      <Execution id="f30d93ce-796a-41a2-adbc-da185f601a6e" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T3" />
+    </UnitTest>
+    <UnitTest name="T2" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6">
+      <Execution id="0bd0362c-c13b-481e-8ada-80cec8fd2b37" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197e193c-8bc3-904a-e054-81f586253185" executionId="fea71143-6f84-4e4d-a327-8ee31ffc9fa9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" executionId="f30d93ce-796a-41a2-adbc-da185f601a6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" executionId="0bd0362c-c13b-481e-8ada-80cec8fd2b37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fea71143-6f84-4e4d-a327-8ee31ffc9fa9" testId="197e193c-8bc3-904a-e054-81f586253185" testName="T1" computerName="HOME-PC" duration="00:00:00.0090114" startTime="2012-10-21T23:08:10.9151758+01:00" endTime="2012-10-21T23:08:11.0981863+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fea71143-6f84-4e4d-a327-8ee31ffc9fa9">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test One Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f30d93ce-796a-41a2-adbc-da185f601a6e" testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" testName="T3" computerName="HOME-PC" duration="00:00:00.0001774" startTime="2012-10-21T23:08:11.0981863+01:00" endTime="2012-10-21T23:08:11.1021865+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f30d93ce-796a-41a2-adbc-da185f601a6e">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test Three Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0bd0362c-c13b-481e-8ada-80cec8fd2b37" testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" testName="T2" computerName="HOME-PC" duration="00:00:00.0001638" startTime="2012-10-21T23:08:11.1031865+01:00" endTime="2012-10-21T23:08:11.1071868+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0bd0362c-c13b-481e-8ada-80cec8fd2b37">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test Two Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

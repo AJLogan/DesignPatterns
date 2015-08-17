@@ -1,0 +1,32 @@
+<%@ Master Language="C#" %>
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <style type="text/css">
+		h2,h1,h3 { text-align: center; }
+		.line {margin-left: 2em;}
+		a.act {}
+		a.scene {margin-left: 1em;}
+	</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:Button ID="btHome" runat="server" PostBackUrl="Index.aspx" Text="Back To Home Page" />
+    <div>
+      <h2><asp:contentplaceholder id="topTitle" runat="server"/></h2>
+      <hr/>
+      <table width="100%">
+          <tr>
+              <td valign="top"><asp:contentplaceholder id="columnOne" runat="server"/></td>
+              <td valign="top"><asp:contentplaceholder id="columnTwo" runat="server"/></td>
+              <td valign="top"><asp:contentplaceholder id="columnThree" runat="server"/></td>
+          </tr>
+      </table>
+    </div>
+    </form>
+</body>
+</html>

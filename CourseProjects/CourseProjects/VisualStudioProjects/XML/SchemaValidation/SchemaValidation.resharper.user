@@ -1,0 +1,47 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Schemas" priority="0" />
+      <Item value="ValidationType" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="Read" priority="0" />
+      <Item value="Add" priority="0" />
+      <Item value="ValidationEventHandler" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Schema.XmlSchemaCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.ValidationType">
+      <Item value="Schema" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="6325DF22-00A6-4DBC-B07F-59B3B215456F/f:purchase_order.xsd" caret="0" visual-x="0" visual-y="682" />
+      <File id="6325DF22-00A6-4DBC-B07F-59B3B215456F/f:purchase_order_bad.xml" caret="568" visual-x="0" visual-y="0" />
+      <File id="6325DF22-00A6-4DBC-B07F-59B3B215456F/f:Demo.cs" caret="1418" visual-x="0" visual-y="66" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

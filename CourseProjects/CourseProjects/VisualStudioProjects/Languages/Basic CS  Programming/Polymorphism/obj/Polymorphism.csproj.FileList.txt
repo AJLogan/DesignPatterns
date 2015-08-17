@@ -1,0 +1,5 @@
+obj\Debug\CSharpPolymorphism.exe
+obj\Debug\CSharpPolymorphism.pdb
+bin\Debug\CSharpPolymorphism.exe
+bin\Debug\CSharpPolymorphism.pdb
+obj\Debug\ResolveAssemblyReference.cache

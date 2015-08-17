@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="All Basic Tests" failures="0" tests="11" time="4.093" errors="0">
+  <properties/>
+  <testcase name="getMiddleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="clear" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeMiddleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getLastItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="getFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addViaVarArg" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeLastItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="removeFirstItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addMultipleItems" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="addSingleItem" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+  <testcase name="newList" time="0.0" classname="demos.tdd.testng.advanced.LinkedListTest"/>
+</testsuite>

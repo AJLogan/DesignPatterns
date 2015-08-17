@@ -1,0 +1,41 @@
+﻿@model BasicAspMvcDemos.Models.MyData
+
+@{
+    ViewBag.Title = "RazorSyntax";
+}
+
+<h2>RazorSyntax</h2>
+<h3>Vehicle Details</h3>
+<p>
+    The vehicle is a @Model.TheVehicle.Manufacturer @Model.TheVehicle.Model 
+    driven by @Model.TheVehicle.Owner.Forename @Model.TheVehicle.Owner.Surname
+</p>
+<h3>Address Details</h3>
+<p>
+    These are the addresses registered to the owner:
+</p>
+<ol>
+    @foreach (var address in @Model.AddressList) {
+        <li>@address</li>
+    }
+</ol>
+<h3>Payments Plan</h3>
+<p>
+    These will be the payments over the first 6 months:
+</p>
+<p>
+    @for (int i = 1; i <= 6; i++) {
+        if (i == 1) {
+            @:After the first month the amount repayed will be
+            @Model.Repayment
+            <br />
+        } else if (i > 1 && i < 6) {
+            @:After month @i the amount repayed will be
+            @(Model.Repayment*i)
+            <br />
+        } else {
+            <text>After the sixth month the amount repayed will be </text>
+            @(Model.Repayment*6)
+        }
+    }
+</p>

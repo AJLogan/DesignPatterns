@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UsingCodeDOM">
+</Property><Property Name="Solution File" Value="C:\Development\dotnet\VS2008\Framework Libraries\CodeDOM\UsingCodeDOM.sln">
+</Property><Property Name="Date" Value="10 January 2009">
+</Property><Property Name="Time" Value="19:08">
+</Property></Properties><Event ErrorLevel="0" Project="UsingCodeDOM" Source="UsingCodeDOM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UsingCodeDOM" Source="UsingCodeDOM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UsingCodeDOM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UsingCodeDOM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UsingCodeDOM" Source="UsingCodeDOM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

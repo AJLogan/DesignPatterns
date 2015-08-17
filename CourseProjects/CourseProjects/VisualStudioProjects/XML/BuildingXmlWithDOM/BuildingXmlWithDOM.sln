@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingXmlWithDOM", "BuildingXmlWithDOM.csproj", "{387477C0-BEC9-4D6C-87A0-91402C571EBA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{387477C0-BEC9-4D6C-87A0-91402C571EBA}.Debug.ActiveCfg = Debug|.NET
+		{387477C0-BEC9-4D6C-87A0-91402C571EBA}.Debug.Build.0 = Debug|.NET
+		{387477C0-BEC9-4D6C-87A0-91402C571EBA}.Release.ActiveCfg = Release|.NET
+		{387477C0-BEC9-4D6C-87A0-91402C571EBA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

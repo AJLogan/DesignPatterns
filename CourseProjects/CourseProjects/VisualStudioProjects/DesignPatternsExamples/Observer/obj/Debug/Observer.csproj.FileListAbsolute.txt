@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\bin\Debug\Observer.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\bin\Debug\Observer.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\bin\Debug\Observer.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\obj\Debug\Observer.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Observer\obj\Debug\Observer.pdb

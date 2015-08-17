@@ -1,0 +1,4 @@
+C:\Development\dotnet\VS2008\Agile Development\UnitTestingTool\CSUnitV2\obj\Debug\CSUnitV2.exe
+C:\Development\dotnet\VS2008\Agile Development\UnitTestingTool\CSUnitV2\obj\Debug\CSUnitV2.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV2\obj\Debug\CSUnitV2.exe
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV2\obj\Debug\CSUnitV2.pdb

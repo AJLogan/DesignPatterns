@@ -1,0 +1,82 @@
+﻿@model BasicAspMvcDemos.Models.Individual
+
+@{
+    ViewBag.Title = "Validating the data entered";
+}
+
+<h2>Validating the data entered</h2>
+<h3>Version One</h3>
+<div class="inlineForm">
+    <form method="post" action="/Examples/Actions10">
+        Forename: <input type="text" name="forename" value="Jane" />
+        @Html.ValidationMessageFor(model => model.Forename)
+        <br />
+
+        Surname: <input type="text" name="surname" value="Smith" />
+        @Html.ValidationMessageFor(model => model.Surname)
+        <br />
+
+        Age: <input type="text" name="age" value="35" />
+        @Html.ValidationMessageFor(model => model.Age)
+        <br />
+
+        <input type="submit" value="Submit Form" />
+    </form>
+</div>
+<h3>Version Two</h3>
+<div class="inlineForm">
+    @using (Html.BeginForm("Actions10","Examples")) {
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Individual</legend>
+
+            <div class="editor-label">Forename</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Forename)
+                @Html.ValidationMessageFor(model => model.Forename)
+            </div>
+            <div class="editor-label">Surname</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Surname)
+                @Html.ValidationMessageFor(model => model.Surname)
+            </div>
+            <div class="editor-label">Age</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Age)
+                @Html.ValidationMessageFor(model => model.Age)
+            </div>
+            <input type="submit" value="Submit Form" />
+        </fieldset>
+    }
+</div>
+
+<h3>Version Three</h3>
+<div class="inlineForm">
+    @using (Ajax.BeginForm("Actions12", "Examples", new AjaxOptions() { UpdateTargetId = "ajaxSubmissionResult"}))
+    {
+        <fieldset>
+            <legend>Individual</legend>
+            <div class="editor-label">Forename</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Forename)
+                @Html.ValidationMessageFor(model => model.Forename)
+            </div>
+            <div class="editor-label">Surname</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Surname)
+                @Html.ValidationMessageFor(model => model.Surname)
+            </div>
+            <div class="editor-label">Age</div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Age)) 
+                @Html.ValidationMessageFor(model => model.Age)
+            </div>
+            <input type="submit" value="Submit Form" />
+        </fieldset>
+    }
+    <h4 id="ajaxSubmissionResult">Result Will Appear Here...</h4>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

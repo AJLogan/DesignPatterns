@@ -1,0 +1,43 @@
+﻿@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                This is a demonstration application which you can reverse engineer and 
+                then extend...
+            </p>
+        </div>
+    </section>
+}
+<h3>Please select one of the following:</h3>
+<ol class="round">
+    <li class="one">
+        <h5><a href="/CourseCatalog/">View the Course Catalog</a></h5>
+        <p>If it aint there we'll write it :-)</p>
+    </li>
+    <li class="two">
+        <h5>Search for a Course by Number</h5>
+        <form action="/CourseCatalog/bynumber" method="get">
+            <input type="text" name="number" maxlength="4" value="AB12"/>
+            <input type="submit" value="Search"/>
+        </form>
+    </li>
+    <li class="three">
+        <h5>Search for a Course by Keyword</h5>
+        <form action="/CourseCatalog/bykeyword" method="get">
+            <input type="text" name="keyword" maxlength="10" value="Intro"/>
+            <input type="submit" value="Search"/>
+        </form>
+    </li>
+    <li class="four">
+        <h5><a href="CourseCatalog/newcourse">Add a new Course</a></h5>
+        <p>We build to your requirements...</p>
+    </li>
+    <li class="five">
+        <h5>Working with Deliveries</h5>
+        <p>Your code goes here...</p>
+    </li>
+</ol>

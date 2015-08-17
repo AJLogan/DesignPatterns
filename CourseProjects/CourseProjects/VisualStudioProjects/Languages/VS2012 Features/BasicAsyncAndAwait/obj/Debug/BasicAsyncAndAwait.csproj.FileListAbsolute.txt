@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\bin\Debug\BasicAsyncAndAwait.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\bin\Debug\BasicAsyncAndAwait.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\bin\Debug\BasicAsyncAndAwait.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\obj\Debug\BasicAsyncAndAwait.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\obj\Debug\BasicAsyncAndAwait.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2012 Features\BasicAsyncAndAwait\obj\Debug\BasicAsyncAndAwait.pdb

@@ -1,0 +1,96 @@
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll.config
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.pdb
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\WebGrease.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.pdb
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.pdb
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll.config
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.pdb
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\WebGrease.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.pdb
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.Tests.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\WebGrease.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\BasicWebApiDemos.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.Razor.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicWebApiDemos.Tests\obj\Debug\BasicWebApiDemos.Tests.pdb

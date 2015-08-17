@@ -1,0 +1,36 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Internal Web Mail Form</title>
+   </head>
+   <body>
+      <h2>Internal Web Mail Form</h2>
+		<form action="/somewhere">
+			<p>
+				Department of Recipient
+				<select name="department">
+					<option value="HR">Human Relations
+					<option value="IT">Information Technology
+					<option value="AC">Accounting
+				</select>
+			</p>
+			<p>
+				Chosen Recipient
+				<select name="recipient">
+					<option value="rOne">Dave
+					<option value="rTwo">John
+					<option value="rThree">Fred
+				</select>
+			</p>
+				<p>
+				Priority
+				<input type="radio" name="priority" value="low" checked />Low
+                <input type="radio" name="priority" value="medium" />Medium
+                <input type="radio" name="priority" value="high" />High
+				</p>
+				<p>
+				<input type="submit" value="Send To Recipient"/>
+				<input type="submit" value="Send To All In Department"/>
+			</p>
+		</form>
+   </body>
+</html>

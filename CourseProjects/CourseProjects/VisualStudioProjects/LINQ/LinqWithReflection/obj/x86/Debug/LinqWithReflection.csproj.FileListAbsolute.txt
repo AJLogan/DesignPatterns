@@ -1,0 +1,10 @@
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithReflection\bin\Debug\LinqWithReflection.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithReflection\bin\Debug\LinqWithReflection.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\LinqWithReflection.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\LinqWithReflection.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithReflection\bin\Debug\LinqWithReflection.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithReflection\bin\Debug\LinqWithReflection.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\LinqWithReflection.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqWithReflection\obj\x86\Debug\LinqWithReflection.pdb

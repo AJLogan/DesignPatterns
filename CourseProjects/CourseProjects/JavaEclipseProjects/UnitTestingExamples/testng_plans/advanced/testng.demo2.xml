@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MySuite" verbose="1" >
+  	<test name="All Inserts and Deletes">
+		<groups>
+			<run>
+				<include name="inserts"/>
+				<include name="deletes"/>
+			</run>
+		</groups>
+    	<classes>
+      		<class name="demos.tdd.testng.advanced.LinkedListTest"/>
+    	</classes>
+  	</test>
+</suite>

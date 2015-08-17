@@ -1,0 +1,16 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\BuildingXmlWithDOM\obj\Debug\UsingDOM.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\BuildingXmlWithDOM\obj\Debug\UsingDOM.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\BuildingXmlWithDOM\bin\Debug\UsingDOM.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\BuildingXmlWithDOM\bin\Debug\UsingDOM.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\BuildingXmlWithDOM\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\BuildingXmlWithDOM\bin\Debug\UsingDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\BuildingXmlWithDOM\bin\Debug\UsingDOM.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.pdb
+E:\Development\VS2010\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.exe
+E:\Development\VS2010\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\XML\BuildingXmlWithDOM\obj\Debug\UsingDOM.pdb

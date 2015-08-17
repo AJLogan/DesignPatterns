@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demos.tdd.testng.data.providers.DataProvidersBasic" failures="0" tests="3" time="0.109" errors="0">
+  <properties/>
+  <testcase name="op1" time="0.063" classname="demos.tdd.testng.data.providers.DataProvidersBasic"/>
+  <testcase name="op1" time="0.0" classname="demos.tdd.testng.data.providers.DataProvidersBasic"/>
+  <testcase name="op1" time="0.015" classname="demos.tdd.testng.data.providers.DataProvidersBasic"/>
+</testsuite>

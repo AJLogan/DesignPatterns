@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\bin\Debug\Singleton.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\bin\Debug\Singleton.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\bin\Debug\Singleton.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\obj\Debug\Singleton.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Singleton\obj\Debug\Singleton.pdb

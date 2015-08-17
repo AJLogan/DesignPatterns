@@ -1,0 +1,18 @@
+@section scripts {
+	<script type="text/javascript">
+            function populateOrderedList(contentList,parentNode) {
+                $.each(contentList,function(index,content) {
+                                parentNode.prepend($("<li>" + content + "</li>"));
+                             });
+            }
+            $(document).ready( function () {
+                $("#target").bind("click", function() {
+                    var data = ["Item one content", "Item two content" ,"Item three content",
+                                "Item four content", "Item five content", "Item six content"];
+                    populateOrderedList(data,$("#result"));
+                });
+            });
+	</script>	
+}
+<h2 id="target">Click here to populate list...</h2>
+<ol id="result"/>

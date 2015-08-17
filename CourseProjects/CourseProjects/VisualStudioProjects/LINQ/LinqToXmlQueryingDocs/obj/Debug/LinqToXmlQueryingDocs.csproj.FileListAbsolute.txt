@@ -1,0 +1,22 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlQueryingDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\XML\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlQueryingDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.pdb
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.exe
+E:\Development\VS2010\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlQueryingDocs\bin\Debug\LinqToXmlQueryingDocs.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\LINQ\LinqToXmlQueryingDocs\obj\Debug\LinqToXmlQueryingDocs.pdb

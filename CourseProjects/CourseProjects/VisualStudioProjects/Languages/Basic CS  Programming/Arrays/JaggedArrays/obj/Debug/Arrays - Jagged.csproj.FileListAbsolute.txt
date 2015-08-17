@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Development\dotnet\VS2008\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\Arrays - Jagged.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\Basic CS  Programming\Arrays\JaggedArrays\obj\Debug\JaggedArrays.pdb

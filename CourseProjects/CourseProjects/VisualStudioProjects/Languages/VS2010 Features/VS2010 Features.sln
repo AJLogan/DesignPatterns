@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithDynamicTypes", "PlayingWithDynamicTypes\PlayingWithDynamicTypes.csproj", "{DA770B5D-AFA7-41AB-8C89-179B05E55C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingNamedAndOptionalParameters", "UsingNamedAndOptionalParameters\UsingNamedAndOptionalParameters.csproj", "{94F557F7-1138-41B7-BBC4-1EDBAB3257B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA770B5D-AFA7-41AB-8C89-179B05E55C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA770B5D-AFA7-41AB-8C89-179B05E55C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA770B5D-AFA7-41AB-8C89-179B05E55C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA770B5D-AFA7-41AB-8C89-179B05E55C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F557F7-1138-41B7-BBC4-1EDBAB3257B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F557F7-1138-41B7-BBC4-1EDBAB3257B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F557F7-1138-41B7-BBC4-1EDBAB3257B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F557F7-1138-41B7-BBC4-1EDBAB3257B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

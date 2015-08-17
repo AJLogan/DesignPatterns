@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c58a8bb7-315a-4e6d-9e5e-23df8d39c417" name="Garth@HOME-PC 2012-10-21 21:43:11" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ca016ff4-8a36-4ae7-8e54-6875c4006350">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\LinkedListChallenge\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 21_43_11" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T21:43:11.5725101+01:00" queuing="2012-10-21T21:43:11.5765103+01:00" start="2012-10-21T21:43:11.5805105+01:00" finish="2012-10-21T21:43:11.7855223+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NewListIsEmpty" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\linkedlistchallenge\linkedlistmsteststart\bin\debug\linkedlistmsteststart.dll" id="2956a1e5-41fe-134a-0dab-ce607461e05a">
+      <Execution id="2b1c29c8-795b-4995-b801-e9a1f0ecc29a" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/LinkedListChallenge/LinkedListMSTestStart/bin/Debug/LinkedListMSTestStart.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LinkedListMSTestStart.LinkedListTest, LinkedListMSTestStart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NewListIsEmpty" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2956a1e5-41fe-134a-0dab-ce607461e05a" executionId="2b1c29c8-795b-4995-b801-e9a1f0ecc29a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2b1c29c8-795b-4995-b801-e9a1f0ecc29a" testId="2956a1e5-41fe-134a-0dab-ce607461e05a" testName="NewListIsEmpty" computerName="HOME-PC" duration="00:00:00.0101200" startTime="2012-10-21T21:43:11.5825106+01:00" endTime="2012-10-21T21:43:11.7755217+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b1c29c8-795b-4995-b801-e9a1f0ecc29a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

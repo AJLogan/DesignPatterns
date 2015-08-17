@@ -1,0 +1,10 @@
+C:\Development\dotnet\VS2008\Agile Development\UnitTestingTool\CSUnitV1\obj\Debug\CSUnitV1.exe
+C:\Development\dotnet\VS2008\Agile Development\UnitTestingTool\CSUnitV1\obj\Debug\CSUnitV1.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\CSUnitV1.exe
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\CSUnitV1.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\bin\Debug\CSUnitV1.exe
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\bin\Debug\CSUnitV1.pdb
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\CSUnitV1.MainForm.resources
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\UnitTestingTool\CSUnitV1\obj\Debug\ResGen.write.1.tlog

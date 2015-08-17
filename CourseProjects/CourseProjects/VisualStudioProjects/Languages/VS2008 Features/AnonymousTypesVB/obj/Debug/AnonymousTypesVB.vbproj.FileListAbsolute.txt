@@ -1,0 +1,58 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.vbproj.GenerateResource.Cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.vbproj.GenerateResource.Cache
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\Development\dotnet\VS2008\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\Development\dotnet\VS2008\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.vbproj.GenerateResource.Cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResGen.read.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\ResGen.write.1.tlog
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\bin\Debug\AnonymousTypesVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.Resources.resources
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.vbproj.GenerateResource.Cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\AnonymousTypesVB\obj\Debug\AnonymousTypesVB.pdb

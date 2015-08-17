@@ -1,0 +1,86 @@
+﻿@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                This page contains mini-examples of the building blocks of the ASP .NET MVC framework. These 
+                being routes, controllers, view handlers, view pages, model objects and jQuery based scripts.
+            </p>
+        </div>
+    </section>
+}
+<h3>Declaring Controller Methods</h3>
+<ol>
+    <li><a href="/Examples/">Mapping the default action method</a></li>
+    <li><a href="/Examples/Actions1">Mapping a controller method to a URL</a></li>
+    <li><a href="/Examples/Actions2/Foo">Mapping a parameter to part of the URL</a></li>
+    <li><a href="/Examples/Actions3/Foo/Bar">Mapping multiple parameters to parts of the URL</a></li>
+    <li><a href="/Examples/Actions4/Foo/Bar/Zed">Mapping the remainder of the URL to a parameter</a></li>
+    <li><a href="/Examples/Actions5?forename=Dave&surname=Jones&age=35"">Manually extracting information from the request</a>
+    <li><a href="/Examples/Actions6?forename=Jane&surname=Smith&age=42">Processing request parameters from the query string</a></li>
+    <li>
+        <span>Processing request parameters from the request body</span>
+        <div class="inlineForm">
+            <form method="post" action="/Examples/Actions7">
+                Forename: <input type="text" name="forename" value="Jane" /><br />
+                Surname: <input type="text" name="surname" value="Smith" /><br />
+                Age: <input type="text" name="age" value="35" /><br />
+                <input type="submit" value="Submit Form" />
+            </form>
+        </div>
+    </li>
+    <li>
+        <span>Initializing a value object via request parameters</span>
+        <div class="inlineForm">
+            <form method="post" action="/Examples/Actions8">
+                Forename: <input type="text" name="forename" value="Jane" /><br />
+                Surname: <input type="text" name="surname" value="Smith" /><br />
+                Age: <input type="text" name="age" value="35" /><br />
+                <input type="submit" value="Submit Form" />
+            </form>
+        </div>
+    </li>
+    <li>
+        <span>Initializing nested value objects via request parameters</span>
+        <div class="inlineForm">
+            <form method="post" action="/Examples/Actions9">
+                Manufacturer: <input type="text" name="Manufacturer" value="Nissan" /><br />
+                Model: <input type="text" name="Model" value="X-Trail" /><br />
+                Forename: <input type="text" name="Owner.Forename" value="Jane" /><br />
+                Surname: <input type="text" name="Owner.Surname" value="Smith" /><br />
+                Age: <input type="text" name="Owner.Age" value="35" /><br />
+                <input type="submit" value="Submit Form" />
+            </form>
+        </div>
+    </li>
+    <li>
+        <a href="/Examples/Actions11">Validating request parameters</a>
+    </li>   
+</ol>
+<h3>Returning Different Content Types from Actions</h3>
+<ol>
+    <li><a href="/Examples/Content1">Returing a string</a>
+    <li><a href="/Examples/Content2">Returing an arbitrary object</a>
+    <li><a href="/Examples/Content3">Returing the content of a file</a>
+    <li><a href="/Examples/Content4">Redirecting the browser</a>
+    <li>Sending back JSON data
+        <div class="inlineForm">
+            <form method="post" action="/Demos/Content5">
+                <input type="submit" value="Show Me JSON" />
+            </form>
+        </div>
+    </li>
+</ol>
+<h3>Working with the Razor View Engine</h3>
+<ol>
+    <li><a href="/Examples/Razor1">The core Razor syntax in detail</a>
+    <li><a href="/Examples/Razor2">Using HTML helpers</a>
+</ol>
+<h3>Using the jQuery JavaScript Framework</h3>
+<ol>
+    <li><a href="/Examples/jQuery">Detailed demos of working with jQuery</a>
+</ol>
+

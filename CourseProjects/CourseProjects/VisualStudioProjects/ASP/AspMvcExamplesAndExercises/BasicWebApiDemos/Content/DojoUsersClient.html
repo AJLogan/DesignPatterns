@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dojo Client For ASP .NET Web API</title>
+        <script type="text/javascript" src="/Content/dojo-release-1.6.0/dojo/dojo.js"
+        djConfig="parseOnLoad:true, isDebug:false"></script>
+        <script>
+            function fetchAllUsersViaJson() {
+                dojo.xhrGet({
+                    url: "/api/users",
+                    handleAs: "json",
+                    headers: { Accept: "application/json" },
+                    load: function (data) {
+                        displayRawJsonUsersData(data);
+                        displayUsersJson(data);
+                    },
+                    error: function (theError) {
+                        console.log("JSON based GET request for all users failed with " + theError);
+                    }
+                });
+            }
+            function fetchAllUsersViaXML() {
+                dojo.xhrGet({
+                    url: "/api/users",
+                    handleAs: "xml",
+                    headers: { Accept: "application/xml, text/xml" },
+                    load: function (data) {
+                        displayRawXMLUsersData(data);
+                        displayUsersXML(data);
+                    },
+                    error: function (theError) {
+                        console.log("XML based GET request for all users failed with " + theError);
+                    }
+                });
+            }
+            function displayRawJsonUsersData(data) {
+                var paraNode = dojo.byId("rawExistingUsersDataJson");
+                paraNode.innerHTML = dojo.toJson(data);
+            }
+            function displayRawXMLUsersData(data) {
+                var paraNode = dojo.byId("rawExistingUsersDataXML");
+                paraNode.value = new XMLSerializer().serializeToString(data);
+            }
+            function displayUsersJson(data) {
+                displayUsers(data,"existingUsersJson");
+            }
+            function displayAdjustedUsers(data) {
+                displayUsers(data,"adjustedUsers");
+            }
+            function displayUsers(data,pageRegion) {
+                var listNode = dojo.byId(pageRegion);
+                dojo.empty(listNode);
+                dojo.forEach(data, function (user) {
+                    var text = user.Username + " with password " + user.Password + " in role " + user.Role;
+                    dojo.create("li", { innerHTML: text }, listNode);
+                });
+            }
+            function displayUsersXML(data) {
+                var listNode = dojo.byId("existingUsersXML");
+                dojo.empty(listNode);
+                dojo.forEach(data.documentElement.childNodes, function (user) {
+                    var username = user.getElementsByTagName("Username")[0].textContent;
+                    var password = user.getElementsByTagName("Password")[0].textContent;
+                    var role = user.getElementsByTagName("Role")[0].textContent;
+                    var text = username + " with password " + password + " in role " + role;
+                    dojo.create("li", { innerHTML: text }, listNode);
+                });
+            }
+            function onFetchUserFormSubmit(event) {
+                event.preventDefault();
+                var username = dojo.byId("fetchUserUsername").value;
+                dojo.xhrGet({
+                    url: "/api/users/"+username,
+                    handleAs: "json",
+                    headers: { Accept: "application/json" },
+                    load: function (user) {
+                        var text = "Found: " + user.Username + " with password " + user.Password + " in role " + user.Role;
+                        dojo.byId("fetchUserResults").innerHTML = text;
+                    },
+                    error: function (theError) {
+                        console.log("JSON based GET request for all users failed with " + theError);
+                    }
+                });
+            }
+            function onAddUserFormSubmit(event) {
+                event.preventDefault();
+                var data = {
+                    Username: dojo.byId("addUserUsername").value,
+                    Password: dojo.byId("addUserPassword").value,
+                    Role: dojo.byId("addUserRole").value
+                };
+                console.log("ZZZZZZ: " + dojo.toJson(data));
+                dojo.rawXhrPut({
+                    url: "/api/users",
+                    putData: dojo.toJson(data),
+                    handleAs: "json",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Accept": "application/json"
+                    },
+                    load: function (data) {
+                        displayAdjustedUsers(data);
+                    },
+                    error: function (theError) {
+                        console.log("PUT request failed with " + theError);
+                    }
+                });
+            }
+            function onDeleteUserFormSubmit(event) {
+                event.preventDefault();
+                var username = dojo.byId("deleteUserUsername").value;
+                dojo.xhrDelete({
+                    url: "/api/users",
+                    handleAs: "json",
+                    headers: {
+                        "Accept": "application/json"
+                    },
+                    content: { "username": username },
+                    load: function (data) {
+                        console.log("DELETE succeeded");
+                        displayAdjustedUsers(data);
+                    },
+                    error: function (theError) {
+                        console.log("DELETE request failed with " + theError);
+                    }
+                });
+            }
+            function setupEventHandling() {
+                var form1 = dojo.byId("addUserForm");
+                var form2 = dojo.byId("fetchUserForm");
+                var form3 = dojo.byId("deleteUserForm");
+                dojo.connect(form1, "submit", "onAddUserFormSubmit");
+                dojo.connect(form2, "submit", "onFetchUserFormSubmit");
+                dojo.connect(form3, "submit", "onDeleteUserFormSubmit");
+            }
+            dojo.addOnLoad(function () {
+                fetchAllUsersViaJson();
+                fetchAllUsersViaXML();
+                setupEventHandling();
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Dojo Client For ASP .NET Web API </h1>
+        
+        <h2>All Users Registered On Page Load (via JSON):</h2>
+        <ul id="existingUsersJson"></ul>
+        <h3>Original Data From Server:</h3>
+        <pre id="rawExistingUsersDataJson"></pre>
+        
+        <hr/>
+        
+        <h2>All Users Currently Registered On Page Load (via XML):</h2>
+        <ul id="existingUsersXML"></ul>
+        <h3>Original Data From Server:</h3>
+        <form>
+            <textarea rows="10" cols="80" id="rawExistingUsersDataXML"></textarea>
+        </form>
+        
+        <hr/>
+        <h3>Find a user via the form below:</h3>
+        <form id="fetchUserForm" action="/nowhere">
+            Username:<input name="fetchUserUsername" id="fetchUserUsername" type="text" size="10" value="dave1"/><br>
+            <input type="submit" value="Find"/>
+        </form>
+        <p id="fetchUserResults"></p>
+        <hr />
+        
+        <h2>Adding And Removing Users Via AJAX and JSON</h2>
+        <ul id="adjustedUsers"></ul>
+        <h3>Add a new user via the form below:</h3>
+        <form id="addUserForm" action="/nowhere">
+            Username:<input name="addUserUsername" id="addUserUsername" type="text" size="10" value="Susan"/><br>
+            Password:<input name="addUserPassword" id="addUserPassword" type="text" size="10" value="Scooby"/><br>
+            Role:
+            <select name="addUserRole" id="addUserRole">
+              <option value="STANDARD">Standard</option>
+              <option value="DEVELOPER">Developer</option>
+              <option value="ADMINISTRATOR">Administrator</option>
+              <option value="ROOT">Root</option>
+            </select>
+            <input type="submit" value="Add"/>
+        </form>
+        <h3>Delete a user via the form below:</h3>
+        <form id="deleteUserForm" action="/nowhere">
+            Username:<input name="deleteUserUsername" id="deleteUserUsername" type="text" size="10" value="dave3"/><br>
+            <input type="submit" value="Delete"/>
+        </form>
+        
+    </body>
+</html>
+

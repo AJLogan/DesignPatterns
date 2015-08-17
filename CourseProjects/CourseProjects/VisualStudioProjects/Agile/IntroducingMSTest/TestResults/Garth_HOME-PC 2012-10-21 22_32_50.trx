@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7bd8eba1-d917-4783-ac33-5f7ec030c819" name="Garth@HOME-PC 2012-10-21 22:32:50" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_32_50" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:32:50.6279023+01:00" queuing="2012-10-21T22:32:51.3119414+01:00" start="2012-10-21T22:32:51.3649444+01:00" finish="2012-10-21T22:32:52.2369943+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="3" error="3" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="197e193c-8bc3-904a-e054-81f586253185">
+      <Execution id="579be07f-e38d-4a56-9547-ed0ec6e4b828" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+    <UnitTest name="T3" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd091580-2f39-8950-7bb8-9cb822e8d9b1">
+      <Execution id="a5b4d549-98e8-4e4b-86c0-91be27dd6602" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T3" />
+    </UnitTest>
+    <UnitTest name="T2" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6">
+      <Execution id="56ce1607-ec79-4bff-9124-0dc57ca5ba7c" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197e193c-8bc3-904a-e054-81f586253185" executionId="579be07f-e38d-4a56-9547-ed0ec6e4b828" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" executionId="a5b4d549-98e8-4e4b-86c0-91be27dd6602" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" executionId="56ce1607-ec79-4bff-9124-0dc57ca5ba7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="579be07f-e38d-4a56-9547-ed0ec6e4b828" testId="197e193c-8bc3-904a-e054-81f586253185" testName="T1" computerName="HOME-PC" startTime="2012-10-21T22:32:51.3959462+01:00" endTime="2012-10-21T22:32:52.1579898+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="579be07f-e38d-4a56-9547-ed0ec6e4b828">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.AssemblyEnd has wrong signature.  The method should have 0 parameters.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a5b4d549-98e8-4e4b-86c0-91be27dd6602" testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" testName="T3" computerName="HOME-PC" startTime="2012-10-21T22:32:52.1659903+01:00" endTime="2012-10-21T22:32:52.1799911+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a5b4d549-98e8-4e4b-86c0-91be27dd6602">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.AssemblyEnd has wrong signature.  The method should have 0 parameters.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="56ce1607-ec79-4bff-9124-0dc57ca5ba7c" testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" testName="T2" computerName="HOME-PC" startTime="2012-10-21T22:32:52.1839913+01:00" endTime="2012-10-21T22:32:52.1949919+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56ce1607-ec79-4bff-9124-0dc57ca5ba7c">
+      <Output>
+        <ErrorInfo>
+          <Message>Method IntroToMSTest.SkeletonTest.AssemblyEnd has wrong signature.  The method should have 0 parameters.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

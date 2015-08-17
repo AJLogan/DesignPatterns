@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.pdb
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesFinish\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesFinish\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\bin\Debug\PalindromesFinish.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinish\obj\Debug\PalindromesFinish.pdb

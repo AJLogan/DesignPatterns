@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="79cb9569-6e33-4e9d-9667-1e2c0dc3b8a5" name="Garth@HOME-PC 2012-10-21 22:49:59" runUser="Home-PC\Garth" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ed2b291a-a0a0-42bb-beaa-5dd90ff8b83e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Garth_HOME-PC 2012-10-21 22_49_59" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-21T22:49:59.7107625+01:00" queuing="2012-10-21T22:50:00.4398042+01:00" start="2012-10-21T22:50:00.4918071+01:00" finish="2012-10-21T22:50:01.4648628+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>Assembly level initalize method called
+Class level initalize method called
+Class level cleanup method called
+Assembly level cleanup method called
+</DebugTrace>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultiplicationWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="74bf918c-2abb-0190-c4fa-41fa45cc78a7">
+      <Execution id="cb85cfb4-8662-42b7-a27b-ff2ba966d171" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicationWorks" />
+    </UnitTest>
+    <UnitTest name="SubtractionWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="997995d1-55ea-a3aa-9a04-7ce9face92c4">
+      <Execution id="073c18ad-5d83-438c-b046-f1ec20b14ce5" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SubtractionWorks" />
+    </UnitTest>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="cff93ae4-577e-c6b9-c704-6ac814d14a7a">
+      <Execution id="814960c1-1237-4495-89f9-4246867aa9b5" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.ContextDemoTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+    <UnitTest name="AdditionWorks" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="73f09976-87e7-54c9-e40f-f3832ccf1043">
+      <Execution id="c1ef15fc-7c60-4d3a-acb1-29045bf75d8d" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.BasicMathTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AdditionWorks" />
+    </UnitTest>
+    <UnitTest name="T1" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="197e193c-8bc3-904a-e054-81f586253185">
+      <Execution id="eb09b7f6-8589-4cc4-8273-6b6a43dc6e48" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T1" />
+    </UnitTest>
+    <UnitTest name="T3" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd091580-2f39-8950-7bb8-9cb822e8d9b1">
+      <Execution id="5f2f8128-66c3-425f-83bc-4cb967164087" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T3" />
+    </UnitTest>
+    <UnitTest name="T2" storage="c:\currentbuilds\scrumdeveloperkainosoctober2012\courseprojects\visualstudioprojects\introducingmstest\introtomstest\bin\debug\introtomstest.dll" id="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6">
+      <Execution id="08a5232b-fcfb-44a8-a538-1a9457fae5e3" />
+      <TestMethod codeBase="C:/CurrentBuilds/ScrumDeveloperKainosOctober2012/CourseProjects/VisualStudioProjects/IntroducingMSTest/IntroToMSTest/bin/Debug/IntroToMSTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="IntroToMSTest.SkeletonTest, IntroToMSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="T2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="197e193c-8bc3-904a-e054-81f586253185" executionId="eb09b7f6-8589-4cc4-8273-6b6a43dc6e48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="73f09976-87e7-54c9-e40f-f3832ccf1043" executionId="c1ef15fc-7c60-4d3a-acb1-29045bf75d8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74bf918c-2abb-0190-c4fa-41fa45cc78a7" executionId="cb85cfb4-8662-42b7-a27b-ff2ba966d171" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="997995d1-55ea-a3aa-9a04-7ce9face92c4" executionId="073c18ad-5d83-438c-b046-f1ec20b14ce5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" executionId="5f2f8128-66c3-425f-83bc-4cb967164087" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" executionId="08a5232b-fcfb-44a8-a538-1a9457fae5e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cff93ae4-577e-c6b9-c704-6ac814d14a7a" executionId="814960c1-1237-4495-89f9-4246867aa9b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="eb09b7f6-8589-4cc4-8273-6b6a43dc6e48" testId="197e193c-8bc3-904a-e054-81f586253185" testName="T1" computerName="HOME-PC" duration="00:00:00.0129139" startTime="2012-10-21T22:50:00.5228089+01:00" endTime="2012-10-21T22:50:01.3238547+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb09b7f6-8589-4cc4-8273-6b6a43dc6e48">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test One Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c1ef15fc-7c60-4d3a-acb1-29045bf75d8d" testId="73f09976-87e7-54c9-e40f-f3832ccf1043" testName="AdditionWorks" computerName="HOME-PC" duration="00:00:00.0011361" startTime="2012-10-21T22:50:01.3278550+01:00" endTime="2012-10-21T22:50:01.3368555+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1ef15fc-7c60-4d3a-acb1-29045bf75d8d">
+    </UnitTestResult>
+    <UnitTestResult executionId="cb85cfb4-8662-42b7-a27b-ff2ba966d171" testId="74bf918c-2abb-0190-c4fa-41fa45cc78a7" testName="MultiplicationWorks" computerName="HOME-PC" duration="00:00:00.0002320" startTime="2012-10-21T22:50:01.3408557+01:00" endTime="2012-10-21T22:50:01.3478561+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb85cfb4-8662-42b7-a27b-ff2ba966d171">
+    </UnitTestResult>
+    <UnitTestResult executionId="073c18ad-5d83-438c-b046-f1ec20b14ce5" testId="997995d1-55ea-a3aa-9a04-7ce9face92c4" testName="SubtractionWorks" computerName="HOME-PC" duration="00:00:00.0002294" startTime="2012-10-21T22:50:01.3538564+01:00" endTime="2012-10-21T22:50:01.3608568+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="073c18ad-5d83-438c-b046-f1ec20b14ce5">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f2f8128-66c3-425f-83bc-4cb967164087" testId="bd091580-2f39-8950-7bb8-9cb822e8d9b1" testName="T3" computerName="HOME-PC" duration="00:00:00.0024338" startTime="2012-10-21T22:50:01.3648571+01:00" endTime="2012-10-21T22:50:01.3948588+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f2f8128-66c3-425f-83bc-4cb967164087">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test Three Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="08a5232b-fcfb-44a8-a538-1a9457fae5e3" testId="bd793b99-7be3-8cd7-a04a-dcecc4ff1cd6" testName="T2" computerName="HOME-PC" duration="00:00:00.0026256" startTime="2012-10-21T22:50:01.3988590+01:00" endTime="2012-10-21T22:50:01.4078595+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="08a5232b-fcfb-44a8-a538-1a9457fae5e3">
+      <Output>
+        <DebugTrace>Test level initalize method called
+Test Two Called
+Test level cleanup method called
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="814960c1-1237-4495-89f9-4246867aa9b5" testId="cff93ae4-577e-c6b9-c704-6ac814d14a7a" testName="T1" computerName="HOME-PC" duration="00:00:00.0033921" startTime="2012-10-21T22:50:01.4118598+01:00" endTime="2012-10-21T22:50:01.4218603+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="814960c1-1237-4495-89f9-4246867aa9b5">
+      <Output>
+        <DebugTrace>This is the only test method in 'T1'
+	Test directory is 'C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\TestResults\Garth_HOME-PC 2012-10-21 22_49_59'
+	Test deployment directory is 'C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\TestResults\Garth_HOME-PC 2012-10-21 22_49_59\Out'
+	Test log directory is 'C:\CurrentBuilds\ScrumDeveloperKainosOctober2012\CourseProjects\VisualStudioProjects\IntroducingMSTest\TestResults\Garth_HOME-PC 2012-10-21 22_49_59\In\HOME-PC'
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

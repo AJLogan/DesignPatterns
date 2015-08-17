@@ -1,0 +1,5 @@
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinishLinq\bin\Debug\PalindromesFinishLinq.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinishLinq\bin\Debug\PalindromesFinishLinq.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinishLinq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinishLinq\obj\x86\Debug\PalindromesFinishLinq.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesFinishLinq\obj\x86\Debug\PalindromesFinishLinq.pdb

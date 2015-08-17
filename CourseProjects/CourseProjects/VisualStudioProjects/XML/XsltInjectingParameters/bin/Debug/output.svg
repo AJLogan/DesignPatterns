@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><svg xml:space="preserve" width="5.0in" height="5.0in" viewBox="0 0 200 200">
+			<text style="fill:red;" x="80" y="30">A Simple Barchart</text>
+			<path style="stroke:black;" d="M 50 50 L 50 190 z" />
+			<path style="stroke:black;" d="M 50 190 L 250 190 z" />
+			<rect x="50" y="140" style="fill:blue;" width="15" height="50" />
+			<rect x="65" y="120" style="fill:red;" width="15" height="70" />
+			<rect x="80" y="100" style="fill:black;" width="15" height="90" />
+			<rect x="95" y="80" style="fill:green;" width="15" height="110" />
+			<rect x="110" y="60" style="fill:grey;" width="15" height="130" />
+		</svg>

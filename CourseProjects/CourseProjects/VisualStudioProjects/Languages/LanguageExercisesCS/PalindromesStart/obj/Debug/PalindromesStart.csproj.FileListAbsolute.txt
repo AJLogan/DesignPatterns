@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.pdb
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesStart\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesStart\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\bin\Debug\PalindromesStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PalindromesStart\obj\Debug\PalindromesStart.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll</TopNode>
+  <SelectedNode>[0-1004]C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1005]TestBasicMath" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1000]TestBasicMath.TestBasicMath" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1001]TestBasicMath.TestBasicMath.testAddition" />
+                <Node UniqueName="[0-1003]TestBasicMath.TestBasicMath.testMultiplication" />
+                <Node UniqueName="[0-1002]TestBasicMath.TestBasicMath.testSubtraction" />
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

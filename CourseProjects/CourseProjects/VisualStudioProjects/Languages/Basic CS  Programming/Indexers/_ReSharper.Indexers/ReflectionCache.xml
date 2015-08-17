@@ -1,0 +1,10 @@
+<Assemblies Version="14">
+  <Assembly Name="mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="b7c5a7c7-74bd-4bc7-adfd-259e2d42db8c.ReflectionCache" Timestamp="631814091940000000" />
+  <Assembly Name="System.Xml, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="bca9cd99-8b8c-440a-a916-82d3e4f9344b.ReflectionCache" Timestamp="631814092300000000" />
+  <Assembly Name="System.Data, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="5962e45f-fe9b-499f-b0bd-dad576cb69e2.ReflectionCache" Timestamp="631814091980000000" />
+  <Assembly Name="System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="7c4390ab-22a9-4102-93a6-a0d6d968aabf.ReflectionCache" Timestamp="631814092060000000" />
+  <Assembly Name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="5e69e685-6910-41f4-997d-d812f732b251.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.XML, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="5500f860-db06-46d7-9ee1-8e0c44b030de.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="87493caf-a8a1-4071-b9fa-b4e55406814e.ReflectionCache" Timestamp="632630609360000000" />
+  <Assembly Name="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Cache="44988547-8fd4-409c-abec-766da9eb3574.ReflectionCache" Timestamp="632630609360000000" />
+</Assemblies>

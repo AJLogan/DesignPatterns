@@ -1,0 +1,5 @@
+bin\Debug\SingleDimensionArrays.exe
+bin\Debug\SingleDimensionArrays.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SingleDimensionArrays.exe
+obj\Debug\SingleDimensionArrays.pdb

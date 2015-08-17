@@ -1,0 +1,20 @@
+C:\Development\dotnet\VS2008\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.pdb
+C:\Development\dotnet\VS2008\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\bin\Debug\RomanNumeralsStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\RomanNumeralsStart\obj\Debug\RomanNumeralsStart.pdb

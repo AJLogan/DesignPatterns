@@ -1,0 +1,8 @@
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\bin\Debug\MockObjectsWithMoq.dll
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\bin\Debug\MockObjectsWithMoq.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\bin\Debug\Moq.dll
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\bin\Debug\Moq.pdb
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\bin\Debug\Moq.xml
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\obj\Debug\MockObjectsWithMoq.dll
+E:\Deliveries\AgileJavaEircomSummer2012\VisualStudioProjects\MockingWithMoq\MockObjectsWithMoq\obj\Debug\MockObjectsWithMoq.pdb

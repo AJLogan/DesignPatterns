@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternFinish\bin\Debug\CommandPatternFinish.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternFinish\bin\Debug\CommandPatternFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternFinish\bin\Debug\CommandPatternFinish.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternFinish\obj\Debug\CommandPatternFinish.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExercises\CommandPatternFinish\obj\Debug\CommandPatternFinish.pdb

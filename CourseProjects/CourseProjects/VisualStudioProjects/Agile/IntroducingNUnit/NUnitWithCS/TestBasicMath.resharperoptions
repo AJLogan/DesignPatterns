@@ -1,0 +1,14 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\development\dotnetdev\examples\Agile Development\Introducing NUnit\TDD With CS\TestMath.cs" offset="588" line="0" column="0" />
+      <TrackedFile location="D:\development\dotnetdev\examples\Agile Development\Introducing NUnit\TDD With CS\BasicMath.cs" offset="207" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>

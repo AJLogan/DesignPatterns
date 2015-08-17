@@ -1,0 +1,14 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Properties\Customer.vb" offset="562" line="20" column="0" />
+      <TrackedFile location="D:\deliveries\Relay VB Dot NET Feb 2005\examples\Core Language\Properties\Tester.vb" offset="381" line="-1" column="-1" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>

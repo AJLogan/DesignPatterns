@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<Dynamic_x0020_Courses>
+	<xs:schema id="Dynamic_x0020_Courses" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="Dynamic_x0020_Courses" msdata:IsDataSet="true" msdata:Locale="en-GB">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Courses">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="CourseNum" type="xs:string"/>
+								<xs:element name="CourseTitle" type="xs:string" minOccurs="0"/>
+								<xs:element name="CourseType" type="xs:string" minOccurs="0"/>
+								<xs:element name="StartDate" type="xs:dateTime" minOccurs="0"/>
+								<xs:element name="EndDate" type="xs:dateTime" minOccurs="0"/>
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+			<xs:unique name="Constraint1" msdata:PrimaryKey="true">
+				<xs:selector xpath=".//Courses"/>
+				<xs:field xpath="CourseNum"/>
+			</xs:unique>
+		</xs:element>
+	</xs:schema>
+	<Courses>
+		<CourseNum>AB000001</CourseNum>
+		<CourseTitle>C++ Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000002</CourseNum>
+		<CourseTitle>Java Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000003</CourseNum>
+		<CourseTitle>C# Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000004</CourseNum>
+		<CourseTitle>Smalltalk Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000005</CourseNum>
+		<CourseTitle>Perl Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000006</CourseNum>
+		<CourseTitle>Python Programming</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000010</CourseNum>
+		<CourseTitle>JDBC</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000011</CourseNum>
+		<CourseTitle>ADO .NET</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000021</CourseNum>
+		<CourseTitle>Using XSLT</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000022</CourseNum>
+		<CourseTitle>Using XQuery</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000023</CourseNum>
+		<CourseTitle>Using XSL-FO</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000031</CourseNum>
+		<CourseTitle>Enterprise JavaBeans</CourseTitle>
+		<CourseType>Advanced</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000032</CourseNum>
+		<CourseTitle>.NET Remoting</CourseTitle>
+		<CourseType>Advanced</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000033</CourseNum>
+		<CourseTitle>CORBA</CourseTitle>
+		<CourseType>Advanced</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000034</CourseNum>
+		<CourseTitle>Web Services</CourseTitle>
+		<CourseType>Advanced</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000041</CourseNum>
+		<CourseTitle>Applying the Unified Process</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000042</CourseNum>
+		<CourseTitle>Adopting Extreme Programming</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000043</CourseNum>
+		<CourseTitle>Principles of OO Design</CourseTitle>
+		<CourseType>Beginner</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+	<Courses>
+		<CourseNum>AB000044</CourseNum>
+		<CourseTitle>Requirements Using Use Cases</CourseTitle>
+		<CourseType>Intermediate</CourseType>
+		<StartDate>2003-01-15T00:00:00.0000000-08:00</StartDate>
+		<EndDate>2003-04-15T00:00:00.0000000-07:00</EndDate>
+	</Courses>
+</Dynamic_x0020_Courses>

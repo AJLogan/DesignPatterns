@@ -1,0 +1,49 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6300DBEB-F724-4E10-B83B-5B7D7F36C30C/f:ListingModulesInTheProcess.cpp" caret="194" scrollPosition="0|0" />
+      <File id="45A83E38-97EC-43D2-861C-3C54668949CF/f:CreatingMultipleThreads.cpp" caret="1444" scrollPosition="0|0" />
+      <File id="AC3DEEC5-53F6-4254-BBB3-C6DCD29C6FAB/f:TimingThreadExecution.cpp" caret="1609" scrollPosition="0|0" />
+      <File id="EC283EDC-C6E7-4944-A899-C9C19680ED23/f:UsingCriticalSections.cpp" caret="944" scrollPosition="0|0" />
+      <File id="35714590-222F-41E6-B02D-F63BB121EB36/f:SpinningOnCriticalSections.cpp" caret="1307" scrollPosition="0|0" />
+      <File id="511D3CAF-9BA7-4F0B-85C9-F31B5C2373A0/f:UsingReadWriteLocks.cpp" caret="371" scrollPosition="0|0" />
+      <File id="581E1EFD-F41B-4B65-A73E-03CB2ABB5C3C/f:ConcurrencyViaThreadPools.cpp" caret="1057" scrollPosition="0|0" />
+      <File id="4969606F-18D1-4680-86FA-5EEDFADC9B3F/f:RunningTimersOnThreadPools.cpp" caret="1020" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6300DBEB-F724-4E10-B83B-5B7D7F36C30C/f:ListingModulesInTheProcess.cpp" caret="1036" scrollPosition="0|5" />
+      <File id="45A83E38-97EC-43D2-861C-3C54668949CF/f:CreatingMultipleThreads.cpp" caret="1444" scrollPosition="0|24" />
+      <File id="AC3DEEC5-53F6-4254-BBB3-C6DCD29C6FAB/f:TimingThreadExecution.cpp" caret="2430" scrollPosition="0|49" />
+      <File id="EC283EDC-C6E7-4944-A899-C9C19680ED23/f:UsingCriticalSections.cpp" caret="2124" scrollPosition="0|49" />
+      <File id="EC283EDC-C6E7-4944-A899-C9C19680ED23/f:UsingCriticalSections.cpp" caret="944" scrollPosition="0|18" />
+      <File id="35714590-222F-41E6-B02D-F63BB121EB36/f:SpinningOnCriticalSections.cpp" caret="0" scrollPosition="0|0" />
+      <File id="35714590-222F-41E6-B02D-F63BB121EB36/f:SpinningOnCriticalSections.cpp" caret="2489" scrollPosition="0|62" />
+      <File id="35714590-222F-41E6-B02D-F63BB121EB36/f:SpinningOnCriticalSections.cpp" caret="1307" scrollPosition="0|36" />
+      <File id="511D3CAF-9BA7-4F0B-85C9-F31B5C2373A0/f:UsingReadWriteLocks.cpp" caret="0" scrollPosition="0|0" />
+      <File id="511D3CAF-9BA7-4F0B-85C9-F31B5C2373A0/f:UsingReadWriteLocks.cpp" caret="3574" scrollPosition="0|77" />
+      <File id="511D3CAF-9BA7-4F0B-85C9-F31B5C2373A0/f:UsingReadWriteLocks.cpp" caret="371" scrollPosition="0|0" />
+      <File id="581E1EFD-F41B-4B65-A73E-03CB2ABB5C3C/f:ConcurrencyViaThreadPools.cpp" caret="1057" scrollPosition="0|7" />
+      <File id="4969606F-18D1-4680-86FA-5EEDFADC9B3F/f:RunningTimersOnThreadPools.cpp" caret="1020" scrollPosition="0|8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

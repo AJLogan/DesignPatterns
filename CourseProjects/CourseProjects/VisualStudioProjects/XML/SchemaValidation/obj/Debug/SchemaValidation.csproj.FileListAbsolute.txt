@@ -1,0 +1,10 @@
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\SchemaValidation\obj\Debug\SchemaValidation.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\SchemaValidation\obj\Debug\SchemaValidation.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\SchemaValidation\bin\Debug\SchemaValidation.exe
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\SchemaValidation\bin\Debug\SchemaValidation.pdb
+C:\Deliveries\XML DTS May 2011\VisualStudioXmlProjects\SchemaValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\SchemaValidation\bin\Debug\SchemaValidation.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\SchemaValidation\bin\Debug\SchemaValidation.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\SchemaValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\SchemaValidation\obj\Debug\SchemaValidation.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\XML\SchemaValidation\obj\Debug\SchemaValidation.pdb

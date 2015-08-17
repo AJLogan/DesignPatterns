@@ -1,0 +1,46 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Value" priority="0" />
+      <Item value="GetField" priority="0" />
+      <Item value="Append" priority="1" />
+      <Item value="MoveToAttribute" priority="0" />
+      <Item value="MoveToFirstAttribute" priority="0" />
+      <Item value="OpenRead" priority="0" />
+      <Item value="Current" priority="1" />
+      <Item value="ToString" priority="0" />
+      <Item value="MoveNext" priority="0" />
+      <Item value="GetAttribute" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="A017D904-46AF-4638-BA61-6EFE014B364F/f:quiz_data.xml" caret="221" visual-x="0" visual-y="374" />
+      <File id="A017D904-46AF-4638-BA61-6EFE014B364F/f:Questions.cs" caret="1304" visual-x="0" visual-y="748" />
+      <File id="A017D904-46AF-4638-BA61-6EFE014B364F/f:Solutions.cs" caret="304" visual-x="0" visual-y="0" />
+      <File id="A017D904-46AF-4638-BA61-6EFE014B364F/f:Demo.cs" caret="1464" visual-x="0" visual-y="0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

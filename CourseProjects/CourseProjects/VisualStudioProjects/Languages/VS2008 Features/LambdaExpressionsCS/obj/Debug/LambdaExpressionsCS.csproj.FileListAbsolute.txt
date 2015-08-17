@@ -1,0 +1,31 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpressionsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpressionsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\obj\Debug\LambdaExpressionsCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\LambdaExpressionsCS\bin\Debug\LambdaExpressionsCS.pdb

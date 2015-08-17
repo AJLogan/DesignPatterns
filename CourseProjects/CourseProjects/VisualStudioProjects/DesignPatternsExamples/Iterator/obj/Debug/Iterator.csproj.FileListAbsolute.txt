@@ -1,0 +1,6 @@
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\bin\Debug\Iterator.exe.config
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\bin\Debug\Iterator.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\bin\Debug\Iterator.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\obj\Debug\Iterator.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\DesignPatternsExamples\Iterator\obj\Debug\Iterator.pdb

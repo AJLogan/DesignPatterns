@@ -1,0 +1,5 @@
+bin\Debug\JaggedArrays.exe
+bin\Debug\JaggedArrays.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\JaggedArrays.exe
+obj\Debug\JaggedArrays.pdb

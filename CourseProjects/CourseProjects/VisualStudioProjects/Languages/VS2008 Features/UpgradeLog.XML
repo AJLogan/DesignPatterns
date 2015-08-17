@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VS2008Features">
+</Property><Property Name="Solution File" Value="C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\VS2008Features.sln">
+</Property><Property Name="Date" Value="13 September 2011">
+</Property><Property Name="Time" Value="15:36">
+</Property></Properties><Event ErrorLevel="0" Project="TypeInferenceCS" Source="TypeInferenceCS\TypeInferenceCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TypeInferenceCS" Source="TypeInferenceCS\TypeInferenceCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TypeInferenceVB" Source="TypeInferenceVB\TypeInferenceVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TypeInferenceVB" Source="TypeInferenceVB\TypeInferenceVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InitializationSyntaxVB" Source="InitializationSyntaxVB\InitializationSyntaxVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InitializationSyntaxVB" Source="InitializationSyntaxVB\InitializationSyntaxVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InitializationSyntaxCS" Source="InitializationSyntaxCS\InitializationSyntaxCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InitializationSyntaxCS" Source="InitializationSyntaxCS\InitializationSyntaxCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeneratedPropertiesCS" Source="GeneratedPropertiesCS\GeneratedPropertiesCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeneratedPropertiesCS" Source="GeneratedPropertiesCS\GeneratedPropertiesCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XmlLiteralsVB" Source="XmlLiteralsVB\XmlLiteralsVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XmlLiteralsVB" Source="XmlLiteralsVB\XmlLiteralsVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnonymousTypesVB" Source="AnonymousTypesVB\AnonymousTypesVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnonymousTypesVB" Source="AnonymousTypesVB\AnonymousTypesVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnonymousTypesCS" Source="AnonymousTypesCS\AnonymousTypesCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnonymousTypesCS" Source="AnonymousTypesCS\AnonymousTypesCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LambdaExpressionsCS" Source="LambdaExpressionsCS\LambdaExpressionsCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LambdaExpressionsCS" Source="LambdaExpressionsCS\LambdaExpressionsCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LambdaExpresionsVB" Source="LambdaExpresionsVB\LambdaExpresionsVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LambdaExpresionsVB" Source="LambdaExpresionsVB\LambdaExpresionsVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PartialMethodsVB" Source="PartialMethodsVB\PartialMethodsVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PartialMethodsVB" Source="PartialMethodsVB\PartialMethodsVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PartialMethodsCS" Source="PartialMethodsCS\PartialMethodsCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PartialMethodsCS" Source="PartialMethodsCS\PartialMethodsCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExtensionMethodsCS" Source="ExtensionMethodsCS\ExtensionMethodsCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExtensionMethodsCS" Source="ExtensionMethodsCS\ExtensionMethodsCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExtensionMethodsVB" Source="ExtensionMethodsVB\ExtensionMethodsVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExtensionMethodsVB" Source="ExtensionMethodsVB\ExtensionMethodsVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LinqSyntaxCS" Source="LinqSyntaxCS\LinqSyntaxCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LinqSyntaxCS" Source="LinqSyntaxCS\LinqSyntaxCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LinqSyntaxVB" Source="LinqSyntaxVB\LinqSyntaxVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LinqSyntaxVB" Source="LinqSyntaxVB\LinqSyntaxVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VS2008Features.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VS2008Features.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TypeInferenceCS" Source="TypeInferenceCS\TypeInferenceCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TypeInferenceVB" Source="TypeInferenceVB\TypeInferenceVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="InitializationSyntaxVB" Source="InitializationSyntaxVB\InitializationSyntaxVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="InitializationSyntaxCS" Source="InitializationSyntaxCS\InitializationSyntaxCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeneratedPropertiesCS" Source="GeneratedPropertiesCS\GeneratedPropertiesCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XmlLiteralsVB" Source="XmlLiteralsVB\XmlLiteralsVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AnonymousTypesVB" Source="AnonymousTypesVB\AnonymousTypesVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AnonymousTypesCS" Source="AnonymousTypesCS\AnonymousTypesCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LambdaExpressionsCS" Source="LambdaExpressionsCS\LambdaExpressionsCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LambdaExpresionsVB" Source="LambdaExpresionsVB\LambdaExpresionsVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PartialMethodsVB" Source="PartialMethodsVB\PartialMethodsVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PartialMethodsCS" Source="PartialMethodsCS\PartialMethodsCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExtensionMethodsCS" Source="ExtensionMethodsCS\ExtensionMethodsCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExtensionMethodsVB" Source="ExtensionMethodsVB\ExtensionMethodsVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LinqSyntaxCS" Source="LinqSyntaxCS\LinqSyntaxCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LinqSyntaxVB" Source="LinqSyntaxVB\LinqSyntaxVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

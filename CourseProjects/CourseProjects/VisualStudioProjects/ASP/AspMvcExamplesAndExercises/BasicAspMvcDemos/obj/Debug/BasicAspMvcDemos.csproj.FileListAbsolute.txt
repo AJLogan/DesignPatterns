@@ -1,0 +1,147 @@
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.pdb
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Antlr3.Runtime.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Optimization.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebGrease.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.dll
+C:\Development\DotNet\CourseProjects\ASP MVC\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.pdb
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.pdb
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Antlr3.Runtime.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Optimization.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebGrease.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.dll
+C:\Development\DotNet\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\BasicAspMvcDemos.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Antlr3.Runtime.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Optimization.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebGrease.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\EntityFramework.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Newtonsoft.Json.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Net.Http.Formatting.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Helpers.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Http.WebHost.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Mvc.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.Razor.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Deployment.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\System.Web.WebPages.Razor.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.Data.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\WebMatrix.WebData.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.AspNet.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.Core.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OAuth.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.dll
+C:\Development\DotNet\FullyVS2012\CourseProjects\ASP\AspMvcExamplesAndExercises\BasicAspMvcDemos\obj\Debug\BasicAspMvcDemos.pdb

@@ -1,0 +1,22 @@
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.pdb
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PyramidStart\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.exe
+C:\Development\dotnet\VS2008\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.pdb
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PyramidStart\obj\Debug\ResolveAssemblyReference.cache
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.exe
+C:\Deliveries\Dot NET LIT August 2010\CourseProjects\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\bin\Debug\PyramidStart.pdb
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.exe
+C:\CurrentBuilds\DotNetCisOctober2012\Materials\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\LanguageExercisesCS\PyramidStart\obj\Debug\PyramidStart.pdb

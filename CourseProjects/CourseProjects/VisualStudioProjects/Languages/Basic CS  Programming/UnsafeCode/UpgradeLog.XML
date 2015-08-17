@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UnsafeCode">
+</Property><Property Name="Solution File" Value="D:\development\dotnet_examples_v2\C# Programming\UnsafeCode\UnsafeCode.sln">
+</Property><Property Name="Date" Value="15 July 2006">
+</Property><Property Name="Time" Value="22:08">
+</Property></Properties><Event ErrorLevel="0" Project="UnsafeCode" Source="UnsafeCode.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UnsafeCode" Source="UnsafeCode.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UnsafeCode.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UnsafeCode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UnsafeCode" Source="UnsafeCode.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

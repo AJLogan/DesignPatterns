@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e576873c-3abf-43f5-880f-080cb0605d3d" name="Administrator@HP-WORKSTATION 2009-11-07 12:02:59" runUser="HP-WORKSTATION\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="3fcbd058-78fd-489e-a4fb-fddf2f5b8824">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\TestResults\Administrator_HP-WORKSTATION 2009-11-07 12_02_59" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="34" executed="34" passed="34" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-11-07T12:02:59.5156250+00:00" queuing="2009-11-07T12:03:00.3906250+00:00" start="2009-11-07T12:03:00.6093750+00:00" finish="2009-11-07T12:03:01.6718750+00:00" />
+  <TestDefinitions>
+    <UnitTest name="ToStringWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="d0ef3d4e-31cb-a274-6e65-39f9492a235a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ec569fa6-430e-4a6a-aa8b-80c3bd32ad66" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="ToStringWorks" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsHasCorrectSize" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="0b9ddbae-0f9c-af5d-4e3f-6e4aac58c977">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="49037091-8dc0-4383-81f4-cbf32e546374" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="ListWithItemsHasCorrectSize" />
+    </UnitTest>
+    <UnitTest name="NullArgumentForRemoveFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="204b4f9a-dab2-307f-8c00-c45577ba124e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a1c5eba9-d56e-494f-a5db-b7c55e42bb8c" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="NullArgumentForRemoveFails" />
+    </UnitTest>
+    <UnitTest name="RemovingFirstItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="053b6cbe-3cc7-4a33-3131-dede70c75661">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bb4a22d5-82da-4873-ba4b-1586dc66d6e4" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemovingFirstItemWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingFirstItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="faac8a3b-672c-4821-37e9-218aec3b37d6">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="70d52185-6655-47d4-a296-46f175b38e4d" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemovingFirstItemWorks" />
+    </UnitTest>
+    <UnitTest name="NewListIsEmpty" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="a2b8ee21-eb43-d59f-170d-e5b5ace7e6f8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c443c9d9-369b-4214-a9de-c6887fbebaa8" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="NewListIsEmpty" />
+    </UnitTest>
+    <UnitTest name="RemovingItemFromMiddleWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="3d8c2c0e-1ad8-8714-62f9-579f87a98b40">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9a6b747c-d01e-4c06-95f6-c0fd51c6caf2" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemovingItemFromMiddleWorks" />
+    </UnitTest>
+    <UnitTest name="AccessingWithNegativeIndexFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="ad93a550-9dd7-5801-8ae7-e4478c31ee9f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b5838d6d-1a5b-4d74-9035-0f17da45b170" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="AccessingWithNegativeIndexFails" />
+    </UnitTest>
+    <UnitTest name="RemovingLastItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="04c5a396-41c7-45dc-b956-d33fb5265f7c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="49243cfb-67eb-4104-9670-836432ac68de" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemovingLastItemWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingOnlyItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="d779b876-1f71-d7d4-35d2-1d61e1f90580">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bb4a0253-a8a9-4e4b-89ae-16a1bd87c30a" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemovingOnlyItemWorks" />
+    </UnitTest>
+    <UnitTest name="CanGetMultipleItems" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="ef9f1fd5-fe4c-9c8a-faa8-34afd26c97c9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b5a3d657-bf8f-48d2-a9e8-2c3996818e32" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="CanGetMultipleItems" />
+    </UnitTest>
+    <UnitTest name="RemoveWhereItemNotFoundFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="4f5ea40f-a9b1-c208-d3c6-5d8b8410b973">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a96ace2a-078a-4469-8039-8c07bbefacf6" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemoveWhereItemNotFoundFails" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsIsNotEmpty" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="95cf47cd-f407-9999-9f75-9a2a68724915">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="77047064-dc44-426f-a665-d5e10c497867" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="ListWithItemsIsNotEmpty" />
+    </UnitTest>
+    <UnitTest name="AccessingWithNegativeIndexFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="2fbdeb02-4423-af8c-638c-9ba1ba4a3c5c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8ae20e82-98f1-4eb1-ad36-f4ddc97f9652" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="AccessingWithNegativeIndexFails" />
+    </UnitTest>
+    <UnitTest name="ToStringWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="6ebdf376-c392-777f-64e3-5a7c87fd5e56">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6e5f1f8d-1e69-4847-9dcd-3d7d1cd7ef08" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="ToStringWorks" />
+    </UnitTest>
+    <UnitTest name="NewListHasZeroSize" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="3cae1f32-c8a6-ee4d-1eec-3b8ed35302df">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b3fa8d09-373e-42af-923d-4c682f6b0818" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="NewListHasZeroSize" />
+    </UnitTest>
+    <UnitTest name="RemoveFromEmptyListFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="651000fe-39aa-680c-14b6-4f6736b83edc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="17b4b79b-2ddf-4dcd-9f3a-450ca7f7348a" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemoveFromEmptyListFails" />
+    </UnitTest>
+    <UnitTest name="CanGetSingleItem" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="e0974bb9-6aa7-8ee7-664e-8600d5f9a298">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f38958cd-1430-46ee-a175-4d20610d115c" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="CanGetSingleItem" />
+    </UnitTest>
+    <UnitTest name="RemoveWhereItemNotFoundFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="868f9f42-7d2c-8768-af9f-336896d629c0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6fd034f0-8eb1-4d66-b887-2e5b8bc5efd7" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemoveWhereItemNotFoundFails" />
+    </UnitTest>
+    <UnitTest name="RemovingItemFromMiddleWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="11421c5f-4311-0434-59c8-4bd2dc0ce096">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c21f9b7b-3e04-4ea5-8598-bda787762cc2" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="RemovingItemFromMiddleWorks" />
+    </UnitTest>
+    <UnitTest name="RemovingLastItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="b2d138ab-f74e-8154-830b-91eb081eb89b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="db8fd753-ce5b-4182-a2e6-a7264bfebecd" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemovingLastItemWorks" />
+    </UnitTest>
+    <UnitTest name="New_listIsEmpty" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="45145753-f9ed-0d31-78c2-40c2da085409">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7d1796ee-4e2f-4ef3-bd34-80d6a3a220e8" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="New_listIsEmpty" />
+    </UnitTest>
+    <UnitTest name="NullArgumentForRemoveFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="1796fa40-dd81-76df-b5a6-765fbdff4dd7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="978a0b2c-c26d-4003-90e4-68fa81875439" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="NullArgumentForRemoveFails" />
+    </UnitTest>
+    <UnitTest name="AccessingWithTooLargeAnIndexFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="7313d119-be8f-fa94-0400-b7118f0b2f70">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c887e98a-a85d-4443-9258-4bc492c71e24" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="AccessingWithTooLargeAnIndexFails" />
+    </UnitTest>
+    <UnitTest name="CanGetMultipleItems" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="783bde12-9771-e303-5ca3-093d826cc2ec">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2d1ead11-55a7-4a49-ace8-6bd709d62c4f" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="CanGetMultipleItems" />
+    </UnitTest>
+    <UnitTest name="RemovingOnlyItemWorks" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="06bb2d1a-1fea-c6c7-a6ed-a5f7e171babc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4f0080e1-38d3-4c6c-a51b-2f2db8f8a028" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemovingOnlyItemWorks" />
+    </UnitTest>
+    <UnitTest name="NewListHasZeroSize" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="70040799-7ff4-31fa-ee51-7627b8b542ca">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f418a9b7-11ed-4663-9792-81413caf1b84" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="NewListHasZeroSize" />
+    </UnitTest>
+    <UnitTest name="RemoveFromEmpty_listFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="e7912b7c-f30c-dc7d-66cd-8543889ef661">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3ad2e93f-43e3-4a66-a3a6-a8f8afdb0505" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="RemoveFromEmpty_listFails" />
+    </UnitTest>
+    <UnitTest name="AccessingEmptyListFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="adeeb323-e91a-0789-84eb-36d3efa2f9c7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0f6889f5-641f-4996-a40c-d23e52e38111" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="AccessingEmptyListFails" />
+    </UnitTest>
+    <UnitTest name="CanGetSingleItem" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="b4bdad7e-fe61-0c53-a2ba-322fe3c730de">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bb332680-913e-4a4f-82da-9c18f794eb90" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="CanGetSingleItem" />
+    </UnitTest>
+    <UnitTest name="AccessingWithTooLargeAnIndexFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistcs\bin\debug\genericlinkedlistcs.dll" id="1c921095-2581-dd1d-f2e4-b4787d68d253">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f83a4532-4527-4f70-8b8a-509f9ebebd3a" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListCS\bin\Debug\GenericLinkedListCS.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListCS.LinkedListTest, GenericLinkedListCS" name="AccessingWithTooLargeAnIndexFails" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsIsNotEmpty" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="1199292a-e48f-e4c1-b551-72eb62effb32">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b8b2e7b4-e8a7-4f78-b196-657c1a193c02" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="ListWithItemsIsNotEmpty" />
+    </UnitTest>
+    <UnitTest name="AccessingEmpty_listFails" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="1c668b5f-ed9a-6044-f4b2-c23e15a84789">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2645b928-b111-421e-9a0f-6fc8d474975e" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="AccessingEmpty_listFails" />
+    </UnitTest>
+    <UnitTest name="ListWithItemsHasCorrectSize" storage="c:\development\dotnet\vs2008\programmingwithgenerics\genericlinkedlistvb\bin\debug\genericlinkedlistvb.dll" id="02c67c13-5686-be9b-7e84-3f24faa7dcd8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8603d02e-7f32-4174-a450-ba08861496c8" />
+      <TestMethod codeBase="C:\Development\dotnet\VS2008\ProgrammingWithGenerics\GenericLinkedListVB\bin\Debug\GenericLinkedListVB.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GenericLinkedListVB.LinkedListTest, GenericLinkedListVB" name="ListWithItemsHasCorrectSize" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02c67c13-5686-be9b-7e84-3f24faa7dcd8" executionId="8603d02e-7f32-4174-a450-ba08861496c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="04c5a396-41c7-45dc-b956-d33fb5265f7c" executionId="49243cfb-67eb-4104-9670-836432ac68de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="053b6cbe-3cc7-4a33-3131-dede70c75661" executionId="bb4a22d5-82da-4873-ba4b-1586dc66d6e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="06bb2d1a-1fea-c6c7-a6ed-a5f7e171babc" executionId="4f0080e1-38d3-4c6c-a51b-2f2db8f8a028" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0b9ddbae-0f9c-af5d-4e3f-6e4aac58c977" executionId="49037091-8dc0-4383-81f4-cbf32e546374" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11421c5f-4311-0434-59c8-4bd2dc0ce096" executionId="c21f9b7b-3e04-4ea5-8598-bda787762cc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1199292a-e48f-e4c1-b551-72eb62effb32" executionId="b8b2e7b4-e8a7-4f78-b196-657c1a193c02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1796fa40-dd81-76df-b5a6-765fbdff4dd7" executionId="978a0b2c-c26d-4003-90e4-68fa81875439" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c668b5f-ed9a-6044-f4b2-c23e15a84789" executionId="2645b928-b111-421e-9a0f-6fc8d474975e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c921095-2581-dd1d-f2e4-b4787d68d253" executionId="f83a4532-4527-4f70-8b8a-509f9ebebd3a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="204b4f9a-dab2-307f-8c00-c45577ba124e" executionId="a1c5eba9-d56e-494f-a5db-b7c55e42bb8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2fbdeb02-4423-af8c-638c-9ba1ba4a3c5c" executionId="8ae20e82-98f1-4eb1-ad36-f4ddc97f9652" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3cae1f32-c8a6-ee4d-1eec-3b8ed35302df" executionId="b3fa8d09-373e-42af-923d-4c682f6b0818" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d8c2c0e-1ad8-8714-62f9-579f87a98b40" executionId="9a6b747c-d01e-4c06-95f6-c0fd51c6caf2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="45145753-f9ed-0d31-78c2-40c2da085409" executionId="7d1796ee-4e2f-4ef3-bd34-80d6a3a220e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f5ea40f-a9b1-c208-d3c6-5d8b8410b973" executionId="a96ace2a-078a-4469-8039-8c07bbefacf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="651000fe-39aa-680c-14b6-4f6736b83edc" executionId="17b4b79b-2ddf-4dcd-9f3a-450ca7f7348a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ebdf376-c392-777f-64e3-5a7c87fd5e56" executionId="6e5f1f8d-1e69-4847-9dcd-3d7d1cd7ef08" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70040799-7ff4-31fa-ee51-7627b8b542ca" executionId="f418a9b7-11ed-4663-9792-81413caf1b84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7313d119-be8f-fa94-0400-b7118f0b2f70" executionId="c887e98a-a85d-4443-9258-4bc492c71e24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="783bde12-9771-e303-5ca3-093d826cc2ec" executionId="2d1ead11-55a7-4a49-ace8-6bd709d62c4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="868f9f42-7d2c-8768-af9f-336896d629c0" executionId="6fd034f0-8eb1-4d66-b887-2e5b8bc5efd7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95cf47cd-f407-9999-9f75-9a2a68724915" executionId="77047064-dc44-426f-a665-d5e10c497867" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a2b8ee21-eb43-d59f-170d-e5b5ace7e6f8" executionId="c443c9d9-369b-4214-a9de-c6887fbebaa8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad93a550-9dd7-5801-8ae7-e4478c31ee9f" executionId="b5838d6d-1a5b-4d74-9035-0f17da45b170" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="adeeb323-e91a-0789-84eb-36d3efa2f9c7" executionId="0f6889f5-641f-4996-a40c-d23e52e38111" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2d138ab-f74e-8154-830b-91eb081eb89b" executionId="db8fd753-ce5b-4182-a2e6-a7264bfebecd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4bdad7e-fe61-0c53-a2ba-322fe3c730de" executionId="bb332680-913e-4a4f-82da-9c18f794eb90" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0ef3d4e-31cb-a274-6e65-39f9492a235a" executionId="ec569fa6-430e-4a6a-aa8b-80c3bd32ad66" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d779b876-1f71-d7d4-35d2-1d61e1f90580" executionId="bb4a0253-a8a9-4e4b-89ae-16a1bd87c30a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0974bb9-6aa7-8ee7-664e-8600d5f9a298" executionId="f38958cd-1430-46ee-a175-4d20610d115c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7912b7c-f30c-dc7d-66cd-8543889ef661" executionId="3ad2e93f-43e3-4a66-a3a6-a8f8afdb0505" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef9f1fd5-fe4c-9c8a-faa8-34afd26c97c9" executionId="b5a3d657-bf8f-48d2-a9e8-2c3996818e32" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="faac8a3b-672c-4821-37e9-218aec3b37d6" executionId="70d52185-6655-47d4-a296-46f175b38e4d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8603d02e-7f32-4174-a450-ba08861496c8" testId="02c67c13-5686-be9b-7e84-3f24faa7dcd8" testName="ListWithItemsHasCorrectSize" computerName="HP-WORKSTATION" duration="00:00:00.0152994" startTime="2009-11-07T12:03:00.6406250+00:00" endTime="2009-11-07T12:03:01.0937500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="49243cfb-67eb-4104-9670-836432ac68de" testId="04c5a396-41c7-45dc-b956-d33fb5265f7c" testName="RemovingLastItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0167920" startTime="2009-11-07T12:03:01.0937500+00:00" endTime="2009-11-07T12:03:01.4687500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bb4a22d5-82da-4873-ba4b-1586dc66d6e4" testId="053b6cbe-3cc7-4a33-3131-dede70c75661" testName="RemovingFirstItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0040421" startTime="2009-11-07T12:03:01.4687500+00:00" endTime="2009-11-07T12:03:01.4843750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4f0080e1-38d3-4c6c-a51b-2f2db8f8a028" testId="06bb2d1a-1fea-c6c7-a6ed-a5f7e171babc" testName="RemovingOnlyItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0006467" startTime="2009-11-07T12:03:01.4843750+00:00" endTime="2009-11-07T12:03:01.4843750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="49037091-8dc0-4383-81f4-cbf32e546374" testId="0b9ddbae-0f9c-af5d-4e3f-6e4aac58c977" testName="ListWithItemsHasCorrectSize" computerName="HP-WORKSTATION" duration="00:00:00.0007844" startTime="2009-11-07T12:03:01.4843750+00:00" endTime="2009-11-07T12:03:01.4843750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c21f9b7b-3e04-4ea5-8598-bda787762cc2" testId="11421c5f-4311-0434-59c8-4bd2dc0ce096" testName="RemovingItemFromMiddleWorks" computerName="HP-WORKSTATION" duration="00:00:00.0016348" startTime="2009-11-07T12:03:01.4843750+00:00" endTime="2009-11-07T12:03:01.5000000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b8b2e7b4-e8a7-4f78-b196-657c1a193c02" testId="1199292a-e48f-e4c1-b551-72eb62effb32" testName="ListWithItemsIsNotEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0003162" startTime="2009-11-07T12:03:01.5000000+00:00" endTime="2009-11-07T12:03:01.5000000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="978a0b2c-c26d-4003-90e4-68fa81875439" testId="1796fa40-dd81-76df-b5a6-765fbdff4dd7" testName="NullArgumentForRemoveFails" computerName="HP-WORKSTATION" duration="00:00:00.0032397" startTime="2009-11-07T12:03:01.5000000+00:00" endTime="2009-11-07T12:03:01.5156250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2645b928-b111-421e-9a0f-6fc8d474975e" testId="1c668b5f-ed9a-6044-f4b2-c23e15a84789" testName="AccessingEmpty_listFails" computerName="HP-WORKSTATION" duration="00:00:00.0013219" startTime="2009-11-07T12:03:01.5156250+00:00" endTime="2009-11-07T12:03:01.5156250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f83a4532-4527-4f70-8b8a-509f9ebebd3a" testId="1c921095-2581-dd1d-f2e4-b4787d68d253" testName="AccessingWithTooLargeAnIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0035929" startTime="2009-11-07T12:03:01.5156250+00:00" endTime="2009-11-07T12:03:01.5312500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a1c5eba9-d56e-494f-a5db-b7c55e42bb8c" testId="204b4f9a-dab2-307f-8c00-c45577ba124e" testName="NullArgumentForRemoveFails" computerName="HP-WORKSTATION" duration="00:00:00.0006467" startTime="2009-11-07T12:03:01.5312500+00:00" endTime="2009-11-07T12:03:01.5312500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8ae20e82-98f1-4eb1-ad36-f4ddc97f9652" testId="2fbdeb02-4423-af8c-638c-9ba1ba4a3c5c" testName="AccessingWithNegativeIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0008819" startTime="2009-11-07T12:03:01.5312500+00:00" endTime="2009-11-07T12:03:01.5312500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b3fa8d09-373e-42af-923d-4c682f6b0818" testId="3cae1f32-c8a6-ee4d-1eec-3b8ed35302df" testName="NewListHasZeroSize" computerName="HP-WORKSTATION" duration="00:00:00.0003422" startTime="2009-11-07T12:03:01.5312500+00:00" endTime="2009-11-07T12:03:01.5468750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9a6b747c-d01e-4c06-95f6-c0fd51c6caf2" testId="3d8c2c0e-1ad8-8714-62f9-579f87a98b40" testName="RemovingItemFromMiddleWorks" computerName="HP-WORKSTATION" duration="00:00:00.0009707" startTime="2009-11-07T12:03:01.5468750+00:00" endTime="2009-11-07T12:03:01.5468750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7d1796ee-4e2f-4ef3-bd34-80d6a3a220e8" testId="45145753-f9ed-0d31-78c2-40c2da085409" testName="New_listIsEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0002455" startTime="2009-11-07T12:03:01.5468750+00:00" endTime="2009-11-07T12:03:01.5468750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a96ace2a-078a-4469-8039-8c07bbefacf6" testId="4f5ea40f-a9b1-c208-d3c6-5d8b8410b973" testName="RemoveWhereItemNotFoundFails" computerName="HP-WORKSTATION" duration="00:00:00.0005556" startTime="2009-11-07T12:03:01.5468750+00:00" endTime="2009-11-07T12:03:01.5468750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="17b4b79b-2ddf-4dcd-9f3a-450ca7f7348a" testId="651000fe-39aa-680c-14b6-4f6736b83edc" testName="RemoveFromEmptyListFails" computerName="HP-WORKSTATION" duration="00:00:00.0010772" startTime="2009-11-07T12:03:01.5468750+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6e5f1f8d-1e69-4847-9dcd-3d7d1cd7ef08" testId="6ebdf376-c392-777f-64e3-5a7c87fd5e56" testName="ToStringWorks" computerName="HP-WORKSTATION" duration="00:00:00.0005059" startTime="2009-11-07T12:03:01.5625000+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f418a9b7-11ed-4663-9792-81413caf1b84" testId="70040799-7ff4-31fa-ee51-7627b8b542ca" testName="NewListHasZeroSize" computerName="HP-WORKSTATION" duration="00:00:00.0002871" startTime="2009-11-07T12:03:01.5625000+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c887e98a-a85d-4443-9258-4bc492c71e24" testId="7313d119-be8f-fa94-0400-b7118f0b2f70" testName="AccessingWithTooLargeAnIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0005422" startTime="2009-11-07T12:03:01.5625000+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2d1ead11-55a7-4a49-ace8-6bd709d62c4f" testId="783bde12-9771-e303-5ca3-093d826cc2ec" testName="CanGetMultipleItems" computerName="HP-WORKSTATION" duration="00:00:00.0009411" startTime="2009-11-07T12:03:01.5625000+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6fd034f0-8eb1-4d66-b887-2e5b8bc5efd7" testId="868f9f42-7d2c-8768-af9f-336896d629c0" testName="RemoveWhereItemNotFoundFails" computerName="HP-WORKSTATION" duration="00:00:00.0006729" startTime="2009-11-07T12:03:01.5625000+00:00" endTime="2009-11-07T12:03:01.5625000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="77047064-dc44-426f-a665-d5e10c497867" testId="95cf47cd-f407-9999-9f75-9a2a68724915" testName="ListWithItemsIsNotEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0002874" startTime="2009-11-07T12:03:01.5781250+00:00" endTime="2009-11-07T12:03:01.5781250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c443c9d9-369b-4214-a9de-c6887fbebaa8" testId="a2b8ee21-eb43-d59f-170d-e5b5ace7e6f8" testName="NewListIsEmpty" computerName="HP-WORKSTATION" duration="00:00:00.0007735" startTime="2009-11-07T12:03:01.5781250+00:00" endTime="2009-11-07T12:03:01.5781250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b5838d6d-1a5b-4d74-9035-0f17da45b170" testId="ad93a550-9dd7-5801-8ae7-e4478c31ee9f" testName="AccessingWithNegativeIndexFails" computerName="HP-WORKSTATION" duration="00:00:00.0007210" startTime="2009-11-07T12:03:01.5781250+00:00" endTime="2009-11-07T12:03:01.5781250+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0f6889f5-641f-4996-a40c-d23e52e38111" testId="adeeb323-e91a-0789-84eb-36d3efa2f9c7" testName="AccessingEmptyListFails" computerName="HP-WORKSTATION" duration="00:00:00.0005562" startTime="2009-11-07T12:03:01.5937500+00:00" endTime="2009-11-07T12:03:01.5937500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="db8fd753-ce5b-4182-a2e6-a7264bfebecd" testId="b2d138ab-f74e-8154-830b-91eb081eb89b" testName="RemovingLastItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0008970" startTime="2009-11-07T12:03:01.5937500+00:00" endTime="2009-11-07T12:03:01.5937500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bb332680-913e-4a4f-82da-9c18f794eb90" testId="b4bdad7e-fe61-0c53-a2ba-322fe3c730de" testName="CanGetSingleItem" computerName="HP-WORKSTATION" duration="00:00:00.0003422" startTime="2009-11-07T12:03:01.5937500+00:00" endTime="2009-11-07T12:03:01.5937500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ec569fa6-430e-4a6a-aa8b-80c3bd32ad66" testId="d0ef3d4e-31cb-a274-6e65-39f9492a235a" testName="ToStringWorks" computerName="HP-WORKSTATION" duration="00:00:00.0006436" startTime="2009-11-07T12:03:01.5937500+00:00" endTime="2009-11-07T12:03:01.5937500+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bb4a0253-a8a9-4e4b-89ae-16a1bd87c30a" testId="d779b876-1f71-d7d4-35d2-1d61e1f90580" testName="RemovingOnlyItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0008084" startTime="2009-11-07T12:03:01.6093750+00:00" endTime="2009-11-07T12:03:01.6093750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f38958cd-1430-46ee-a175-4d20610d115c" testId="e0974bb9-6aa7-8ee7-664e-8600d5f9a298" testName="CanGetSingleItem" computerName="HP-WORKSTATION" duration="00:00:00.0008850" startTime="2009-11-07T12:03:01.6093750+00:00" endTime="2009-11-07T12:03:01.6093750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3ad2e93f-43e3-4a66-a3a6-a8f8afdb0505" testId="e7912b7c-f30c-dc7d-66cd-8543889ef661" testName="RemoveFromEmpty_listFails" computerName="HP-WORKSTATION" duration="00:00:00.0005514" startTime="2009-11-07T12:03:01.6093750+00:00" endTime="2009-11-07T12:03:01.6093750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b5a3d657-bf8f-48d2-a9e8-2c3996818e32" testId="ef9f1fd5-fe4c-9c8a-faa8-34afd26c97c9" testName="CanGetMultipleItems" computerName="HP-WORKSTATION" duration="00:00:00.0009168" startTime="2009-11-07T12:03:01.6093750+00:00" endTime="2009-11-07T12:03:01.6093750+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="70d52185-6655-47d4-a296-46f175b38e4d" testId="faac8a3b-672c-4821-37e9-218aec3b37d6" testName="RemovingFirstItemWorks" computerName="HP-WORKSTATION" duration="00:00:00.0004609" startTime="2009-11-07T12:03:01.6250000+00:00" endTime="2009-11-07T12:03:01.6250000+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

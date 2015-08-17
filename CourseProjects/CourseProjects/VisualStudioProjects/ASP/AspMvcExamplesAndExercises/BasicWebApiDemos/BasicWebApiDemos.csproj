@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C3814E19-2B15-47D5-9B47-73D98B7EB428}</ProjectGuid>
+    <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BasicWebApiDemos</RootNamespace>
+    <AssemblyName>BasicWebApiDemos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.0.0\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Providers">
+      <HintPath>..\packages\Microsoft.AspNet.Providers.Core.1.1\lib\net40\System.Web.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.1.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.1.0\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UsersController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\jQueryUsersClient.html" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\AdapterRegistry.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\back.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\behavior.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\build.txt" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cache.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\monetary.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\hebrew.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\islamic-civil.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ar\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ca\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ca\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ca\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\cs\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\cs\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\cs\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\da\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\da\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\da\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\da\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\da\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\de\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\de\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\de\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\de\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\de\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\el\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\el\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\el\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\el\hebrew.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\el\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-au\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-au\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-au\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-ca\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-ca\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-gb\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-gb\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-gb\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en-gb\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\en\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\es\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\es\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\es\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\es\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\es\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\hebrew.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fi\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fr-ch\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fr-ch\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fr\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fr\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\fr\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\hebrew.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\he\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\he\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\he\hebrew.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\he\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\he\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\hu\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\hu\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\hu\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\it\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\it\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\it\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ja\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ja\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ja\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ko\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ko\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ko\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nb\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nb\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nb\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nl\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nl\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\nl\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pl\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pl\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pl\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pt-pt\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pt-pt\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pt\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pt\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\pt\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ro\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ro\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ro\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ro\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ru\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ru\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\ru\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sk\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sk\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sk\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sl\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sl\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sl\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sv\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sv\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\sv\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\th\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\th\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\th\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\th\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\tr\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\tr\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\tr\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hant\buddhist.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hant\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hant\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hant\islamic.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hant\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hk\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hk\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-hk\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-tw\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh-tw\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh\gregorian.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\nls\zh\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\supplemental.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cookie.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\currency.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\api\Identity.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\api\Notification.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\api\Read.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\api\Request.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\api\Write.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\ItemFileReadStore.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\ItemFileWriteStore.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\ObjectStore.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\util\filter.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\util\simpleFetch.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\data\util\sorter.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\date.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\date\locale.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\date\stamp.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\DeferredList.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\autoscroll.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Avatar.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\common.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Container.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Manager.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\move.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Moveable.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Mover.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Selector.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\Source.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dnd\TimedMoveable.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dojo.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\dojo.js.uncompressed.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\fx.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\fx\easing.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\fx\Toggler.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\gears.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\hash.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\html.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\i18n.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\io\iframe.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\io\script.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\jaxer.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\lib\backCompat.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\lib\kernel.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\lib\main-browser.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\lib\plugins\i18n.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\lib\plugins\text.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ar\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ca\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\cs\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\da\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\de\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\el\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\es\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\fi\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\fr\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\he\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\hu\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\it\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ja\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\kk\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ko\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\nb\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\nl\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\pl\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\pt-pt\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\pt\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ro\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\ru\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\sk\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\sl\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\sv\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\th\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\tr\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\zh-tw\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\nls\zh\colors.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\NodeList-data.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\NodeList-fx.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\NodeList-html.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\NodeList-manipulate.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\NodeList-traverse.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\number.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\OpenAjax.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\parser.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\regexp.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\blank.gif" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\blank.html" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\dnd.css" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\dojo.css" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\iframe_history.html" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\images\dndCopy.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\images\dndMove.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\images\dndNoCopy.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\images\dndNoMove.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\_modules.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\robot.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\robotx.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\rpc\JsonpService.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\rpc\JsonService.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\rpc\RpcService.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\Stateful.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\Cache.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\DataStore.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\JsonRest.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\Memory.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\Observable.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\util\QueryResults.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\util\SimpleQueryEngine.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\string.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\uacss.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\window.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\array.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\browser.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\Color.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\connect.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\declare.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\Deferred.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\event.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\fx.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\html.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\json.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\lang.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\NodeList.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\query-sizzle.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\query.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\window.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\xhr.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\bootstrap.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\hostenv_browser.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\hostenv_ff_ext.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\hostenv_rhino.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\hostenv_spidermonkey.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\loader.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\loader_debug.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_base\_loader\loader_xd.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\errorIcon.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\firebug.css" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\firebug.js" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\infoIcon.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\tab_lft_norm.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\tab_lft_over.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\tab_rgt_norm.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\tab_rgt_over.png" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\warningIcon.png" />
+    <Content Include="Content\DojoUsersClient.html" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="Content\themes\base\jquery.ui.all.css" />
+    <Content Include="Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="Content\themes\base\jquery.ui.base.css" />
+    <Content Include="Content\themes\base\jquery.ui.button.css" />
+    <Content Include="Content\themes\base\jquery.ui.core.css" />
+    <Content Include="Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\LICENSE" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\cldr\README" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\LICENSE" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\package.json" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\resources\LICENSE" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\store\README" />
+    <Content Include="Content\dojo-release-1.6.0\dojo\_firebug\LICENSE" />
+    <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\jquery-1.7.1.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-ui-1.8.20.js" />
+    <Content Include="Scripts\jquery-ui-1.8.20.min.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\knockout-2.1.0.debug.js" />
+    <Content Include="Scripts\knockout-2.1.0.js" />
+    <Content Include="Scripts\modernizr-2.5.3.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.css" />
+    <Content Include="Images\accent.png" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\heroAccent.png" />
+    <Content Include="Images\orderedList0.png" />
+    <Content Include="Images\orderedList1.png" />
+    <Content Include="Images\orderedList2.png" />
+    <Content Include="Images\orderedList3.png" />
+    <Content Include="Images\orderedList4.png" />
+    <Content Include="Images\orderedList5.png" />
+    <Content Include="Images\orderedList6.png" />
+    <Content Include="Images\orderedList7.png" />
+    <Content Include="Images\orderedList8.png" />
+    <Content Include="Images\orderedList9.png" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52504/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

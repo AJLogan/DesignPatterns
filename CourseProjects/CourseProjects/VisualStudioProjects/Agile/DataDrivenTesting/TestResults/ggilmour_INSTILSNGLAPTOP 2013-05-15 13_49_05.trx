@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bf339de1-5f84-4c9d-baf8-30054613468e" name="ggilmour@INSTILSNGLAPTOP 2013-05-15 13:49:05" runUser="InstilSngLaptop\ggilmour" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="485879c6-563f-4449-9e13-f51cd5798057">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="ggilmour_INSTILSNGLAPTOP 2013-05-15 13_49_05" />
+  </TestSettings>
+  <Times creation="2013-05-15T13:49:05.4981429+01:00" queuing="2013-05-15T13:49:05.6749426+01:00" start="2013-05-15T13:49:05.6959519+01:00" finish="2013-05-15T13:49:06.6386213+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DataDrivenTest" storage="c:\development\dotnet\fullyvs2010\courseprojects\agile\datadriventesting\writingdatadriventests\bin\debug\writingdatadriventests.dll" id="b029f1fb-f70d-6cb7-be99-82efd4f81ed6">
+      <DeploymentItems>
+        <DeploymentItem filename="WritingDataDrivenTests\TestData\Input.xml" />
+      </DeploymentItems>
+      <Execution id="2129257f-6120-457b-a695-30c7da242d20" />
+      <TestMethod codeBase="C:/Development/DotNet/FullyVS2010/CourseProjects/Agile/DataDrivenTesting/WritingDataDrivenTests/bin/Debug/WritingDataDrivenTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DataDrivenTesting.SampleTest, WritingDataDrivenTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DataDrivenTest" />
+      <DataSource connectionString="|DataDirectory|\Input.xml" providerInvariantName="Microsoft.VisualStudio.TestTools.DataSource.XML" tableName="Employee" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" executionId="2129257f-6120-457b-a695-30c7da242d20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2129257f-6120-457b-a695-30c7da242d20" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.3429341" startTime="2013-05-15T13:49:05.6989595+01:00" endTime="2013-05-15T13:49:06.5315494+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2129257f-6120-457b-a695-30c7da242d20" resultType="DataDrivenTest">
+      <Counters error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+      <InnerResults>
+        <UnitTestResult executionId="fc57a2c5-b400-4b67-94f4-ad7eec75633e" parentExecutionId="2129257f-6120-457b-a695-30c7da242d20" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.1240127" startTime="2013-05-15T13:49:06.3623967+01:00" endTime="2013-05-15T13:49:06.5015293+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2129257f-6120-457b-a695-30c7da242d20" dataRowInfo="0" resultType="DataDrivenDataRow">
+          <Output>
+            <ErrorInfo>
+              <Message>Test method DataDrivenTesting.SampleTest.DataDrivenTest threw exception: 
+System.FormatException: Input string was not in a correct format.</Message>
+              <StackTrace>    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at DataDrivenTesting.SampleTest.DataDrivenTest() in C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\SampleTest.cs:line 23
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="4a89c824-8369-44ba-8e7b-f283ae2546e0" parentExecutionId="2129257f-6120-457b-a695-30c7da242d20" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0049798" startTime="2013-05-15T13:49:06.5015293+01:00" endTime="2013-05-15T13:49:06.5065327+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2129257f-6120-457b-a695-30c7da242d20" dataRowInfo="1" resultType="DataDrivenDataRow">
+          <Output>
+            <ErrorInfo>
+              <Message>Test method DataDrivenTesting.SampleTest.DataDrivenTest threw exception: 
+System.FormatException: Input string was not in a correct format.</Message>
+              <StackTrace>    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at DataDrivenTesting.SampleTest.DataDrivenTest() in C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\SampleTest.cs:line 23
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+        <UnitTestResult executionId="35935fab-3881-4aa3-8fd4-923f6983b0ca" parentExecutionId="2129257f-6120-457b-a695-30c7da242d20" testId="b029f1fb-f70d-6cb7-be99-82efd4f81ed6" testName="DataDrivenTest" computerName="INSTILSNGLAPTOP" duration="00:00:00.0041630" startTime="2013-05-15T13:49:06.5065327+01:00" endTime="2013-05-15T13:49:06.5105353+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2129257f-6120-457b-a695-30c7da242d20" dataRowInfo="2" resultType="DataDrivenDataRow">
+          <Output>
+            <ErrorInfo>
+              <Message>Test method DataDrivenTesting.SampleTest.DataDrivenTest threw exception: 
+System.FormatException: Input string was not in a correct format.</Message>
+              <StackTrace>    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   at System.Convert.ToDouble(Object value)
+   at DataDrivenTesting.SampleTest.DataDrivenTest() in C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\SampleTest.cs:line 23
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+      </InnerResults>
+    </UnitTestResult>
+  </Results>
+</TestRun>

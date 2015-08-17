@@ -1,0 +1,35 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="MySuite">
+    <groups>
+      <group name="inserts">
+        <method signature="demos.tdd.testng.advanced.LinkedListTest.addSingleItem()" name="addSingleItem" class="demos.tdd.testng.advanced.LinkedListTest"/>
+      </group>
+      <group name="basic">
+        <method signature="demos.tdd.testng.advanced.LinkedListTest.removeFirstItem()" name="removeFirstItem" class="demos.tdd.testng.advanced.LinkedListTest"/>
+        <method signature="demos.tdd.testng.advanced.LinkedListTest.addSingleItem()" name="addSingleItem" class="demos.tdd.testng.advanced.LinkedListTest"/>
+        <method signature="demos.tdd.testng.advanced.LinkedListTest.newList()" name="newList" class="demos.tdd.testng.advanced.LinkedListTest"/>
+      </group>
+      <group name="deletes">
+        <method signature="demos.tdd.testng.advanced.LinkedListTest.removeFirstItem()" name="removeFirstItem" class="demos.tdd.testng.advanced.LinkedListTest"/>
+      </group>
+    </groups>
+    <test name="Sanity Tests">
+      <class name="demos.tdd.testng.advanced.LinkedListTest">
+        <test-method status="PASS" signature="start()" name="start" is-config="true" duration-ms="359" started-at="2008-06-29T21:37:40Z" finished-at="2008-06-29T21:37:40Z">
+        </test-method>
+        <test-method status="PASS" signature="addSingleItem()" name="addSingleItem" duration-ms="0" started-at="2008-06-29T21:37:40Z" finished-at="2008-06-29T21:37:40Z">
+        </test-method>
+        <test-method status="PASS" signature="start()" name="start" is-config="true" duration-ms="360" started-at="2008-06-29T21:37:40Z" finished-at="2008-06-29T21:37:40Z">
+        </test-method>
+        <test-method status="PASS" signature="start()" name="start" is-config="true" duration-ms="375" started-at="2008-06-29T21:37:40Z" finished-at="2008-06-29T21:37:41Z">
+        </test-method>
+        <test-method status="PASS" signature="newList()" name="newList" duration-ms="0" started-at="2008-06-29T21:37:41Z" finished-at="2008-06-29T21:37:41Z">
+        </test-method>
+        <test-method status="PASS" signature="removeFirstItem()" name="removeFirstItem" duration-ms="0" started-at="2008-06-29T21:37:40Z" finished-at="2008-06-29T21:37:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

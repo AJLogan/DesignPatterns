@@ -1,0 +1,41 @@
+@section scripts {
+	<script type="text/javascript">
+            function handleSubmit(theEvent) {
+                console.log("Form submit event fired...");
+                theEvent.preventDefault();
+            }
+            function handleFirstSubmit(theEvent) {
+                console.log("Form submit event fired for the first time");
+            }
+            function handleEvent(theEvent) {
+                console.log("Event of type '" + theEvent.type + "' fired at "
+                            + theEvent.pageX + "," + theEvent.pageY);
+            }
+            $(document).ready( function () {
+                var targetNodes = $("#target");
+                targetNodes.bind("mouseover", handleEvent);
+                targetNodes.bind("mouseout", handleEvent);
+                targetNodes.bind("focus", handleEvent);
+                targetNodes.bind("keydown", handleEvent);
+                targetNodes.bind("keyup", handleEvent);
+                targetNodes.bind("keypress", handleEvent);
+                targetNodes.bind("click", handleEvent);
+
+                $("#myform").bind("submit", handleSubmit).one("submit", handleFirstSubmit);
+            });
+        </script>
+}
+<h1>jQuery Event Handling</h1>
+<form id="myform" action="nowhere" method="post">
+    <p>
+        This text box is the source of all the events
+        except form submission...
+    </p>
+    <p>
+        <input type="text" id="target" size="15"/>
+    </p>
+    <p>
+        <input type="submit" value="Submit Form"/>
+    </p>
+</form>
+

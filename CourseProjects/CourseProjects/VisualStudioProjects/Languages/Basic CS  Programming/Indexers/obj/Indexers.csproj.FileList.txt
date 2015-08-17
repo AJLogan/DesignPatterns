@@ -1,0 +1,5 @@
+obj\Debug\CSharpIndexers.exe
+obj\Debug\CSharpIndexers.pdb
+bin\Debug\CSharpIndexers.exe
+bin\Debug\CSharpIndexers.pdb
+obj\Debug\ResolveAssemblyReference.cache

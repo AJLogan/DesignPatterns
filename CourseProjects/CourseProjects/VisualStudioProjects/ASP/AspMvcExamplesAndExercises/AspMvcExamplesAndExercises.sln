@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseBookingStandaloneCS", "CourseBookingStandaloneCS\CourseBookingStandaloneCS.csproj", "{025BEF8D-58EA-44E6-90D0-A4CA55EFD280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseBookingStandaloneCS.Tests", "CourseBookingStandaloneCS.Tests\CourseBookingStandaloneCS.Tests.csproj", "{DEF18B35-FE48-4452-AD18-C520B8300773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAspMvcDemos", "BasicAspMvcDemos\BasicAspMvcDemos.csproj", "{625B98F4-920E-4CF2-B736-10C801C8493E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebApiDemos", "BasicWebApiDemos\BasicWebApiDemos.csproj", "{C3814E19-2B15-47D5-9B47-73D98B7EB428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebApiDemos.Tests", "BasicWebApiDemos.Tests\BasicWebApiDemos.Tests.csproj", "{68F981D1-8C39-451A-BFEA-C3C0CE40B214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseBookingMobileCS", "CourseBookingMobileCS\CourseBookingMobileCS.csproj", "{50518285-707F-488A-AC50-961481CAE218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025BEF8D-58EA-44E6-90D0-A4CA55EFD280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BEF8D-58EA-44E6-90D0-A4CA55EFD280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BEF8D-58EA-44E6-90D0-A4CA55EFD280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BEF8D-58EA-44E6-90D0-A4CA55EFD280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF18B35-FE48-4452-AD18-C520B8300773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF18B35-FE48-4452-AD18-C520B8300773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF18B35-FE48-4452-AD18-C520B8300773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF18B35-FE48-4452-AD18-C520B8300773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625B98F4-920E-4CF2-B736-10C801C8493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625B98F4-920E-4CF2-B736-10C801C8493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625B98F4-920E-4CF2-B736-10C801C8493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625B98F4-920E-4CF2-B736-10C801C8493E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3814E19-2B15-47D5-9B47-73D98B7EB428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3814E19-2B15-47D5-9B47-73D98B7EB428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3814E19-2B15-47D5-9B47-73D98B7EB428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3814E19-2B15-47D5-9B47-73D98B7EB428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F981D1-8C39-451A-BFEA-C3C0CE40B214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F981D1-8C39-451A-BFEA-C3C0CE40B214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F981D1-8C39-451A-BFEA-C3C0CE40B214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F981D1-8C39-451A-BFEA-C3C0CE40B214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50518285-707F-488A-AC50-961481CAE218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50518285-707F-488A-AC50-961481CAE218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50518285-707F-488A-AC50-961481CAE218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50518285-707F-488A-AC50-961481CAE218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

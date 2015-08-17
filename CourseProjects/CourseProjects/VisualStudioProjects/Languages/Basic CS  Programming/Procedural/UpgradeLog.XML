@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Procedural">
+</Property><Property Name="Solution File" Value="D:\development\dotnet_examples_v2\C# Programming\Procedural\Procedural.sln">
+</Property><Property Name="Date" Value="15 July 2006">
+</Property><Property Name="Time" Value="22:02">
+</Property></Properties><Event ErrorLevel="0" Project="Procedural" Source="Procedural.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Procedural" Source="Procedural.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Procedural.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Procedural.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Procedural" Source="Procedural.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,33 @@
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\TypeInferenceCS\obj\Debug\ResolveAssemblyReference.cache
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\development\bcc\CourseProjects\VS2008LanguageFeatures\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\Development\dotnet\VS2008\VS2008LanguageFeatures\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+C:\Development\dotnet\VS2008\VS2008 Features\TypeInferenceCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\dotnet\VS2008\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\Development\dotnet\VS2008\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\ResolveAssemblyReference.cache
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+E:\Deliveries\DotNetLitJune2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\ResolveAssemblyReference.cache
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\CurrentBuilds\DotNetLitSept2011\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+E:\Development\VS2010\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+E:\Development\VS2010\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+C:\CurrentBuilds\AdvancedDotNetLitAugust2012\Materials\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\bin\Debug\TypeInferenceCS.pdb
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.exe
+C:\Development\DotNet\FullyVS2012\CourseProjects\Languages\VS2008 Features\TypeInferenceCS\obj\Debug\TypeInferenceCS.pdb

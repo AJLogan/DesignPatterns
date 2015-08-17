@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll" total="3" failures="0" not-run="0" date="2009-01-10" time="19:25:45">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.8\bin" machine-name="HP-WORKSTATION" user="Administrator" user-domain="HP-WORKSTATION" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite name="C:\Development\dotnet\VS2008\Agile Development\Introducing NUnit\NUnitWithVB\bin\TestBasicMath.dll" success="True" time="0.047" asserts="0">
+    <results>
+      <test-suite name="TestBasicMath" success="True" time="0.047" asserts="0">
+        <results>
+          <test-suite name="TestBasicMath" success="True" time="0.047" asserts="0">
+            <results>
+              <test-case name="TestBasicMath.TestBasicMath.testAddition" executed="True" success="True" time="0.016" asserts="1" />
+              <test-case name="TestBasicMath.TestBasicMath.testMultiplication" executed="True" success="True" time="0.000" asserts="1" />
+              <test-case name="TestBasicMath.TestBasicMath.testSubtraction" executed="True" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

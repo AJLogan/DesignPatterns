@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="MvvmDemo.View.IntervalPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:uc="clr-namespace:MvvmDemo.View" Height="184" Width="196">
+    
+    <UserControl.Resources>
+        <Style TargetType="TextBlock" x:Key="DialText">
+            <Setter Property="FontFamily" Value="Tahoma"/>
+            <Setter Property="Foreground" Value="LightGray" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsEnabled}" Value="true">
+                    <Setter Property="Foreground" Value="Black" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="DialName">
+            <Setter Property="Foreground" Value="LightGray" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsEnabled}" Value="true">
+                    <Setter Property="Foreground" Value="White" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="Image" x:Key="DialBackground">
+            <Setter Property="Source" Value="../Images/dial.png" />
+            <Setter Property="Width" Value="219" />
+            <Setter Property="Height" Value="77" />
+            <Setter Property="Source" Value="../Images/dial.png" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding DialName}" Value="S5">
+                    <Setter Property="Source" Value="../Images/dial-blue.png" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding DialName}" Value="S6">
+                    <Setter Property="Source" Value="../Images/dial-blue.png" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding IsWarning}" Value="true">
+                    <Setter Property="Source" Value="../Images/dial-yellow.png" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+
+    </UserControl.Resources>
+    
+    <Canvas>
+        <Image Style="{StaticResource DialBackground}" />
+        <TextBlock Style="{StaticResource DialName}" Canvas.Left="14" Canvas.Top="3" FontSize="30" Text="{Binding Path=DialName}" />
+        <TextBlock Style="{StaticResource DialText}" Canvas.Left="55" Canvas.Top="9" FontSize="11" Text="Interval (mS)" />
+        <TextBlock Style="{StaticResource DialText}" Canvas.Left="54" Canvas.Top="11" FontSize="51" Text="{Binding Path=Thousands}" Height="58" Width="29" />
+        <TextBlock Style="{StaticResource DialText}" Canvas.Left="96" Canvas.Top="11" FontSize="51" Text="{Binding Path=Hundreds}" Height="58" Width="29" />
+        <TextBlock Style="{StaticResource DialText}" Canvas.Left="136" Canvas.Top="11" FontSize="51" Text="{Binding Path=Tens}" Height="58" Width="29" />
+        <TextBlock Style="{StaticResource DialText}" Canvas.Left="176" Canvas.Top="11" FontSize="51" Text="0" Height="58" Width="29" />
+        <uc:IncreaseRepeatButton Canvas.Left="38" Canvas.Top="81" IncreaseCommand="{Binding IncreaseThousandsCommand}" />
+        <uc:DecreaseRepeatButton Canvas.Left="38" Canvas.Top="81" DecreaseCommand="{Binding DecreaseThousandsCommand}" />
+        <uc:IncreaseRepeatButton Canvas.Left="80" Canvas.Top="81" IncreaseCommand="{Binding IncreaseHundredsCommand}" />
+        <uc:DecreaseRepeatButton Canvas.Left="80" Canvas.Top="81" DecreaseCommand="{Binding DecreaseHundredsCommand}" />
+        <uc:IncreaseRepeatButton Canvas.Left="121" Canvas.Top="81" IncreaseCommand="{Binding IncreaseTensCommand}" />
+        <uc:DecreaseRepeatButton Canvas.Left="121" Canvas.Top="81" DecreaseCommand="{Binding DecreaseTensCommand}" />
+    </Canvas>
+</UserControl>

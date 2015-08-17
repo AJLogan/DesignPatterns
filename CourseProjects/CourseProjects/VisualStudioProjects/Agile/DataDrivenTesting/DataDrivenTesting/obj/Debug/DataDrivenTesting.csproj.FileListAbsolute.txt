@@ -1,0 +1,5 @@
+C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\DataDrivenTesting\bin\Debug\DataDrivenTesting.dll
+C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\DataDrivenTesting\bin\Debug\DataDrivenTesting.pdb
+C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\DataDrivenTesting\obj\Debug\DataDrivenTesting.csprojResolveAssemblyReference.cache
+C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\DataDrivenTesting\obj\Debug\DataDrivenTesting.dll
+C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\DataDrivenTesting\obj\Debug\DataDrivenTesting.pdb
