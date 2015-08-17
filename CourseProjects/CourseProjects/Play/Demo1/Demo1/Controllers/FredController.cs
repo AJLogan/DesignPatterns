@@ -15,9 +15,10 @@ namespace Demo1.Controllers
         {
             return View();
         }
-        public string Wilma(string username)
+        public ViewResult Wilma(string username)
         {
-            return "<h1>Hello "+ username + "</h1>";
+            ViewData.Model = username;
+            return View("Pebbles");
         }
 
     }
