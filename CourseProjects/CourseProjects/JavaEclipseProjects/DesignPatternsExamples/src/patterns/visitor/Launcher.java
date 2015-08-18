@@ -13,6 +13,9 @@ public class Launcher {
 		Visitor v2 = new XMLFormatVisitor(new FileWriter("output" + File.separator + "visitor.xml"));
 		doc.acceptVisitor(v2);
 		
+		Visitor v3 = new WordCountVisitor(new FileWriter("output" + File.separator + "wordCount.xml"));
+		doc.acceptVisitor(v3);
+		
 		System.out.println("Reports generated");
 	}
 
