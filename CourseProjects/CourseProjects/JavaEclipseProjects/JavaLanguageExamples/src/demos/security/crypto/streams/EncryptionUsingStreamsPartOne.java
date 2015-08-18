@@ -10,11 +10,14 @@ public class EncryptionUsingStreamsPartOne {
 	private static final String keyFile = "output" + File.separator + "key.out";
 
 	public static void main(String[] args) throws Exception {
+		//Find the DES Algorithm Provider
         KeyGenerator generator = KeyGenerator.getInstance("DES");
+        //Generate a key using the provider that we just loaded
         SecretKey key = generator.generateKey();
         
         Cipher cipher = Cipher.getInstance("DES/CFB8/NoPadding");
         cipher.init(Cipher.ENCRYPT_MODE,key);
+        //Initialisation Vector - random start character to Exclusively OR the first byte of the string against to kick off the chain
         IvParameterSpec iv = new IvParameterSpec(cipher.getIV());
         
         CipherOutputStream cipherOutput = new CipherOutputStream(new FileOutputStream(cypherTextFile),cipher);
