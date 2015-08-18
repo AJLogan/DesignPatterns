@@ -9,6 +9,7 @@ public class Section implements Visited {
 	
 	public void acceptVisitor(Visitor v) {
 		v.visitSectionStart(this);
+		title.acceptVisitor(v);
 		for(Paragraph p : paragraphs) {
 			p.acceptVisitor(v);
 		}
