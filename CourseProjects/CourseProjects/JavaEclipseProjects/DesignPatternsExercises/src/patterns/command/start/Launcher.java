@@ -1,7 +1,9 @@
 package patterns.command.start;
 
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Launcher {
@@ -10,36 +12,27 @@ public class Launcher {
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		List<String> list = new LinkedList<String>();
-		while(true) {
+
+		Map<String, Command> commands = new HashMap<String, Command>();
+		commands.put("add", new AddCommand(scanner, list));
+		commands.put("print", new GetCommand(scanner, list));
+		commands.put("remove", new RemoveCommand(scanner, list));
+		commands.put("undo", new UndoCommand(scanner, list));
+		commands.put("redo", new RedoCommand(scanner, list));
+		commands.put("quit", new QuitCommand(scanner, list));
+
+		while (true) {
 			printMenu();
 			String choice = scanner.nextLine();
-			if(choice.equals("add")) {
-				System.out.println("Enter a string to add");
-				String item = scanner.nextLine();
-				list.add(item);
-			} else if(choice.equals("get")) {
-				System.out.println("Enter an index");
-				int index = scanner.nextInt();
-				System.out.printf("Item at %d is %s\n",index,list.get(index));
-			} else if(choice.equals("remove")) {
-				System.out.println("Enter an index");
-				int index = scanner.nextInt();
-				System.out.printf("Item %s removed from position %d\n",list.remove(index),index);
-			} else if(choice.equals("print")) {
-				System.out.println("Contents of list are: ");
-				for(String str : list) {
-					System.out.println("\t" + str); 
-				}
-			} else if(choice.equals("undo")) {
-				System.out.println("NOT IMPLEMENTED YET!");
-			} else if(choice.equals("redo")) {
-				System.out.println("NOT IMPLEMENTED YET!");
-			} else if(choice.equals("quit"))  {
-				System.out.println("Thanks for playing!");
-				break;
+
+			Command current = commands.get(choice);
+			if (current != null) {
+				current.execute();
+				continue;
 			}
 		}
 	}
+
 	private static void printMenu() {
 		System.out.println("Choose an option:");
 		System.out.println("\t [add] a string to the list");
