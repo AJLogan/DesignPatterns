@@ -23,13 +23,19 @@ public class ProxyImpl implements InvocationHandler {
     private double calculateTax(double amt) {
         return (amt/100) * 20;
     }
+    
+    private String concatenate(String p1, String p2){
+    	return p1.concat(p2);
+    }
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         String name = method.getName();
         if(method.getDeclaringClass() == Finance.class) {
             return processFinanceMethod(args, name);
-        } else {
+        } else if (method.getDeclaringClass() == Maths.class){
 	        return processMathMethod(args, name);
-        } 
+        } else {
+        	return processWordMethod(args, name);
+        }
     }
     private Object processMathMethod(Object[] args, String name) {
         double paramOne = ((Double)args[0]).doubleValue();
@@ -52,6 +58,16 @@ public class ProxyImpl implements InvocationHandler {
             return new Double(calculateVat(paramOne));
         } else if(name.equals("calculateTax")) {
             return new Double(calculateTax(paramOne));
+        } else {
+            return null;
+        }
+    }
+    
+    private Object processWordMethod(Object[] args, String name) {
+        String paramOne = (String.valueOf(args[0]));
+        String paramTwo = (String.valueOf(args[1]));
+        if(name.equals("concatenate")) {
+            return new String(concatenate(paramOne,paramTwo));
         } else {
             return null;
         }
