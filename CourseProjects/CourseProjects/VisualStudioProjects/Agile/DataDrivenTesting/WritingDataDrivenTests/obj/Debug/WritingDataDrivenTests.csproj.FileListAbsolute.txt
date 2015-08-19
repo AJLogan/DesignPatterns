@@ -1,4 +1,0 @@
-C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\bin\Debug\WritingDataDrivenTests.dll
-C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\bin\Debug\WritingDataDrivenTests.pdb
-C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\obj\Debug\WritingDataDrivenTests.dll
-C:\Development\DotNet\FullyVS2010\CourseProjects\Agile\DataDrivenTesting\WritingDataDrivenTests\obj\Debug\WritingDataDrivenTests.pdb
