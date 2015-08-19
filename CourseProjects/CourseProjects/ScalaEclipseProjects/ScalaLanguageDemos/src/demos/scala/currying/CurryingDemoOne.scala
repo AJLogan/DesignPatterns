@@ -33,6 +33,6 @@ object CurryingDemoOne {
     println(func1(7))
     println(func2(7))
     println(func3(7))
-    println(func4(7))
+    println(func4(12))
   }
 }
