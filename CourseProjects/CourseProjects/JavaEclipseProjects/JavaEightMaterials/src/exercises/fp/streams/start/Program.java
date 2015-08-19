@@ -4,7 +4,7 @@ package exercises.fp.streams.start;
 //  print out all the numbers, which are greater than 
 //  or equal to 0.5, formatted according to 'df' 
 
-/*
+
 import java.text.DecimalFormat;
 import java.util.stream.Stream;
 
@@ -15,7 +15,6 @@ public class Program {
     public static void main(String [] args) {
         Stream<Stream<Double>> input = buildInput();
         final DecimalFormat df = new DecimalFormat(".00");
-        
+        input.flatMap(e -> e).filter(x -> x >= 0.5).forEach(l -> System.out.println(df.format(l)));
     }
 }
-*/
