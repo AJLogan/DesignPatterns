@@ -12,10 +12,10 @@ object Program {
     f2("input.txt")
     f3("input.txt")
   }
-  def processLines(func :  (String) => Boolean)(fileName : String) {
+  def processLines(func: (String) => Boolean)(fileName: String) {
     val source = Source.fromFile(fileName)
     for (line <- source.getLines()) {
-      if(func(line)) {
+      if (func(line)) {
         println(line)
       }
     }
