@@ -5,22 +5,22 @@ import java.lang.reflect.Method;
 
 public class ProxyImpl implements InvocationHandler {
 
-    private double math_op1(double p1, double p2) {
+    private double add(double p1, double p2) {
         return p1+p2;
     }
-    private double math_op2(double p1, double p2) {
+    private double subtract(double p1, double p2) {
         return p1-p2;
     }
-    private double math_op3(double p1, double p2) {
+    private double multiply(double p1, double p2) {
         return p1*p2;
     }
-    private double math_op4(double p1, double p2) {
+    private double divide(double p1, double p2) {
         return p1/p2;
     }
-    private double finance_op1(double amt) {
+    private double calculateVat(double amt) {
         return (amt/100) * 17.5;
     }
-    private double finance_op2(double amt) {
+    private double calculateTax(double amt) {
         return (amt/100) * 20;
     }
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
@@ -35,13 +35,13 @@ public class ProxyImpl implements InvocationHandler {
         double paramOne = ((Double)args[0]).doubleValue();
         double paramTwo = ((Double)args[1]).doubleValue();
         if(name.equals("add")) {
-            return new Double(math_op1(paramOne,paramTwo));
+            return new Double(add(paramOne,paramTwo));
         } else if(name.equals("subtract")) {
-            return new Double(math_op2(paramOne,paramTwo));
+            return new Double(subtract(paramOne,paramTwo));
         } else if(name.equals("multiply")) {
-            return new Double(math_op3(paramOne,paramTwo));
+            return new Double(multiply(paramOne,paramTwo));
         } else if(name.equals("divide")) {
-            return new Double(math_op4(paramOne,paramTwo));
+            return new Double(divide(paramOne,paramTwo));
         } else {
             return null;
         }
@@ -49,9 +49,9 @@ public class ProxyImpl implements InvocationHandler {
     private Object processFinanceMethod(Object[] args, String name) {
         double paramOne = ((Double)args[0]).doubleValue();
         if(name.equals("calculateVat")) {
-            return new Double(finance_op1(paramOne));
+            return new Double(calculateVat(paramOne));
         } else if(name.equals("calculateTax")) {
-            return new Double(finance_op2(paramOne));
+            return new Double(calculateTax(paramOne));
         } else {
             return null;
         }
